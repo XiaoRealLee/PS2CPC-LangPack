@@ -93,7 +93,7 @@
   <str key="2646153978-ucdt" type="ucdt" originalKey="2646153978">&lt;font color="#00FFAA"&gt;Facilitator Campner:&lt;/font&gt; Greetings soldier, I have just been informed that you accepted our contract request. This mission is of vital importance to Nanite Systems' ongoing effort to stabilize Auraxis.</str>
   <str key="2646283876-ucdt" type="ucdt" originalKey="2646283876">Region Control 92%</str>
   <str key="2646332137-ugdt" type="ugdt" originalKey="2646332137">Russia Vehicle Decal</str>
-  <str key="2646348706-ucdt" type="ucdt" originalKey="2646348706">Contains special skinned versions of the NS-50 Gorgons, NS Decimator, and NS-11A. All factions can equip these items.</str>
+  <str key="2646348706-ucdt" type="ucdt" originalKey="2646348706">Contains special skinned versions of the NS-20 Gorgons, NS Decimator, and NS-11A. All factions can equip these items.</str>
   <str key="2646363806-ucdt" type="ucdt" originalKey="2646363806">Default Reflex Sight</str>
   <str key="2646394117-ucdt" type="ucdt" originalKey="2646394117">NFI-2000 Turbo</str>
   <str key="2646435739-ucdt" type="ucdt" originalKey="2646435739">Harasser Hubcap 20</str>
@@ -577,7 +577,7 @@
   <str key="2684623629-ucdt" type="ucdt" originalKey="2684623629">Activate to override the Defector's cooling system regulators turning it into a walking bomb that explodes at the end of 12 seconds, dealing heavy damage to you and nearby enemies. While active, you gain 25% additional armor, lose 10% movement speed, and weapons no longer produce heat. If killed before the countdown is complete, you will be defused.</str>
   <str key="2684630495-ugdt" type="ugdt" originalKey="2684630495">Legacy - Awareness</str>
   <str key="2684636624-ucdt" type="ucdt" originalKey="2684636624">Cert Grant Item</str>
-  <str key="2684740051-ugdt" type="ugdt" originalKey="2684740051">Desert Zebra camo</str>
+  <str key="2684740051-ugdt" type="ugdt" originalKey="2684740051">Desert Zebra Camo</str>
   <str key="2684916128-ucdt" type="ucdt" originalKey="2684916128">Bundle contains equivalent gear for all 3 Empires. The Heroic Boost can only be used by the character that purchased this bundle.</str>
   <str key="2684936599-ucdt" type="ucdt" originalKey="2684936599">Searhus</str>
   <str key="2684958748-ucdt" type="ucdt" originalKey="2684958748">NC MAX</str>
@@ -674,7 +674,7 @@
   <str key="2691414702-ucdt" type="ucdt" originalKey="2691414702">Neutralize one last vehicle and return it to your Warpgate</str>
   <str key="2691454073-ugdt" type="ugdt" originalKey="2691454073">CAS30 Tank Buster</str>
   <str key="2691512241-ucdt" type="ucdt" originalKey="2691512241">&lt;font color="#00FFAA"&gt;Warden Hadley:&lt;/font&gt; Nice work, soldier. Because of your efforts we were able to track down the origin of the signal. That's odd. It seems to be coming from an asteroid. "Desolation."</str>
-  <str key="2691518139-ucdt" type="ucdt" originalKey="2691518139">Grants access to the Ammunition Belt which allows soldiers to carry 1 additional magazine for both their primary and sidearm weapons.</str>
+  <str key="2691518139-ucdt" type="ucdt" originalKey="2691518139">Grants access to the Ammunition Belt which allows soldiers to carry 1 additional magazine for both their primary and sidearm weapons, and increases reload speed by 15% for weapons in those slots.</str>
   <str key="2691592982-ucdt" type="ucdt" originalKey="2691592982">Platoon Map Tactical Overlay Updated!</str>
   <str key="2691718960-ucdt" type="ucdt" originalKey="2691718960">NS-10G Burster</str>
   <str key="2691758188-ucdt" type="ucdt" originalKey="2691758188">Monitor Helmet</str>

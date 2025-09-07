@@ -1,0 +1,1463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+  <str key="1688983-ucdt" type="ucdt" originalKey="1688983">钓鱼</str>
+  <str key="5102568-ucdt" type="ucdt" originalKey="5102568">用爱心轰炸机喇叭分享你的爱。所有阵营都可以使用此装备。</str>
+  <str key="7765473-ucdt" type="ucdt" originalKey="7765473">2025情人节</str>
+  <str key="8815076-ucdt" type="ucdt" originalKey="8815076">为你的装甲、武器和载具添加迷彩。仅限NC使用。</str>
+  <str key="14082383-ucdt" type="ucdt" originalKey="14082383">&lt;font color="#9b4eb6"&gt;灰色装饰鳞片动态迷彩&lt;/font&gt;</str>
+  <str key="14908782-ucdt" type="ucdt" originalKey="14908782">扫描大型鱼类30次</str>
+  <str key="16446113-ucdt" type="ucdt" originalKey="16446113">作为NSO框架实验系列的一部分 ，即“NSO德尔塔计划”。最初被设计为半自动作战单位，但在一场名为“极乐故障”的事件后，部分框架演变成了失控的人工智能体，而Nanite Systems会不惜一切代价掩盖此事。</str>
+  <str key="21012801-ucdt" type="ucdt" originalKey="21012801">2024情人节</str>
+  <str key="21228728-ucdt" type="ucdt" originalKey="21228728">改变载具的航迹云颜色。</str>
+  <str key="22092605-ucdt" type="ucdt" originalKey="22092605">征服 - Hossin</str>
+  <str key="23968720-ucdt" type="ucdt" originalKey="23968720">尤格霍提亚血浆破坏者</str>
+  <str key="24836874-ucdt" type="ucdt" originalKey="24836874">Zaephos, Linari</str>
+  <str key="25260747-ucdt" type="ucdt" originalKey="25260747">完成钓鱼成就</str>
+  <str key="33233220-ucdt" type="ucdt" originalKey="33233220">为你的驾驶舱增添个性化装饰，在挡风玻璃处添加涂装。仅限TR使用。</str>
+  <str key="33632677-ucdt" type="ucdt" originalKey="33632677">Galaxy爱心轰炸机航迹云</str>
+  <str key="35939464-ucdt" type="ucdt" originalKey="35939464">500鱼币</str>
+  <str key="41472184-ucdt" type="ucdt" originalKey="41472184">感应雷达4</str>
+  <str key="41826529-ucdt" type="ucdt" originalKey="41826529">占领能量容纳站15次。</str>
+  <str key="43507895-ucdt" type="ucdt" originalKey="43507895">Puzzler发盔</str>
+  <str key="53042929-ucdt" type="ucdt" originalKey="53042929">Nascent代表迷彩</str>
+  <str key="54281219-ucdt" type="ucdt" originalKey="54281219">部署一座弹药塔，为附近40米内的友方载具补充弹药。每隔60秒可以投放一次弹药。</str>
+  <str key="55737074-ucdt" type="ucdt" originalKey="55737074">电子脉冲涂装</str>
+  <str key="64688016-ucdt" type="ucdt" originalKey="64688016">NS-11C Frostbite糖果消音器</str>
+  <str key="66456333-ucdt" type="ucdt" originalKey="66456333">用爱心轰炸机喇叭分享你的爱。所有阵营都可以使用此装备。</str>
+  <str key="67239928-ucdt" type="ucdt" originalKey="67239928">探测器手雷</str>
+  <str key="68991886-ucdt" type="ucdt" originalKey="68991886">Cardona, Juno</str>
+  <str key="69306293-ucdt" type="ucdt" originalKey="69306293">配备了增强型的动能涂装和强化版的能量护盾，这款装甲为水下作战单位提供了最佳的防护性能，让特定在面对敌方火力时几乎处于不败之地。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有VS重型突击兵可装备此装甲。&lt;/font&gt;</str>
+  <str key="70021527-ucdt" type="ucdt" originalKey="70021527">部署一个货物设备，让附近友方载具获得“破门”能力，从而通过大门。冷却时间为60秒。</str>
+  <str key="70606036-ucdt" type="ucdt" originalKey="70606036">停止受到以下类型的伤害：重型炸药、反坦克地雷、轻型反载具、步兵火箭筒、步兵瞄准、坦克炮弹、空对地弹头。每层装甲板随着时间而独立再生。Sunderer恢复满血可以缩短再生时间，顺序如下：正面、左侧、右侧、背面、顶部、底部</str>
+  <str key="71046102-ucdt" type="ucdt" originalKey="71046102">克洛诺斯之眼是Terran Republic的维和部队，目标是让Republic公民安全返回地球。他们的科学家们昼夜不停地努力工作，只为实现这一目标。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的装甲或载具添加涂装。仅限Vanu Sovereignty阵营使用。&lt;/font&gt;</str>
+  <str key="74062693-ucdt" type="ucdt" originalKey="74062693">咕哝鱼是体型较小的普通淡水鱼，喜欢在浅水中慢慢游动，寻找食物——硬壳牡蛎。你在Auraxis的任何地方都可以找到呆呆咕哝鱼，而且很容易扫描。</str>
+  <str key="77750964-ucdt" type="ucdt" originalKey="77750964">Ward, Sofia</str>
+  <str key="84814664-ucdt" type="ucdt" originalKey="84814664">徒步穿越10000米的距离</str>
+  <str key="86676153-ucdt" type="ucdt" originalKey="86676153">停止受到以下类型的伤害：重型炸药、反坦克地雷、轻型反载具、步兵火箭筒、步兵瞄准、坦克炮弹、空对地弹头。每层装甲板为独立启动和再生，37秒后重新启动。Sunderer恢复满血可以缩短再生时间，顺序如下：正面、左侧、右侧、背面、顶部</str>
+  <str key="87022267-ucdt" type="ucdt" originalKey="87022267">幽影淡漠鱼</str>
+  <str key="87041657-ucdt" type="ucdt" originalKey="87041657">守卫Hossin的技术工厂。</str>
+  <str key="88259250-ucdt" type="ucdt" originalKey="88259250">钓鱼</str>
+  <str key="88383849-ucdt" type="ucdt" originalKey="88383849">部署后形成一层可以吸收伤害的护盾。这层护盾可持续恢复生命值，直到被摧毁。被摧毁后，这层护盾需要等待一段时间后才能重新启动。</str>
+  <str key="88850002-ucdt" type="ucdt" originalKey="88850002">加装侦察模组并升级无人机硬件，可将追踪敌方目标的时间延长至22秒。</str>
+  <str key="99943327-ucdt" type="ucdt" originalKey="99943327">使用SynthX“The Essence”诱鱼器30次</str>
+  <str key="101303264-ucdt" type="ucdt" originalKey="101303264">爱心轰炸机手雷</str>
+  <str key="104683900-ucdt" type="ucdt" originalKey="104683900">NS“Primed Ruby”碎片：铜质勋章</str>
+  <str key="106702185-ucdt" type="ucdt" originalKey="106702185">战争老兵：Miller横幅</str>
+  <str key="107073542-ucdt" type="ucdt" originalKey="107073542">Helbmanwyn, Lona</str>
+  <str key="107541162-ucdt" type="ucdt" originalKey="107541162">头衔：造船工人</str>
+  <str key="114602949-ucdt" type="ucdt" originalKey="114602949">为你的驾驶舱增添个性化装饰，在挡风玻璃处添加涂装。仅限NC使用。</str>
+  <str key="114741857-ucdt" type="ucdt" originalKey="114741857">全新礼包</str>
+  <str key="114768861-ucdt" type="ucdt" originalKey="114768861">这款扫描仪是专门为那些总是追求更多的人设计的。采用军用组件手工组装，它可以提供更强的扫描能力和更快的充电速率，堪称扫描任何现存海洋生物的最佳工具。</str>
+  <str key="114983166-ucdt" type="ucdt" originalKey="114983166">弹药塔4描述</str>
+  <str key="115541565-ucdt" type="ucdt" originalKey="115541565">NS万能钥匙：银质勋章</str>
+  <str key="115554455-ucdt" type="ucdt" originalKey="115554455">占领技术工厂1次。</str>
+  <str key="122542037-ucdt" type="ucdt" originalKey="122542037">正能量涂鸦横幅框</str>
+  <str key="127072337-ucdt" type="ucdt" originalKey="127072337">Grant, Nadia</str>
+  <str key="127417880-ucdt" type="ucdt" originalKey="127417880">加装侦察模组并升级无人机硬件，可将追踪敌方目标的时间延长至32秒。</str>
+  <str key="131553937-ucdt" type="ucdt" originalKey="131553937">爱心轰炸机航迹云礼包</str>
+  <str key="132468354-ucdt" type="ucdt" originalKey="132468354">赚取1000鱼币</str>
+  <str key="135439156-ucdt" type="ucdt" originalKey="135439156">成就礼包：2025夏日尝鲜狂潮</str>
+  <str key="135837329-ucdt" type="ucdt" originalKey="135837329">WMC Inquirer：铜质勋章</str>
+  <str key="135865193-ucdt" type="ucdt" originalKey="135865193">为了纪念恶名昭著的Sunderer“哔哔哔！更新”。它算得上是仓库中最令人毛骨悚然的喇叭了。&lt;br&gt;&lt;br&gt;所有阵营都可以使用此装备。所有载具都可装备。</str>
+  <str key="138478857-ucdt" type="ucdt" originalKey="138478857">头衔：Corsair</str>
+  <str key="138971814-ucdt" type="ucdt" originalKey="138971814">海怪外壳</str>
+  <str key="141278848-ucdt" type="ucdt" originalKey="141278848">Galaxy太空之鲸</str>
+  <str key="152481746-ucdt" type="ucdt" originalKey="152481746">Liberator爱心轰炸机航迹云</str>
+  <str key="152799245-ucdt" type="ucdt" originalKey="152799245">蓄电速率</str>
+  <str key="153550948-ucdt" type="ucdt" originalKey="153550948">阿努纳基阿普斯头盔</str>
+  <str key="157272044-ucdt" type="ucdt" originalKey="157272044">Hossin狗牌</str>
+  <str key="158741593-ucdt" type="ucdt" originalKey="158741593">一个基础的个人资料横幅，所有阵营都可以使用。</str>
+  <str key="165120803-ucdt" type="ucdt" originalKey="165120803">迷彩</str>
+  <str key="172805168-ucdt" type="ucdt" originalKey="172805168">扫描小型鱼类</str>
+  <str key="173634656-ucdt" type="ucdt" originalKey="173634656">可维修友军的载具、MAX机甲和设备。也能拆除敌方的反坦克地雷。多亏了Auraxis人民的慷慨捐赠，New Conglomerate可以继续进行正义之战，派装甲车队运送额外的资源到艰苦的前线。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;按住射击键进行维修，按住瞄准键进行拆除。&lt;/font&gt;&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Extra Life版共享默认的纳米装甲包技能线。&lt;/font&gt;</str>
+  <str key="180831703-ucdt" type="ucdt" originalKey="180831703">为探测器加装了可挂载并投掷多种弹药的系统。</str>
+  <str key="184144444-ucdt" type="ucdt" originalKey="184144444">“我会给团队发一份备忘录，让他们在Arcaeotech挖掘现场记录数据时回归传统方法。永远不要低估纸和笔的力量！在找出问题根源之前，我们还需要将NSO从设施附近移开。现在最不需要的就是NS因为我们弄坏了他们的玩具而制裁我们了。”&lt;br&gt;-Nascent勘探队协调员Tolland&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的角色解锁一个头像横幅。&lt;/font&gt;</str>
+  <str key="191648792-ucdt" type="ucdt" originalKey="191648792">[#LIGHT_ASSAULT#]可以装备。仅限NSO使用。</str>
+  <str key="196305642-ucdt" type="ucdt" originalKey="196305642">WMC Inquirer：Auraxium勋章</str>
+  <str key="207226512-ucdt" type="ucdt" originalKey="207226512">呆呆咕哝鱼</str>
+  <str key="209593662-ucdt" type="ucdt" originalKey="209593662">使用任意诱鱼器95次</str>
+  <str key="215725432-ucdt" type="ucdt" originalKey="215725432">部署后形成一层最多可以吸收3350伤害的护盾。这层护盾以80生命值/秒的速率持续恢复生命值，直到被摧毁。被摧毁后，这层护盾需要等待24秒才能重新启动。</str>
+  <str key="221692315-ucdt" type="ucdt" originalKey="221692315">停止受到以下类型的伤害：重型炸药、反坦克地雷、轻型反载具、步兵火箭筒、步兵瞄准、坦克炮弹、空对地弹头。每层装甲板为独立启动和再生，30秒后重新启动。Sunderer恢复满血可以缩短再生时间，顺序如下：正面、左侧、右侧、背面、顶部</str>
+  <str key="230079415-ucdt" type="ucdt" originalKey="230079415">SP-23电池</str>
+  <str key="230906740-ucdt" type="ucdt" originalKey="230906740">守卫电力中心50次。</str>
+  <str key="257022399-ucdt" type="ucdt" originalKey="257022399">EL纳米装甲包1</str>
+  <str key="262623221-ucdt" type="ucdt" originalKey="262623221">射程</str>
+  <str key="264444724-ucdt" type="ucdt" originalKey="264444724">紫色装饰鳍鳞片迷彩</str>
+  <str key="264491779-ucdt" type="ucdt" originalKey="264491779">复活节彩蛋热浆手雷</str>
+  <str key="265930530-ucdt" type="ucdt" originalKey="265930530">ASE Corvid头盔</str>
+  <str key="267225781-ucdt" type="ucdt" originalKey="267225781">战争老兵：科伯特横幅</str>
+  <str key="268339774-ucdt" type="ucdt" originalKey="268339774">Dawson, Emma</str>
+  <str key="285821618-ucdt" type="ucdt" originalKey="285821618">EL纳米装甲包5</str>
+  <str key="289593493-ucdt" type="ucdt" originalKey="289593493">安努氏装备礼包</str>
+  <str key="290137441-ucdt" type="ucdt" originalKey="290137441">VEX-B协议数据点：金质勋章</str>
+  <str key="305330871-ucdt" type="ucdt" originalKey="305330871">完成专家成就</str>
+  <str key="307826330-ucdt" type="ucdt" originalKey="307826330">巨型</str>
+  <str key="308696834-ucdt" type="ucdt" originalKey="308696834">爱心轰炸机头盔</str>
+  <str key="312523874-ucdt" type="ucdt" originalKey="312523874">快来抢购会员专属的角色装饰物品吧！整个9月期间均可购买！（之前的Amazon Prime奖励）</str>
+  <str key="318395887-ucdt" type="ucdt" originalKey="318395887">头衔：鲸鱼</str>
+  <str key="319889423-ucdt" type="ucdt" originalKey="319889423">NSO-CM“Kelpie”蛙人装甲</str>
+  <str key="320673623-ucdt" type="ucdt" originalKey="320673623">守卫Indar的技术工厂。</str>
+  <str key="321433614-ucdt" type="ucdt" originalKey="321433614">VO-I“Nautilus”蛙人装甲</str>
+  <str key="331239220-ucdt" type="ucdt" originalKey="331239220">太空南瓜回归！</str>
+  <str key="334240700-ucdt" type="ucdt" originalKey="334240700">扫描任意种类的鱼200次</str>
+  <str key="334753216-ucdt" type="ucdt" originalKey="334753216">沙地轮胎痕迹</str>
+  <str key="339250700-ucdt" type="ucdt" originalKey="339250700">Lorne, Travis</str>
+  <str key="340021757-ucdt" type="ucdt" originalKey="340021757">爱心轰炸机等离子手雷：铜质奖章</str>
+  <str key="343636045-ucdt" type="ucdt" originalKey="343636045">入手限量款的“Primed Diamond” NS-44 Commissioner左轮手枪，成为人群中最靓的仔！所有阵营都可以使用此武器。</str>
+  <str key="343771111-ucdt" type="ucdt" originalKey="343771111">头衔：虎鲸</str>
+  <str key="347465730-ucdt" type="ucdt" originalKey="347465730">感应雷达1描述</str>
+  <str key="347475916-ucdt" type="ucdt" originalKey="347475916">用这个天使合唱团喇叭送敌人前往来世。所有阵营均可使用此物品。</str>
+  <str key="348564669-ucdt" type="ucdt" originalKey="348564669">NS-44 "Primed Ruby" Commissioner：铜质勋章</str>
+  <str key="348854866-ucdt" type="ucdt" originalKey="348854866">为你的装甲、武器或载具添加动态迷彩。仅限NSO阵营使用。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;会员专属。&lt;br&gt;&lt;br&gt;(仅限Daybreak Cash购买)&lt;/font&gt;</str>
+  <str key="349225059-ucdt" type="ucdt" originalKey="349225059">感应雷达描述</str>
+  <str key="349257834-ucdt" type="ucdt" originalKey="349257834">被动修复非Sunderer载具的少数生命值。启动后可部署一个修复站，覆盖范围更大，修复能力更强。Sunderer从部署的修复站获得的修复更少，从未部署处不获得任何修复。</str>
+  <str key="350808323-ucdt" type="ucdt" originalKey="350808323">快来抢购会员专属的角色装饰物品吧！整个12月期间均可购买！（之前的Amazon Prime奖励）</str>
+  <str key="351597883-ucdt" type="ucdt" originalKey="351597883">成就礼包：夏日尝鲜狂潮（2024年）</str>
+  <str key="352676523-ucdt" type="ucdt" originalKey="352676523">扳手刀：金质勋章</str>
+  <str key="353263479-ucdt" type="ucdt" originalKey="353263479">Trask, Selene</str>
+  <str key="357754053-ucdt" type="ucdt" originalKey="357754053">&lt;font size="28"&gt;爱意再次浮现在Auraxis的天空、陆地与海洋。&lt;br&gt;&lt;br&gt;&lt;ui&gt;&lt;li&gt;完成每日&lt;font size="28" color="#ACE1E5"&gt;中间人&lt;/font&gt;任务来帮助Sanctuary的居民，并获取丰厚奖励。&lt;/li&gt;&lt;br&gt;&lt;li&gt;完成今年的&lt;font size="28" color="#ACE1E5"&gt;情人节&lt;/font&gt;成就，展现你对L-O-V-E的奉献精神。&lt;/li&gt;&lt;br&gt;&lt;li&gt;领取光芒四射的全新&lt;font size="28" color="#ACE1E5"&gt;爱心轰炸机礼包&lt;/font&gt;，或者在&lt;font size="28" color="#ACE1E5"&gt;仓库&lt;/font&gt;里发现一款限时回归的迷彩、武器和装饰。&lt;/li&gt;&lt;/ui&gt;&lt;/font&gt;</str>
+  <str key="358620619-ucdt" type="ucdt" originalKey="358620619">复活节彩蛋破片手雷</str>
+  <str key="362105924-ucdt" type="ucdt" originalKey="362105924">头衔：艾瑞</str>
+  <str key="363598505-ucdt" type="ucdt" originalKey="363598505">此装甲上带有额外涂装，可保护特工在探索和研究对身体有危害的区域时不被碎片和锯齿状边缘伤害到。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;此装甲只能由人类重型突击兵部队装备。&lt;/font&gt;</str>
+  <str key="364331101-ucdt" type="ucdt" originalKey="364331101">一种极其罕见的深海巨兽，身上覆盖着由夜光鳞片构成的甲壳。巨兽鱼会以触手抓住猎物，触手上有多个钩子，让猎物无处可逃。科学家们仍在争论它发光鳞片到底有何用途。</str>
+  <str key="367308567-ucdt" type="ucdt" originalKey="367308567">为你的装甲、武器和载具添加迷彩。仅限TR使用。</str>
+  <str key="370019990-ucdt" type="ucdt" originalKey="370019990">扫描巨型鱼类30次</str>
+  <str key="374670902-ucdt" type="ucdt" originalKey="374670902">授予“黎明之子”前缀头衔。</str>
+  <str key="376146872-ucdt" type="ucdt" originalKey="376146872">这是一个为精准打击敌方基础设施而设计的高机动性单位。自被 “极乐故障” 腐蚀后，她被称为 “遗忘之风”，所过之处，天地荒芜、万籁俱寂。&lt;br&gt;&lt;br&gt;“若我注定燃烧，苍穹亦将同焚。”——Derecho Haal&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;[#LIGHT_ASSAULT#]可以装备。仅限NSO使用。&lt;/font&gt;</str>
+  <str key="380031374-ucdt" type="ucdt" originalKey="380031374">应用纳能技术的医疗枪，用于治疗或复活步兵。多亏了Auraxis人民的慷慨捐赠，Terran Republic的战斗医疗兵能够让他们的救星再次获得执行正义的机会，让Auraxis人民过上安宁的生活。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;按下射击键治疗目标，按下瞄准键复活目标。&lt;/font&gt;Extra Life版使用默认物品的技能线。</str>
+  <str key="381295293-ucdt" type="ucdt" originalKey="381295293">点防御1</str>
+  <str key="382730098-ucdt" type="ucdt" originalKey="382730098">使用LiquidTech“Enticing S”诱鱼器30次</str>
+  <str key="384331772-ucdt" type="ucdt" originalKey="384331772">加装侦察模组并升级无人机硬件，可将追踪敌方目标的时间延长至14秒。</str>
+  <str key="387170432-ucdt" type="ucdt" originalKey="387170432">&lt;font color="#9b4eb6"&gt;灰鳞动态迷彩&lt;/font&gt;</str>
+  <str key="390110330-ucdt" type="ucdt" originalKey="390110330">可维修友军的载具、MAX机甲和设备。也能拆除敌方的反坦克地雷。多亏了Auraxis人民的慷慨捐赠，Vanu Sovereignty可以持续推广他们的外星科技，同时为他们的终身目标——Vanu Sovereignty科技的研究提供额外资源。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;按住射击键进行维修，按住瞄准键进行拆除。&lt;/font&gt;&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Extra Life版共享默认的纳米装甲包技能线。&lt;/font&gt;</str>
+  <str key="390614129-ucdt" type="ucdt" originalKey="390614129">扫描小型鱼类40次</str>
+  <str key="394999587-ucdt" type="ucdt" originalKey="394999587">钓鱼奖励迷彩</str>
+  <str key="399494326-ucdt" type="ucdt" originalKey="399494326">GM Osprey：银质勋章</str>
+  <str key="399970641-ucdt" type="ucdt" originalKey="399970641">NC-021钓鱼头盔</str>
+  <str key="400913585-ucdt" type="ucdt" originalKey="400913585">为你的角色解锁个人资料横幅。</str>
+  <str key="407057933-ucdt" type="ucdt" originalKey="407057933">Modulus H-25</str>
+  <str key="415634776-ucdt" type="ucdt" originalKey="415634776">扫描</str>
+  <str key="419107767-ucdt" type="ucdt" originalKey="419107767">Mereth, Kaio</str>
+  <str key="422140288-ucdt" type="ucdt" originalKey="422140288">战斗医疗兵职业旗帜框</str>
+  <str key="424148807-ucdt" type="ucdt" originalKey="424148807">守卫电力中心30次。</str>
+  <str key="425291320-ucdt" type="ucdt" originalKey="425291320">工程兵职业旗帜</str>
+  <str key="427762410-ucdt" type="ucdt" originalKey="427762410">持续修复Sunderer，修复速率为90生命值/秒。启动后可以修复2525生命值，并能扑灭火势。50秒冷却期间，被动修复处于禁用状态。</str>
+  <str key="428801746-ucdt" type="ucdt" originalKey="428801746">阿斯特拉西蠕虫机甲鱼</str>
+  <str key="429766903-ucdt" type="ucdt" originalKey="429766903">NSO-D“Choral Hollow”装甲</str>
+  <str key="430871508-ucdt" type="ucdt" originalKey="430871508">守卫Hossin的电力中心。</str>
+  <str key="439005307-ucdt" type="ucdt" originalKey="439005307">退出钓鱼</str>
+  <str key="439212211-ucdt" type="ucdt" originalKey="439212211">头衔：Indar</str>
+  <str key="443813195-ucdt" type="ucdt" originalKey="443813195">可更换的发射器模块让你可以精准匹配不同大小鱼类的频率。这种发射器的低频最适合搜索和扫描大型物体。</str>
+  <str key="450170597-ucdt" type="ucdt" originalKey="450170597">持续修复Sunderer，修复速率为58生命值/秒。启动后可以修复1610生命值，并能扑灭火势。65秒冷却期间，被动修复处于禁用状态。</str>
+  <str key="454167211-ucdt" type="ucdt" originalKey="454167211">装甲插槽</str>
+  <str key="454244201-ucdt" type="ucdt" originalKey="454244201">太空之鲸</str>
+  <str key="454829173-ucdt" type="ucdt" originalKey="454829173">拥有高密度涂装和减震面板。提供了优异的耐用性和稳定性，便于应对长期的水下作战。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有NC重型突击兵可装备此装甲。&lt;/font&gt;</str>
+  <str key="455966915-ucdt" type="ucdt" originalKey="455966915">快来抢购会员专属的角色装饰物品吧！整个6月期间均可购买！（之前的Amazon Prime奖励）</str>
+  <str key="456524871-ucdt" type="ucdt" originalKey="456524871">占领电力中心1次。</str>
+  <str key="456707316-ucdt" type="ucdt" originalKey="456707316">弹药塔4</str>
+  <str key="458705858-ucdt" type="ucdt" originalKey="458705858">Deren, Vaxin</str>
+  <str key="459073657-ucdt" type="ucdt" originalKey="459073657">授予“探路者”前缀头衔。</str>
+  <str key="460364729-ucdt" type="ucdt" originalKey="460364729">NSO-K“Delta”装甲</str>
+  <str key="460753059-ucdt" type="ucdt" originalKey="460753059">安装后，被动探测附近20米范围内的敌人。启动后可部署一个雷达，探测半径60米，冷却时间为60秒。</str>
+  <str key="462570591-ucdt" type="ucdt" originalKey="462570591">激活载具技能3</str>
+  <str key="463735642-ucdt" type="ucdt" originalKey="463735642">稀有鱼类点券</str>
+  <str key="463787367-ucdt" type="ucdt" originalKey="463787367">部署后，武器射速提高15%、投射物速度提高20%、装弹的时间减少40%，但武器射程缩短60%</str>
+  <str key="464017681-ucdt" type="ucdt" originalKey="464017681">护盾干扰器</str>
+  <str key="467153497-ucdt" type="ucdt" originalKey="467153497">守卫生物实验室250次。</str>
+  <str key="470479606-ucdt" type="ucdt" originalKey="470479606">弹药塔3描述</str>
+  <str key="470615607-ucdt" type="ucdt" originalKey="470615607">EXO-E“Hammerhead”蛙人装甲</str>
+  <str key="471224827-ucdt" type="ucdt" originalKey="471224827">Magrider电子脉冲喇叭</str>
+  <str key="472519363-ucdt" type="ucdt" originalKey="472519363">头衔：太空之鲸</str>
+  <str key="476788201-ucdt" type="ucdt" originalKey="476788201">侦察雷达1</str>
+  <str key="481017738-ucdt" type="ucdt" originalKey="481017738">Crest, Nalia</str>
+  <str key="483934461-ucdt" type="ucdt" originalKey="483934461">徒步穿越Indar大陆</str>
+  <str key="485028648-ucdt" type="ucdt" originalKey="485028648">深渊怪兽涂装</str>
+  <str key="485367243-ucdt" type="ucdt" originalKey="485367243">愚人节礼包</str>
+  <str key="487535961-ucdt" type="ucdt" originalKey="487535961">获得100个据点控制缎带。</str>
+  <str key="490218549-ucdt" type="ucdt" originalKey="490218549">正义使者</str>
+  <str key="511815089-ucdt" type="ucdt" originalKey="511815089">全新NSO装饰！</str>
+  <str key="514467584-ucdt" type="ucdt" originalKey="514467584">集成了先进的动力管理系统，可以为各种工具和装备提供持久的能量供给，确保单位在长线任务中拥有持续的作业能力。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有VS工程兵可装备此装甲。&lt;/font&gt;</str>
+  <str key="531628535-ucdt" type="ucdt" originalKey="531628535">这种大容量电池为探针提供了巨大的电量和大量操作时间，但是充电时间较长。</str>
+  <str key="536996268-ucdt" type="ucdt" originalKey="536996268">头衔：正义使者</str>
+  <str key="537783785-ucdt" type="ucdt" originalKey="537783785">Grumman, Silas</str>
+  <str key="541999854-ucdt" type="ucdt" originalKey="541999854">钓鱼用诱鱼器</str>
+  <str key="543262103-ucdt" type="ucdt" originalKey="543262103">部署护盾2</str>
+  <str key="545145887-ucdt" type="ucdt" originalKey="545145887">占领技术工厂15次。</str>
+  <str key="548155744-ucdt" type="ucdt" originalKey="548155744">占领Amerish的电力中心。</str>
+  <str key="551494208-ucdt" type="ucdt" originalKey="551494208">可更换的发射器模块让你可以精准匹配不同大小鱼类的频率。这种高频发射器适合扫描小鱼，但对大鱼没什么作用。</str>
+  <str key="557077375-ucdt" type="ucdt" originalKey="557077375">NS龙息系列是一套装饰性火焰，可以为武器添加额外的火焰效果。其设计初衷是作为市场吸引各个阵营购买最新款NS Dragon的营销策略。也就是现在广为人知的“Helios”。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;这一附件可以将武器的火焰变为&lt;font color="#9d00ff"&gt;紫色&lt;/font&gt;。&lt;/font&gt;</str>
+  <str key="562462938-ucdt" type="ucdt" originalKey="562462938">Magrider小丑喇叭</str>
+  <str key="582448718-ucdt" type="ucdt" originalKey="582448718">NSO空军头盔</str>
+  <str key="588019873-ucdt" type="ucdt" originalKey="588019873">“Esamir的Arcaeotech挖掘现场周围出现了一种奇怪的异象。所有科技产品，包括附近的NSO都正遭受到某种干扰。我决定离开现场以进行数字数据记录。”&lt;br&gt;Nascent勘探队代表Nalla&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的角色解锁一个头像横幅。&lt;/font&gt;</str>
+  <str key="604300367-ucdt" type="ucdt" originalKey="604300367">扫描所有普通鱼类</str>
+  <str key="609801016-ucdt" type="ucdt" originalKey="609801016">沿岸刺喙鱼</str>
+  <str key="612091568-ucdt" type="ucdt" originalKey="612091568">占领Hossin的电力中心。</str>
+  <str key="634578441-ucdt" type="ucdt" originalKey="634578441">货物部署区已堵塞</str>
+  <str key="634881442-ucdt" type="ucdt" originalKey="634881442">淡漠鱼是一种罕见的小型深海鱼，身上覆盖着一层含有强效神经毒素的保护性胶状外壳，它可以在黑暗的海洋中缓慢游动数周，寻找腐肉，但在受到威胁时会迅速游开。</str>
+  <str key="649492569-ucdt" type="ucdt" originalKey="649492569">头衔：乌曲拉</str>
+  <str key="649787409-ucdt" type="ucdt" originalKey="649787409">持续修复Sunderer，修复速率为125生命值/秒。启动后可以修复 2250生命值，并能扑灭火势。55秒冷却期间，被动修复处于禁用状态。</str>
+  <str key="651459419-ucdt" type="ucdt" originalKey="651459419">在你的HUD上显示附近A7终端的位置。</str>
+  <str key="653522364-ucdt" type="ucdt" originalKey="653522364">占领电力中心15次。</str>
+  <str key="659317957-ucdt" type="ucdt" originalKey="659317957">为你的角色解锁标志旗帜。</str>
+  <str key="660768112-ucdt" type="ucdt" originalKey="660768112">Dervish小丑喇叭</str>
+  <str key="663250752-ucdt" type="ucdt" originalKey="663250752">11月会员礼包I</str>
+  <str key="663462459-ucdt" type="ucdt" originalKey="663462459">夏日尝鲜</str>
+  <str key="664220700-ucdt" type="ucdt" originalKey="664220700">“纳能活死人”横幅框</str>
+  <str key="665442899-ucdt" type="ucdt" originalKey="665442899">EXO-CM“Hammerhead”蛙人装甲</str>
+  <str key="665924365-ucdt" type="ucdt" originalKey="665924365">修复站3</str>
+  <str key="666519232-ucdt" type="ucdt" originalKey="666519232">筒仓被保留，Corium低于20,000时，轻型空中终端不可用。</str>
+  <str key="671492134-ucdt" type="ucdt" originalKey="671492134">WMC-LA“Barracuda”蛙人装甲</str>
+  <str key="672828697-ucdt" type="ucdt" originalKey="672828697">配备了改良版的装甲涂装和自适应的能量护盾，提供了优异的防护性能以应对水下威胁。集成式的重武器抛钩让特工在水下战斗中可以输出成吨的火力。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有NSO重型突击兵可装备此装甲。&lt;/font&gt;</str>
+  <str key="673437586-ucdt" type="ucdt" originalKey="673437586">授予“黎明之女”前缀头衔。</str>
+  <str key="674093211-ucdt" type="ucdt" originalKey="674093211">可让你使用Cortium建造一座可由友方玩家操纵的Hoplin防空方阵塔。</str>
+  <str key="675248084-ucdt" type="ucdt" originalKey="675248084">扫描呆呆咕哝鱼65次</str>
+  <str key="676804720-ucdt" type="ucdt" originalKey="676804720">克洛诺斯之眼横幅框</str>
+  <str key="679750656-ucdt" type="ucdt" originalKey="679750656">占领Esamir的生物实验室。</str>
+  <str key="689637463-ucdt" type="ucdt" originalKey="689637463">钓鱼横幅框</str>
+  <str key="690146770-ucdt" type="ucdt" originalKey="690146770">改变载具的航迹云颜色。</str>
+  <str key="690502507-ucdt" type="ucdt" originalKey="690502507">Coleman, Victor</str>
+  <str key="691072062-ucdt" type="ucdt" originalKey="691072062">高级传感系统</str>
+  <str key="691118623-ucdt" type="ucdt" originalKey="691118623">爱心轰炸机玻璃礼包</str>
+  <str key="693516576-ucdt" type="ucdt" originalKey="693516576">牛市3</str>
+  <str key="693606550-ucdt" type="ucdt" originalKey="693606550">赚取3000鱼币</str>
+  <str key="695354558-ucdt" type="ucdt" originalKey="695354558">Valkyrie爱心轰炸机玻璃</str>
+  <str key="706197360-ucdt" type="ucdt" originalKey="706197360">为Harasser装备这些轮胎痕迹，在Oshur的海滩上嬉戏，或在Hossin的沼泽中艰难跋涉！所有阵营都可以使用此装备。</str>
+  <str key="707790543-ucdt" type="ucdt" originalKey="707790543">M-40模块</str>
+  <str key="714026552-ucdt" type="ucdt" originalKey="714026552">Lightning爱心轰炸机喇叭</str>
+  <str key="714044824-ucdt" type="ucdt" originalKey="714044824">装甲</str>
+  <str key="723414941-ucdt" type="ucdt" originalKey="723414941">授予“爱心轰炸机”头衔</str>
+  <str key="728421781-ucdt" type="ucdt" originalKey="728421781">弹药塔4</str>
+  <str key="728565296-ucdt" type="ucdt" originalKey="728565296">Puzzler迷彩</str>
+  <str key="728742849-ucdt" type="ucdt" originalKey="728742849">头衔：Amerish</str>
+  <str key="729338770-ucdt" type="ucdt" originalKey="729338770">11月会员礼包II</str>
+  <str key="729846163-ucdt" type="ucdt" originalKey="729846163">天空之鲸进料口</str>
+  <str key="730000409-ucdt" type="ucdt" originalKey="730000409">占领Indar的技术工厂。</str>
+  <str key="734291247-ucdt" type="ucdt" originalKey="734291247">更改载具航迹云外观</str>
+  <str key="746489154-ucdt" type="ucdt" originalKey="746489154">Matthews, Benjamin</str>
+  <str key="749966583-ucdt" type="ucdt" originalKey="749966583">中型</str>
+  <str key="756708968-ucdt" type="ucdt" originalKey="756708968">NS-D“冰龙”Helios：银质勋章</str>
+  <str key="764777687-ucdt" type="ucdt" originalKey="764777687">修复站</str>
+  <str key="766611019-ucdt" type="ucdt" originalKey="766611019">使用SynthX“Lured-1N”诱鱼器30次</str>
+  <str key="766864989-ucdt" type="ucdt" originalKey="766864989">加装侦察模组并升级无人机硬件，可将追踪敌方目标的时间延长至18秒。</str>
+  <str key="768700896-ucdt" type="ucdt" originalKey="768700896">守卫能量容纳站50次。</str>
+  <str key="769430537-ucdt" type="ucdt" originalKey="769430537">Chimera小丑喇叭</str>
+  <str key="769728104-ucdt" type="ucdt" originalKey="769728104">亡灵面具</str>
+  <str key="769768534-ucdt" type="ucdt" originalKey="769768534">配备了模块化的实用工具和水下焊接工具，允许特工在激战正酣时进行快速维修作业和建造基础水下设施。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有NSO工程兵可装备此装甲。&lt;/font&gt;</str>
+  <str key="770286508-ucdt" type="ucdt" originalKey="770286508">设计时考虑到了特工的储物需求，后者负责维护Nascent Expeditions所使用的工具、技术和操作人员。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;此装甲只能由人类工程师装备。&lt;/font&gt;</str>
+  <str key="772725821-ucdt" type="ucdt" originalKey="772725821">Myrex, Olun</str>
+  <str key="779122620-ucdt" type="ucdt" originalKey="779122620">硬壳碎礁鱼</str>
+  <str key="781817981-ucdt" type="ucdt" originalKey="781817981">2月会员礼包I</str>
+  <str key="791744556-ucdt" type="ucdt" originalKey="791744556">部署/潜水载具</str>
+  <str key="800786194-ucdt" type="ucdt" originalKey="800786194">蛙人装饰品</str>
+  <str key="808244464-ucdt" type="ucdt" originalKey="808244464">WMC-CM“Barracuda”蛙人装甲</str>
+  <str key="808941859-ucdt" type="ucdt" originalKey="808941859">基于提高隐蔽性和精准性的需求打造而成，搭载了先进的隐身技术和静音推进系统。此装甲允许特工进行隐秘移动、收集情报并对目标进行外科手术式的精准打击。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有NSO Infiltrator可装备此装甲。&lt;/font&gt;</str>
+  <str key="809101515-ucdt" type="ucdt" originalKey="809101515">入手限量款的“Primed Diamond” NS-44 Commissioner左轮手枪，成为人群中最靓的仔！所有阵营都可以使用此武器。</str>
+  <str key="809507167-ucdt" type="ucdt" originalKey="809507167">正能量涂鸦涂装</str>
+  <str key="809977268-ucdt" type="ucdt" originalKey="809977268">Flash小丑喇叭</str>
+  <str key="812231525-ucdt" type="ucdt" originalKey="812231525">用这款纪念款横幅庆祝你与科伯特服务器的渊源！为你的角色添加横幅。所有阵营均可使用此横幅。</str>
+  <str key="814072588-ucdt" type="ucdt" originalKey="814072588">浮力轮胎</str>
+  <str key="814430122-ucdt" type="ucdt" originalKey="814430122">授予“碎心者”前缀头衔</str>
+  <str key="817129355-ucdt" type="ucdt" originalKey="817129355">Extra Life 2024版工程师纳米装甲包。</str>
+  <str key="822339193-ucdt" type="ucdt" originalKey="822339193">WMC-I“Barracuda”蛙人装甲</str>
+  <str key="823219477-ucdt" type="ucdt" originalKey="823219477">SPL-66电池</str>
+  <str key="839391796-ucdt" type="ucdt" originalKey="839391796">修复站1</str>
+  <str key="845090506-ucdt" type="ucdt" originalKey="845090506">扫描所有稀有鱼类</str>
+  <str key="845679170-ucdt" type="ucdt" originalKey="845679170">&lt;font color="#9b4eb6"&gt;沙漠斑马动态迷彩&lt;/font&gt;</str>
+  <str key="845950896-ucdt" type="ucdt" originalKey="845950896">成就礼包：精彩夏日狂潮（2024年）</str>
+  <str key="847682257-ucdt" type="ucdt" originalKey="847682257">TR-TLV8钓鱼头盔</str>
+  <str key="848712220-ucdt" type="ucdt" originalKey="848712220">Callahan, Mason</str>
+  <str key="861511461-ucdt" type="ucdt" originalKey="861511461">头衔：加尔乌鲁</str>
+  <str key="864279371-ucdt" type="ucdt" originalKey="864279371">这是一种常见的中型海洋鱼类。尽管其外表吓人，但欧夏尔锯齿颌鱼却用其改造过的下颌来咬碎珊瑚和打开贝类，其有毒的冠状体还可保护自己免受捕食者的伤害。</str>
+  <str key="871133873-ucdt" type="ucdt" originalKey="871133873">阿努纳基战士装甲</str>
+  <str key="872920263-ucdt" type="ucdt" originalKey="872920263">Walker, Ava</str>
+  <str key="876027102-ucdt" type="ucdt" originalKey="876027102">Moore, Stuart</str>
+  <str key="878795719-ucdt" type="ucdt" originalKey="878795719">弹药塔1描述</str>
+  <str key="890590558-ucdt" type="ucdt" originalKey="890590558">对以下伤害类型的抵抗能力增强：重型炸药、反坦克地雷、轻型反载具、步兵火箭筒、步兵瞄准、坦克炮弹、空对地弹头和反器材步枪伤害</str>
+  <str key="892704397-ucdt" type="ucdt" originalKey="892704397">这种巨型生物是某个古老种族的造物，也可能是交叉进化的扭曲产物。答案很难找到，因为这种巨大的全金属生物在冷水水域非常罕见。</str>
+  <str key="894446073-ucdt" type="ucdt" originalKey="894446073">这款头盔堪称工程智慧的奇迹。其流线型设计和可调节功能使特工能够以无与伦比的精确度和效率在水下环境中航行。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;所有职业都可以装备。仅限NSO阵营使用。&lt;/font&gt;</str>
+  <str key="895002640-ucdt" type="ucdt" originalKey="895002640">徒步穿越50000米的距离。</str>
+  <str key="900230994-ucdt" type="ucdt" originalKey="900230994">VS-B1钓鱼头盔</str>
+  <str key="900870290-ucdt" type="ucdt" originalKey="900870290">GM Osprey：金质勋章</str>
+  <str key="902086575-ucdt" type="ucdt" originalKey="902086575">&lt;font color="#9b4eb6"&gt;鳞片动态迷彩&lt;/font&gt;</str>
+  <str key="905359045-ucdt" type="ucdt" originalKey="905359045">占领生物实验室25次。</str>
+  <str key="910432652-ucdt" type="ucdt" originalKey="910432652">按住[%s]骇入载具</str>
+  <str key="913964823-ucdt" type="ucdt" originalKey="913964823">黎明之女是纳能科技在实验将人类意识与机器相融时意外获得的副产品。据传闻，其领导者是纳能科技前任首席执行官萨莎·道恩之女——斯派罗·道恩。虽然没有确凿证据能够证明二人的存在，但不时就会有人发现他们的标志。很多时候，这些涂鸦标志在被发现不久之后就被清除得一干二净。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的个人资料解锁横幅。仅限NSO阵营使用。&lt;/font&gt;</str>
+  <str key="914967115-ucdt" type="ucdt" originalKey="914967115">可部署货物协助击杀</str>
+  <str key="919864860-ucdt" type="ucdt" originalKey="919864860">Valkyrie小丑喇叭</str>
+  <str key="923938405-ucdt" type="ucdt" originalKey="923938405">你的阵营未参与进攻，因而无法获取点数</str>
+  <str key="923987227-ucdt" type="ucdt" originalKey="923987227">&lt;font color="#9b4eb6"&gt;干湖动态迷彩&lt;/font&gt;</str>
+  <str key="924293111-ucdt" type="ucdt" originalKey="924293111">农历蛇年涂装</str>
+  <str key="924668836-ucdt" type="ucdt" originalKey="924668836">成就礼包：情人节（2024年）</str>
+  <str key="925729324-ucdt" type="ucdt" originalKey="925729324">Valkyrie爱心轰炸机玻璃</str>
+  <str key="927160035-ucdt" type="ucdt" originalKey="927160035">NS“Primed Diamond”碎片：Auraxium勋章</str>
+  <str key="928958111-ucdt" type="ucdt" originalKey="928958111">Clark, Nigel</str>
+  <str key="929601762-ucdt" type="ucdt" originalKey="929601762">SynthX“Lured-1N”</str>
+  <str key="930168549-ucdt" type="ucdt" originalKey="930168549">战争老兵：康纳利横幅</str>
+  <str key="941622586-ucdt" type="ucdt" originalKey="941622586">NS“Primed Lapis”碎片：Auraxium勋章</str>
+  <str key="943119691-ucdt" type="ucdt" originalKey="943119691">爱心轰炸机等离子手雷</str>
+  <str key="945233200-ucdt" type="ucdt" originalKey="945233200">农历蛇年横幅框</str>
+  <str key="946819876-ucdt" type="ucdt" originalKey="946819876">配备了集成一体的静音推进系统和改良版的光学迷彩。能让Infiltrator在航行时避免被敌方侦测到，并收集关键情报。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有TR Infiltrator可装备此装甲。&lt;/font&gt;</str>
+  <str key="950340786-ucdt" type="ucdt" originalKey="950340786">采用先进的隐身系统和消音技术，允许特工在水下行动时避免被敌方侦测到，并对其发动突然袭击。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有VS Infiltrator可装备此装甲。&lt;/font&gt;</str>
+  <str key="951511797-ucdt" type="ucdt" originalKey="951511797">对以下伤害类型的抵抗能力增强22%：重型炸药、反坦克地雷、轻型反载具、步兵火箭筒、步兵瞄准、坦克炮弹、空对地弹头和反器材步枪伤害</str>
+  <str key="952199474-ucdt" type="ucdt" originalKey="952199474">完成100次警报。</str>
+  <str key="952995569-ucdt" type="ucdt" originalKey="952995569">这款头盔的流线型设计体现了共和国对秩序的追求，确保他们的特工即使身处海底也能始终坚定地捍卫自由与团结。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;所有职业都可以装备。仅限Terran Republic阵营使用。&lt;/font&gt;</str>
+  <str key="956326894-ucdt" type="ucdt" originalKey="956326894">虽然主体是一把刀，但刀柄末端内置了一台小型计算机，能够远程或通过某些纳能科技的独特端口绕过特定的安全协议。高级纳能科技技术人员会在测试特定项目时使用这些“万能钥匙”来调试和覆写参数。由于其潜在的安全风险，这些“万能钥匙”受到严密保护。</str>
+  <str key="957972364-ucdt" type="ucdt" originalKey="957972364">Marr, Tycho</str>
+  <str key="959180854-ucdt" type="ucdt" originalKey="959180854">ASE-CM Corvid装甲</str>
+  <str key="960196483-ucdt" type="ucdt" originalKey="960196483">Reaver爱心轰炸机玻璃</str>
+  <str key="960397324-ucdt" type="ucdt" originalKey="960397324">Chimera电子脉冲喇叭</str>
+  <str key="960858973-ucdt" type="ucdt" originalKey="960858973">Mosquito爱心轰炸机玻璃</str>
+  <str key="961431462-ucdt" type="ucdt" originalKey="961431462">用爱心轰炸机喇叭分享你的爱。所有阵营都可以使用此装备。</str>
+  <str key="962636926-ucdt" type="ucdt" originalKey="962636926">牛是不屈不挠精神的象征，它代表着为在Auraxis立足而辛勤劳作的定居者，他们为每个派别奠定了基础。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的装甲或载具添加[#DECAL#]。&lt;/font&gt;</str>
+  <str key="967293214-ucdt" type="ucdt" originalKey="967293214">海浪横幅</str>
+  <str key="968543854-ucdt" type="ucdt" originalKey="968543854">允许操作者在无人机上挂载多种类型的弹药并控制其投放。</str>
+  <str key="977634226-ucdt" type="ucdt" originalKey="977634226">奥星圣诞节快乐！</str>
+  <str key="978238282-ucdt" type="ucdt" originalKey="978238282">Prowler爱心轰炸机喇叭</str>
+  <str key="978620847-ucdt" type="ucdt" originalKey="978620847">成就礼包：纳能活死人（2024年）</str>
+  <str key="990858195-ucdt" type="ucdt" originalKey="990858195">WMC Inquirer</str>
+  <str key="999869936-ucdt" type="ucdt" originalKey="999869936">快来抢购会员专属的角色装饰物品吧！整个10月期间均可购买！（之前的Amazon Prime奖励）</str>
+  <str key="1003634565-ucdt" type="ucdt" originalKey="1003634565">这款装甲针对隐匿和渗透性能进行了优化，它融合了ASE的纳米织物防护技术和Exavion的自适应伪装技术。最近的一些型号中出现了不常见的电路，引发了外界的猜测——乌鸦军团可能已经获得了不属于NC的技术，甚至可能正在重新利用这些技术。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;此装甲适用于NC渗透者。&lt;/font&gt;</str>
+  <str key="1004430192-ucdt" type="ucdt" originalKey="1004430192">Sutherland, Mark</str>
+  <str key="1009779382-ucdt" type="ucdt" originalKey="1009779382">强化涂装1</str>
+  <str key="1009863180-ucdt" type="ucdt" originalKey="1009863180">大型</str>
+  <str key="1016043459-ucdt" type="ucdt" originalKey="1016043459">《PlanetSide》系列21周年！</str>
+  <str key="1021727708-ucdt" type="ucdt" originalKey="1021727708">NSO-K“Tempest”头盔</str>
+  <str key="1023290096-ucdt" type="ucdt" originalKey="1023290096">Cade, Theron</str>
+  <str key="1024475113-ucdt" type="ucdt" originalKey="1024475113">2024万圣节</str>
+  <str key="1025561211-ucdt" type="ucdt" originalKey="1025561211">重型突击兵职业涂装</str>
+  <str key="1035689930-ucdt" type="ucdt" originalKey="1035689930">征服 - Esamir</str>
+  <str key="1044226046-ucdt" type="ucdt" originalKey="1044226046">头衔：碎心者</str>
+  <str key="1044314549-ucdt" type="ucdt" originalKey="1044314549">Navin, Ilya</str>
+  <str key="1044740222-ucdt" type="ucdt" originalKey="1044740222">用这个小精灵喇叭让你的朋友和敌人知道——有你在身边，他们是多么的幸运（或不幸）！</str>
+  <str key="1046467504-ucdt" type="ucdt" originalKey="1046467504">爱心轰炸机礼包</str>
+  <str key="1051532243-ucdt" type="ucdt" originalKey="1051532243">反应装甲1</str>
+  <str key="1062937408-ucdt" type="ucdt" originalKey="1062937408">NSO-D“Breaker Vox”装甲</str>
+  <str key="1065674631-ucdt" type="ucdt" originalKey="1065674631">NE荒原人工呼吸器头盔</str>
+  <str key="1070878351-ucdt" type="ucdt" originalKey="1070878351">通过进攻或防御Hossin的占领据点来获取据点控制缎带。</str>
+  <str key="1071231689-ucdt" type="ucdt" originalKey="1071231689">为你的驾驶舱增添个性化装饰，在挡风玻璃处添加涂装。仅限VS使用。</str>
+  <str key="1072887517-ucdt" type="ucdt" originalKey="1072887517">获得15个据点控制缎带</str>
+  <str key="1074093367-ucdt" type="ucdt" originalKey="1074093367">NS万能钥匙：Auraxium勋章</str>
+  <str key="1074157946-ucdt" type="ucdt" originalKey="1074157946">让开，有紧急情况！用这个全新的EVL喇叭开道。</str>
+  <str key="1085598972-ucdt" type="ucdt" originalKey="1085598972">NE-LA荒原防弹衣</str>
+  <str key="1087177871-ucdt" type="ucdt" originalKey="1087177871">安努氏横幅框</str>
+  <str key="1090387364-ucdt" type="ucdt" originalKey="1090387364">Williams, Sarah</str>
+  <str key="1092238620-ucdt" type="ucdt" originalKey="1092238620">&lt;font color="#9b4eb6"&gt;繁星动态迷彩&lt;/font&gt;</str>
+  <str key="1102203959-ucdt" type="ucdt" originalKey="1102203959">Maelis, Zhorin</str>
+  <str key="1105805281-ucdt" type="ucdt" originalKey="1105805281">Sunderer电子脉冲喇叭</str>
+  <str key="1106402124-ucdt" type="ucdt" originalKey="1106402124">NSO-K“Specter”装甲</str>
+  <str key="1107020762-ucdt" type="ucdt" originalKey="1107020762">头足纲轮胎</str>
+  <str key="1108331361-ucdt" type="ucdt" originalKey="1108331361">Livthrasil, Oda</str>
+  <str key="1110627970-ucdt" type="ucdt" originalKey="1110627970">Valkyrie爱心轰炸机喇叭</str>
+  <str key="1111548598-ucdt" type="ucdt" originalKey="1111548598">庆祝农历新年，体验最新更新内容！&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;font size="28" color="#ACE1E5"&gt;农历蛇年礼包&lt;/font&gt; - 在农历新年用这些神蛇主题的装饰品迎接新年吧！&lt;/li&gt;&lt;li&gt;&lt;font size="28" color="#ACE1E5"&gt;往年农历新年礼包回归！&lt;/font&gt; - 蛇年主题不合心意？那就来看看龙年、鼠年、牛年、虎年和兔年的礼包吧！&lt;/li&gt;&lt;br&gt;访问 planetside2.com 获取完整更新日志。</str>
+  <str key="1111692126-ucdt" type="ucdt" originalKey="1111692126">Paxil, Sereth</str>
+  <str key="1112372054-ucdt" type="ucdt" originalKey="1112372054">NSO-D“Choral Hollow”头盔</str>
+  <str key="1112767025-ucdt" type="ucdt" originalKey="1112767025">《Planetside 2》在本月迎来十二周年的生日！&lt;br&gt;&lt;br&gt;作为本月庆祝活动的开篇，我们将举办&lt;font size="28" color="#ACE1E5"&gt;Extra Life游戏日&lt;/font&gt;！&lt;br&gt;&lt;br&gt;该周年礼包以Auraxis及其居民的传说为主题，以各种形式为你的角色提供丰富多彩的装扮物品：&lt;ul&gt;&lt;/li&gt;&lt;font size="28" color="#ACE1E5"&gt;&lt;li&gt;横幅&lt;/li&gt;&lt;li&gt;横幅框&lt;/li&gt;&lt;li&gt;涂装&lt;/li&gt;&lt;li&gt;刀&lt;/li&gt;&lt;li&gt;头衔&lt;/li&gt;&lt;li&gt;步兵装甲和头盔&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;一整个月精彩不断，敬请期待感恩节、黑色星期五和网络星期一的促销活动！&lt;br&gt;&lt;br&gt;噢，对了，我们还&lt;font size="28" color="#ACE1E5"&gt;合并了Connery和Miller服务器 &lt;/font&gt;。不必客气！&lt;b&gt;&lt;br&gt;*12周年庆礼包将于2024年11月20日上线。</str>
+  <str key="1112931893-ucdt" type="ucdt" originalKey="1112931893">复活节彩蛋手雷，为战场上增添一抹新的炸蛋色彩！&lt;br&gt;能对步兵目标造成严重杀伤。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;3秒引信。&lt;br&gt;&lt;br&gt;仅在复活节期间可用。&lt;/font&gt;</str>
+  <str key="1113741907-ucdt" type="ucdt" originalKey="1113741907">用这款纪念款横幅庆祝你与康纳利服务器的渊源！为你的角色添加横幅。所有阵营均可使用此横幅。</str>
+  <str key="1116232508-ucdt" type="ucdt" originalKey="1116232508">Becker, Ella</str>
+  <str key="1121152673-ucdt" type="ucdt" originalKey="1121152673">VEX-B协议数据点</str>
+  <str key="1124899471-ucdt" type="ucdt" originalKey="1124899471">NS“Primed Diamond”碎片：银质勋章</str>
+  <str key="1128050298-ucdt" type="ucdt" originalKey="1128050298">额外生命旗帜</str>
+  <str key="1129479921-ucdt" type="ucdt" originalKey="1129479921">Velar, Quincy</str>
+  <str key="1131830246-ucdt" type="ucdt" originalKey="1131830246">爱心轰炸机横幅框</str>
+  <str key="1132739574-ucdt" type="ucdt" originalKey="1132739574">为你的装甲、武器或载具添加动态迷彩。仅限&lt;font color="#9b4eb6"&gt;VS&lt;/font&gt;阵营使用。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;会员专属。&lt;br&gt;&lt;br&gt;(仅限Daybreak Cash购买)&lt;/font&gt;</str>
+  <str key="1133159309-ucdt" type="ucdt" originalKey="1133159309">扳手刀：银质勋章</str>
+  <str key="1136090679-ucdt" type="ucdt" originalKey="1136090679">VEX-B协议数据点：银质勋章</str>
+  <str key="1136218096-ucdt" type="ucdt" originalKey="1136218096">Esamir狗牌</str>
+  <str key="1147011935-ucdt" type="ucdt" originalKey="1147011935">O'Connor, Blake</str>
+  <str key="1148609426-ucdt" type="ucdt" originalKey="1148609426">Morrow, Corinna</str>
+  <str key="1149382113-ucdt" type="ucdt" originalKey="1149382113">一种内含不同鱼饵味道合成分子的特殊胶囊。内含一套基础的廉价香味添加剂，可吸引来最普通的鱼类。</str>
+  <str key="1151282360-ucdt" type="ucdt" originalKey="1151282360">为你的角色解锁个人资料横幅。仅限Terran Republic阵营使用。</str>
+  <str key="1152668904-ucdt" type="ucdt" originalKey="1152668904">沼泽水域里有许多这种大型食肉生物缓慢地漂浮在水面之下。巨大的下颚可以捕捉和咀嚼任何找到的生物，坚硬的鳞片皮肤可以保护它们不受任何线头的伤害。</str>
+  <str key="1166189721-ucdt" type="ucdt" originalKey="1166189721">Korinth, Velos</str>
+  <str key="1167124022-ucdt" type="ucdt" originalKey="1167124022">NE-CM荒原防弹衣</str>
+  <str key="1170755938-ucdt" type="ucdt" originalKey="1170755938">在另一载具内时摧毁100个载具。</str>
+  <str key="1172694995-ucdt" type="ucdt" originalKey="1172694995">未探测到可钓鱼区域</str>
+  <str key="1173824516-ucdt" type="ucdt" originalKey="1173824516">在Auraxis，蛇象征着策略与狡诈，受到间谍、战术家以及那些潜伏在暗处的人们的敬仰。它还与Auraxis纳能科技的不确定性紧密相连。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的装甲甲或载具添加一个[#DECAL#]。&lt;/font&gt;</str>
+  <str key="1176610814-ucdt" type="ucdt" originalKey="1176610814">EL纳米装甲包6</str>
+  <str key="1177690390-ucdt" type="ucdt" originalKey="1177690390">Vexari, Zho</str>
+  <str key="1180396846-ucdt" type="ucdt" originalKey="1180396846">灰色装饰鳍鳞片迷彩</str>
+  <str key="1181235350-ucdt" type="ucdt" originalKey="1181235350">NS-D“冰龙”Helios：金质勋章</str>
+  <str key="1183420998-ucdt" type="ucdt" originalKey="1183420998">Vant, Isolde</str>
+  <str key="1184781938-ucdt" type="ucdt" originalKey="1184781938">拥有最佳的防护性和稳定性。配备了高容量的呼吸器和重载外骨骼以适应长时间的水下作战。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有TR重型突击兵可装备此装甲。&lt;/font&gt;</str>
+  <str key="1187706088-ucdt" type="ucdt" originalKey="1187706088">爱心轰炸机喇叭礼包</str>
+  <str key="1188872958-ucdt" type="ucdt" originalKey="1188872958">碎心者</str>
+  <str key="1189430401-ucdt" type="ucdt" originalKey="1189430401">扫描任意种类的鱼25次</str>
+  <str key="1191504146-ucdt" type="ucdt" originalKey="1191504146">Scythe爱心轰炸机玻璃</str>
+  <str key="1192159559-ucdt" type="ucdt" originalKey="1192159559">阿努纳基苏卡尔装甲</str>
+  <str key="1194730459-ucdt" type="ucdt" originalKey="1194730459">飞溅轮胎痕迹</str>
+  <str key="1195536021-ucdt" type="ucdt" originalKey="1195536021">战术冲浪板</str>
+  <str key="1195951773-ucdt" type="ucdt" originalKey="1195951773">谨以此纪念款横幅送给所有游戏测试服玩家——感谢各位为“未开发蓄水池”设施以及突击模式提出的爆炸性反馈！为你的角色解锁个人资料横幅。</str>
+  <str key="1208029223-ucdt" type="ucdt" originalKey="1208029223">EVL警笛</str>
+  <str key="1210630267-ucdt" type="ucdt" originalKey="1210630267">每年，奥星圣诞节的景象都会振奋各地的士兵。它提醒着我们要留点时间陪伴身边的人，在全神关注战争之余，也要多关注我们所在的世界。&lt;br&gt;&lt;br&gt;在此次奥星圣诞节期间，我们将迎来“冰冻科技”主题！&lt;br&gt;&lt;br&gt;其中就包含了一些令人直打寒战的成就奖励，比如：&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;font color="#ACE1E5"&gt;&lt;li&gt;电子脉冲涂装&lt;/li&gt;&lt;li&gt;电子脉冲横幅&lt;/li&gt;&lt;li&gt;电子脉冲横幅框&lt;/li&gt;&lt;li&gt;电子脉冲迷彩&lt;/li&gt;&lt;li&gt;电子脉冲喇叭&lt;/li&gt;&lt;/font&gt;&lt;/ul&gt;&lt;br&gt;我们还将在商城上架今年常规节日物品，以及一些新增物品：&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;font color="#ACE1E5"&gt; &lt;li&gt;NS-D“冰龙”Helios&lt;/li&gt;&lt;li&gt;元素龙头盔会员专属物品更新&lt;/li&gt;&lt;/font&gt;&lt;/ul&gt;</str>
+  <str key="1210832229-ucdt" type="ucdt" originalKey="1210832229">在Auraxis庆祝又一个充满精彩的年份，并获得这些炫酷装饰！你已经生存到了2025年！现在让我们在2025年里蓬勃发展吧！</str>
+  <str key="1211483574-ucdt" type="ucdt" originalKey="1211483574">NS万能钥匙：金质勋章</str>
+  <str key="1211920474-ucdt" type="ucdt" originalKey="1211920474">用爱心轰炸机喇叭分享你的爱。</str>
+  <str key="1246853293-ucdt" type="ucdt" originalKey="1246853293">入手爱心轰炸机礼包来感受爱意，你可以利用其中的头盔、涂装和迷彩向敌人展示你的爱意！所有阵营可在此礼包中获得阵营对应的版本。</str>
+  <str key="1246980234-ucdt" type="ucdt" originalKey="1246980234">Harasser小丑喇叭</str>
+  <str key="1249945256-ucdt" type="ucdt" originalKey="1249945256">占领电力中心25次。</str>
+  <str key="1256963032-ucdt" type="ucdt" originalKey="1256963032">NS“Primed Diamond”碎片：金质勋章</str>
+  <str key="1261007180-ucdt" type="ucdt" originalKey="1261007180">部署一个货物设备，让附近友方载具获得“破门”能力，从而通过大门。冷却时间为55秒。</str>
+  <str key="1261022930-ucdt" type="ucdt" originalKey="1261022930">点防御</str>
+  <str key="1261345752-ucdt" type="ucdt" originalKey="1261345752">Draegor, Helena</str>
+  <str key="1261451436-ucdt" type="ucdt" originalKey="1261451436">噩兆喇叭</str>
+  <str key="1263709401-ucdt" type="ucdt" originalKey="1263709401">反应装甲4</str>
+  <str key="1264108593-ucdt" type="ucdt" originalKey="1264108593">用这些勾起回忆的限时物品庆祝《PlanetSide》系列22周年。</str>
+  <str key="1264200062-ucdt" type="ucdt" originalKey="1264200062">Juno, Clarke</str>
+  <str key="1264555228-ucdt" type="ucdt" originalKey="1264555228">探测器电池</str>
+  <str key="1265713129-ucdt" type="ucdt" originalKey="1265713129">完成5次警报。</str>
+  <str key="1266022054-ucdt" type="ucdt" originalKey="1266022054">部署护盾4</str>
+  <str key="1269584847-ucdt" type="ucdt" originalKey="1269584847">爱心轰炸机破片手雷</str>
+  <str key="1269881689-ucdt" type="ucdt" originalKey="1269881689">Auraxian Bober车标</str>
+  <str key="1270341394-ucdt" type="ucdt" originalKey="1270341394">阿努纳基之刃：Auraxium勋章</str>
+  <str key="1271406083-ucdt" type="ucdt" originalKey="1271406083">&lt;font size="28"&gt;夏日之趣再临Auraxis！&lt;br&gt;&lt;br&gt;我们特此新增了两个活动成就以表庆祝：&lt;br&gt;&amp;#8226; &lt;font color="#ACE1E5"&gt;行动：追光者&lt;/font&gt;由7月9日持续至8月6日&lt;br&gt;&amp;#8226; &lt;font color="#ACE1E5"&gt;行动：裂地者&lt;/font&gt;！由8月7日持续至9月6日&lt;br&gt;&lt;br&gt;戴上为各个阵营定制的&lt;font color="#ACE1E5"&gt;蛙人头盔&lt;/font&gt;一探究竟！&lt;br&gt;&lt;br&gt;&lt;font size="28" color="#ACE1E5"&gt; &amp;#8226;&lt;/font&gt; New &lt;font color="#ACE1E5"&gt;长期成就&lt;/font&gt;已添加至战略成就页面。&lt;font color="#ACE1E5"&gt;征服 - Indar&lt;/font&gt;、&lt;font color="#ACE1E5"&gt;Hossin&lt;/font&gt;、&lt;font color="#ACE1E5"&gt;Esamir&lt;/font&gt;和&lt;font color="#ACE1E5"&gt;Amerish&lt;/font&gt;。&lt;br&gt;&lt;br&gt;&lt;font size="28" color="#ACE1E5"&gt; &amp;#8226;&lt;/font&gt;&lt;font color="#ACE1E5"&gt;解放礼包&lt;/font&gt;现已在仓库回归，同时归来的还有各种信号枪、 军用水枪和以及独立日装饰。&lt;br&gt;&lt;br&gt;&lt;font size="28" color="#ACE1E5"&gt; &amp;#8226;&lt;/font&gt;用全新的&lt;font color="#ACE1E5"&gt;重制版Sunderer&lt;/font&gt;震撼众人，记得在我们的社交频道告诉我们你的发现！</str>
+  <str key="1275177266-ucdt" type="ucdt" originalKey="1275177266">声呐喇叭</str>
+  <str key="1275220961-ucdt" type="ucdt" originalKey="1275220961">配备了一套通信中继系统和战术协作模块，让医疗兵可以有效地为盟友提供指引和支援，提升整个作战队伍在水下战斗中的凝聚力和作战效率。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有NSO战斗医疗兵可装备此装甲。&lt;/font&gt;</str>
+  <str key="1275379583-ucdt" type="ucdt" originalKey="1275379583">NS-44 "Primed Diamond" Commissioner：Auraxium勋章</str>
+  <str key="1286429053-ucdt" type="ucdt" originalKey="1286429053">停止受到以下类型的伤害：重型炸药、反坦克地雷、轻型反载具、步兵火箭筒、步兵瞄准、坦克炮弹、空对地弹头。每层装甲板为独立启动和再生，34秒后重新启动。Sunderer恢复满血可以缩短再生时间，顺序如下：正面、左侧、右侧、背面、顶部</str>
+  <str key="1288153027-ucdt" type="ucdt" originalKey="1288153027">入手这些礼包，以别开生面的方式欢庆情人节的到来！</str>
+  <str key="1288940112-ucdt" type="ucdt" originalKey="1288940112">徒步穿越Amerish大陆</str>
+  <str key="1288948818-ucdt" type="ucdt" originalKey="1288948818">NS-11CG糖果消音器</str>
+  <str key="1289067418-ucdt" type="ucdt" originalKey="1289067418">NS“Primed Amethyst”碎片：铜质勋章</str>
+  <str key="1289104319-ucdt" type="ucdt" originalKey="1289104319">用爱心轰炸机喇叭分享你的爱。所有阵营都可以使用此装备。</str>
+  <str key="1289525409-ucdt" type="ucdt" originalKey="1289525409">守卫Hossin的生物实验室。</str>
+  <str key="1290472957-ucdt" type="ucdt" originalKey="1290472957">欧夏尔锯齿颌鱼</str>
+  <str key="1300775288-ucdt" type="ucdt" originalKey="1300775288">Dorian, Calvin</str>
+  <str key="1301146138-ucdt" type="ucdt" originalKey="1301146138">授予“战术评估员”前缀头衔。</str>
+  <str key="1302129127-ucdt" type="ucdt" originalKey="1302129127">电子脉冲横幅</str>
+  <str key="1322415968-ucdt" type="ucdt" originalKey="1322415968">购买载具装备可享40%的折扣！</str>
+  <str key="1322815142-ucdt" type="ucdt" originalKey="1322815142">相关人员需要深入洞穴以及Indar的其他地下环境时使用的轻型装甲。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;此装甲只能由人类渗透者装备。&lt;/font&gt;</str>
+  <str key="1323615415-ucdt" type="ucdt" originalKey="1323615415">部署后，武器射速提高20%、投射物速度提高20%、装弹的时间减少50%，但武器射程缩短60%</str>
+  <str key="1327631818-ucdt" type="ucdt" originalKey="1327631818">亡者引信</str>
+  <str key="1331370454-ucdt" type="ucdt" originalKey="1331370454">爱心轰炸机[#DECAL#]</str>
+  <str key="1335828815-ucdt" type="ucdt" originalKey="1335828815">授予“乌鸦”前缀头衔。</str>
+  <str key="1336778514-ucdt" type="ucdt" originalKey="1336778514">NSO-D“Kishin”装备礼包</str>
+  <str key="1336872923-ucdt" type="ucdt" originalKey="1336872923">阿努纳基探索者装甲</str>
+  <str key="1337818390-ucdt" type="ucdt" originalKey="1337818390">疣猪海信使是一种体型较小、易于扫描的混种生物，在盐水水域中随处可见。这种生物的腿很简陋，可以抓住岩石捕食藻类，甚至在遇到危险时离开水面。</str>
+  <str key="1349566389-ucdt" type="ucdt" originalKey="1349566389">战斗医疗兵职业涂装</str>
+  <str key="1360584170-ucdt" type="ucdt" originalKey="1360584170">配备了集成一体的静音推进系统和改良版的光学迷彩。能让Infiltrator在执行隐秘水下行动时不被敌方侦测到。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有NC Infiltrator可装备此装甲。&lt;/font&gt;</str>
+  <str key="1363150249-ucdt" type="ucdt" originalKey="1363150249">NS龙息系列是一套装饰性火焰，可以为武器添加额外的火焰效果。其设计初衷是作为市场吸引各个阵营购买最新款NS Dragon的营销策略。也就是现在广为人知的“Helios”。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;这一附件可以将武器的火焰变为&lt;font color="#008000"&gt;绿色&lt;/font&gt;。&lt;/font&gt;</str>
+  <str key="1363903742-ucdt" type="ucdt" originalKey="1363903742">头衔：仲裁人</str>
+  <str key="1363966415-ucdt" type="ucdt" originalKey="1363966415">快来抢购会员专属的角色装饰物品吧！整个5月期间均可购买！（之前的Amazon Prime奖励）</str>
+  <str key="1365348831-ucdt" type="ucdt" originalKey="1365348831">授予“太空之鲸”前缀头衔。</str>
+  <str key="1366998280-ucdt" type="ucdt" originalKey="1366998280">守卫技术工厂250次。</str>
+  <str key="1375163773-ucdt" type="ucdt" originalKey="1375163773">加入Nascent Expeditions的NS特工配备全封闭式头盔以减少在调查因达尔的严酷荒原时部件的磨损。这种面料旨在当太阳最强烈时，减少可能出现的过热问题。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;所有职业、所有派系都可以使用此装备。&lt;/font&gt;</str>
+  <str key="1375179487-ucdt" type="ucdt" originalKey="1375179487">Stryder描述</str>
+  <str key="1386890717-ucdt" type="ucdt" originalKey="1386890717">Amerish明信片旗帜</str>
+  <str key="1387429970-ucdt" type="ucdt" originalKey="1387429970">“I was there...”旗帜</str>
+  <str key="1387553748-ucdt" type="ucdt" originalKey="1387553748">头衔：协调人</str>
+  <str key="1388437855-ucdt" type="ucdt" originalKey="1388437855">WMC“Barracuda”蛙人装备礼包</str>
+  <str key="1395818270-ucdt" type="ucdt" originalKey="1395818270">安努氏相信人类（阿达姆）是外星神王阿努的直系后裔。阿努曾在史前时代与其神裔Vanu一同降临地球。&lt;br&gt;&lt;br&gt;该教派的虔诚信徒被称为“探索者”，他们的责任是肃清“主权”领地内所有背弃信仰的毁像者。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;包含所有非Max职业都可穿戴的头盔和装甲。仅限Vanu Sovereignty阵营使用。&lt;/font&gt;</str>
+  <str key="1396339583-ucdt" type="ucdt" originalKey="1396339583">扫描呆呆咕哝鱼30次</str>
+  <str key="1396763519-ucdt" type="ucdt" originalKey="1396763519">夏日海浪更新</str>
+  <str key="1396899732-ucdt" type="ucdt" originalKey="1396899732">安努氏装甲</str>
+  <str key="1397260528-ucdt" type="ucdt" originalKey="1397260528">在[#FLASH#]上添加海怪外壳。所有阵营均可使用此装备。</str>
+  <str key="1398402297-ucdt" type="ucdt" originalKey="1398402297">改变载具的航迹云颜色。</str>
+  <str key="1398417838-ucdt" type="ucdt" originalKey="1398417838">NS-44 "Primed Lapis" Commissioner：银质勋章</str>
+  <str key="1399068159-ucdt" type="ucdt" originalKey="1399068159">对以下伤害类型的抵抗能力增强30%：重型炸药、反坦克地雷、轻型反载具、步兵火箭筒、步兵瞄准、坦克炮弹、空对地弹头和反器材步枪伤害</str>
+  <str key="1399597302-ucdt" type="ucdt" originalKey="1399597302">Valkyrie爱心轰炸机航迹云</str>
+  <str key="1400368747-ucdt" type="ucdt" originalKey="1400368747">为探针供电的标准低容量电池。电池容量小，充电速度快，但运行时间较短。</str>
+  <str key="1402257691-ucdt" type="ucdt" originalKey="1402257691">部署护盾3</str>
+  <str key="1402771484-ucdt" type="ucdt" originalKey="1402771484">对以下伤害类型的抵抗能力增强28%：重型炸药、反坦克地雷、轻型反载具、步兵火箭筒、步兵瞄准、坦克炮弹、空对地弹头和反器材步枪伤害</str>
+  <str key="1404223508-ucdt" type="ucdt" originalKey="1404223508">NS-44 "Primed Lapis" Commissioner：铜质勋章</str>
+  <str key="1405289911-ucdt" type="ucdt" originalKey="1405289911">占领生物实验室15次。</str>
+  <str key="1413090520-ucdt" type="ucdt" originalKey="1413090520">无尘室</str>
+  <str key="1413783442-ucdt" type="ucdt" originalKey="1413783442">NS龙息系列是一套装饰性火焰，可以为武器添加额外的火焰效果。其设计初衷是作为市场吸引各个阵营购买最新款NS Dragon的营销策略。也就是现在广为人知的“Helios”。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;这一附件可以将武器的火焰变为&lt;font color="#0000ff"&gt;蓝色&lt;/font&gt;。&lt;/font&gt;</str>
+  <str key="1428577629-ucdt" type="ucdt" originalKey="1428577629">Rhun, Valencia</str>
+  <str key="1432123279-ucdt" type="ucdt" originalKey="1432123279">忠诚十二周年横幅框</str>
+  <str key="1432716423-ucdt" type="ucdt" originalKey="1432716423">网纹花药鱼是一种平静水域中常见的底栖鱼类。这种大型生物身覆硬甲，会潜伏在浑浊的水域中伏击猎物。花药鱼头部布满网眼头，充当一个传感器系统。触手提供了短距离的爆发游速。</str>
+  <str key="1434106210-ucdt" type="ucdt" originalKey="1434106210">无法骇入已部署的载具</str>
+  <str key="1436084531-ucdt" type="ucdt" originalKey="1436084531">授予“Amerish”后缀头衔</str>
+  <str key="1442438665-ucdt" type="ucdt" originalKey="1442438665">完成宗师成就</str>
+  <str key="1447278258-ucdt" type="ucdt" originalKey="1447278258">Indar荒原环境严酷无情。医疗领域的特工配备了各种初级装备和一些温控抗生素和止痛药，以防在探索途中不幸感染疾病。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;此装甲只能由人类战斗医疗兵穿着。&lt;/font&gt;</str>
+  <str key="1450211586-ucdt" type="ucdt" originalKey="1450211586">协调人</str>
+  <str key="1471272033-ucdt" type="ucdt" originalKey="1471272033">Extra Life 2025</str>
+  <str key="1483760111-ucdt" type="ucdt" originalKey="1483760111">完成大师成就</str>
+  <str key="1497447420-ucdt" type="ucdt" originalKey="1497447420">对于Auraxis人来说，龙代表着神秘与科学的融合，象征着探索者与创新者，特别是追求解锁宇宙奥秘的Vanu Sovereignty。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的装甲或载具添加[#DECAL#]。&lt;/font&gt;</str>
+  <str key="1499326548-ucdt" type="ucdt" originalKey="1499326548">ASE-I Corvid装甲</str>
+  <str key="1500491662-ucdt" type="ucdt" originalKey="1500491662">Javelin电子脉冲喇叭</str>
+  <str key="1502811176-ucdt" type="ucdt" originalKey="1502811176">WMC-HA“Barracuda”蛙人装甲</str>
+  <str key="1505543253-ucdt" type="ucdt" originalKey="1505543253">守卫能量容纳站250次。</str>
+  <str key="1506832405-ucdt" type="ucdt" originalKey="1506832405">鱼币</str>
+  <str key="1507525820-ucdt" type="ucdt" originalKey="1507525820">Dervish爱心轰炸机玻璃</str>
+  <str key="1510002201-ucdt" type="ucdt" originalKey="1510002201">Mosquito爱心轰炸机喇叭</str>
+  <str key="1517947422-ucdt" type="ucdt" originalKey="1517947422">Indar</str>
+  <str key="1519245020-ucdt" type="ucdt" originalKey="1519245020">悬挂式弹药1</str>
+  <str key="1527493654-ucdt" type="ucdt" originalKey="1527493654">观察者</str>
+  <str key="1528258503-ucdt" type="ucdt" originalKey="1528258503">Harper, Michael</str>
+  <str key="1528344500-ucdt" type="ucdt" originalKey="1528344500">小精灵喇叭</str>
+  <str key="1530686921-ucdt" type="ucdt" originalKey="1530686921">为你的载具添加迷彩。仅限NSO使用。</str>
+  <str key="1532374320-ucdt" type="ucdt" originalKey="1532374320">ANT小丑喇叭</str>
+  <str key="1534768146-ucdt" type="ucdt" originalKey="1534768146">NS-DB紫色弹药</str>
+  <str key="1539337414-ucdt" type="ucdt" originalKey="1539337414">这些大型生物热腾腾的血浆状血液可帮助它们在任何温度下生存，这也是这种生物在冷水水域如此常见的原因。血浆破坏者冲向猎物，用其脸上的尖刺进行攻击。</str>
+  <str key="1539382889-ucdt" type="ucdt" originalKey="1539382889">Rhine, Jared</str>
+  <str key="1542042771-ucdt" type="ucdt" originalKey="1542042771">NS：重型手枪01：Primed Diamond：Auraxium勋章</str>
+  <str key="1543508160-ucdt" type="ucdt" originalKey="1543508160">EL医疗枪6</str>
+  <str key="1545767663-ucdt" type="ucdt" originalKey="1545767663">一把多功能刀，刀刃锐利，刀背则呈锯齿状。可帮助司法官从顽固的嫌疑人口中撬出想要了解的情报。</str>
+  <str key="1552223079-ucdt" type="ucdt" originalKey="1552223079">由深蓝水晶锻造而成，NS“Primed Lapis”碎片是为那些在混乱中寻找清澈的人打造的刀刃。它的锋刃和它所代表的真理一样锐利，能精准地切断谎言和不确定性。</str>
+  <str key="1553194351-ucdt" type="ucdt" originalKey="1553194351">安装后，被动探测附近80米范围内的敌人。启动后可部署一个雷达，探测半径120米，冷却时间为45秒。</str>
+  <str key="1553965388-ucdt" type="ucdt" originalKey="1553965388">纳能装甲3</str>
+  <str key="1554733182-ucdt" type="ucdt" originalKey="1554733182">LiquidTech“A-1”</str>
+  <str key="1560992273-ucdt" type="ucdt" originalKey="1560992273">占领Indar的生物实验室1次。</str>
+  <str key="1567078444-ucdt" type="ucdt" originalKey="1567078444">Blackstone, Julian</str>
+  <str key="1567597836-ucdt" type="ucdt" originalKey="1567597836">纳能装甲</str>
+  <str key="1569367219-ucdt" type="ucdt" originalKey="1569367219">Xelith, Auron</str>
+  <str key="1572092235-ucdt" type="ucdt" originalKey="1572092235">部署护盾1</str>
+  <str key="1573970859-ucdt" type="ucdt" originalKey="1573970859">阿努纳基战士头盔</str>
+  <str key="1584224741-ucdt" type="ucdt" originalKey="1584224741">所有职业都可装备。仅限NSO使用。</str>
+  <str key="1592110128-ucdt" type="ucdt" originalKey="1592110128">安努氏头盔</str>
+  <str key="1592895143-ucdt" type="ucdt" originalKey="1592895143">部署后，武器射速提高5%、投射物速度提高20%、装弹的时间减少20%，但武器射程缩短60%</str>
+  <str key="1595962489-ucdt" type="ucdt" originalKey="1595962489">射程</str>
+  <str key="1601273491-ucdt" type="ucdt" originalKey="1601273491">让在30米范围内的友方载具恢复75点生命值，并且不影响Corsair本身。</str>
+  <str key="1601284633-ucdt" type="ucdt" originalKey="1601284633">NS-44 "Primed Lapis" Commissioner</str>
+  <str key="1619855974-ucdt" type="ucdt" originalKey="1619855974">成就礼包：Auraxis圣诞节（2023年）</str>
+  <str key="1622000575-ucdt" type="ucdt" originalKey="1622000575">这种体型巨大、极其罕见的鱼很难在平静水域中找到。其生活在最深的水域，是一种领地意识很强的鱼。人们对于这种鱼的习性知之甚少，科学家们愿意为获取任何有关它的信息付出高昂代价。</str>
+  <str key="1623000915-ucdt" type="ucdt" originalKey="1623000915">部署后形成一层最多可以吸收4000伤害的护盾。这层护盾以100生命值/秒的速率持续恢复生命值，直到被摧毁。被摧毁后，这层护盾需要等待20秒才能重新启动。</str>
+  <str key="1623336732-ucdt" type="ucdt" originalKey="1623336732">占领电力中心100次。</str>
+  <str key="1624026362-ucdt" type="ucdt" originalKey="1624026362">占领技术工厂25次。</str>
+  <str key="1624804321-ucdt" type="ucdt" originalKey="1624804321">忠诚十二周年横幅</str>
+  <str key="1626025081-ucdt" type="ucdt" originalKey="1626025081">感应雷达描述</str>
+  <str key="1626260175-ucdt" type="ucdt" originalKey="1626260175">阿努氏的工程师，他们坚信自己的技艺无不是在致敬七圣贤，正是七圣贤赋予了他们创造之力。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;此头盔仅适用于VS工程师。&lt;/font&gt;</str>
+  <str key="1628361637-ucdt" type="ucdt" originalKey="1628361637">Thess, Kalon</str>
+  <str key="1628598031-ucdt" type="ucdt" originalKey="1628598031">阿努氏的工程师，他们坚信自己的技艺无不是在致敬七圣贤，正是七圣贤赋予了他们创造之力。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;此装甲仅适用于VS工程师。&lt;/font&gt;</str>
+  <str key="1630655542-ucdt" type="ucdt" originalKey="1630655542">未安装电池</str>
+  <str key="1632682562-ucdt" type="ucdt" originalKey="1632682562">&lt;font size="32"&gt;4月1日至4月4日期间所有阵营双倍经验！&lt;br&gt;戴上&lt;font color="#ACE1E5"&gt; 大鼻子&lt;/font&gt;还可获取更多奖励经验！&lt;br&gt;&lt;br&gt;千万不要错过&lt;font color="#ACE1E5"&gt;仓库&lt;/font&gt;中的限时礼包，其中包括大受欢迎的载具喇叭及收纳了 &lt;font color="#ACE1E5"&gt;Puzzler Liberator挡风玻璃&lt;/font&gt;、&lt;font color="#ACE1E5"&gt;Puzzler发盔&lt;/font&gt;、&lt;font color="#ACE1E5"&gt;Puzzler车标&lt;/font&gt;、旗帜等精彩内容的全新&lt;font color="#ACE1E5"&gt;Puzzler礼包&lt;/font&gt;。</str>
+  <str key="1632777890-ucdt" type="ucdt" originalKey="1632777890">黎明后裔</str>
+  <str key="1638600239-ucdt" type="ucdt" originalKey="1638600239">部署后，可提高武器射速、投射物速度，并减少装弹的时间，但会让武器射程缩短。</str>
+  <str key="1638827215-ucdt" type="ucdt" originalKey="1638827215">部署一个货物设备，让附近友方载具获得“破门”能力，从而通过大门。冷却时间为45秒。</str>
+  <str key="1641524154-ucdt" type="ucdt" originalKey="1641524154">PB-120移动电源</str>
+  <str key="1642576234-ucdt" type="ucdt" originalKey="1642576234">一种中等大小的鱼类，通常能在盐水水域深处找到。这种缓慢游动的生物会用灯光引诱猎物，等猎物靠得足够近时，将其钩住。</str>
+  <str key="1644018081-ucdt" type="ucdt" originalKey="1644018081">乌鸦</str>
+  <str key="1646588503-ucdt" type="ucdt" originalKey="1646588503">额外生命医疗枪</str>
+  <str key="1653172893-ucdt" type="ucdt" originalKey="1653172893">为你的装甲、武器或载具添加动态迷彩。仅限&lt;font color="#0140a4"&gt;NC&lt;/font&gt;阵营使用。</str>
+  <str key="1654219647-ucdt" type="ucdt" originalKey="1654219647">电池</str>
+  <str key="1657145895-ucdt" type="ucdt" originalKey="1657145895">十二周年庆典</str>
+  <str key="1658949890-ucdt" type="ucdt" originalKey="1658949890">重制版Sunderer全新上线！</str>
+  <str key="1661620637-ucdt" type="ucdt" originalKey="1661620637">额外生命迷彩</str>
+  <str key="1665439157-ucdt" type="ucdt" originalKey="1665439157">Nethor, Calyx</str>
+  <str key="1671439350-ucdt" type="ucdt" originalKey="1671439350">NSO-D“Breaker Vox”头盔</str>
+  <str key="1678284775-ucdt" type="ucdt" originalKey="1678284775">守卫Esamir的技术工厂。</str>
+  <str key="1679416118-ucdt" type="ucdt" originalKey="1679416118">NE-I荒原防弹衣</str>
+  <str key="1684095618-ucdt" type="ucdt" originalKey="1684095618">Puzzler礼包</str>
+  <str key="1687274403-ucdt" type="ucdt" originalKey="1687274403">稀有</str>
+  <str key="1688379020-ucdt" type="ucdt" originalKey="1688379020">守卫电力中心250次。</str>
+  <str key="1689662368-ucdt" type="ucdt" originalKey="1689662368">让在30米范围内的友方载具恢复150点生命值，并且不影响Corsair本身。</str>
+  <str key="1702620884-ucdt" type="ucdt" originalKey="1702620884">在Oshur扫描鱼</str>
+  <str key="1707314368-ucdt" type="ucdt" originalKey="1707314368">探索者是无形的审判之手，负责在异端分子传播有关Vanu Sovereignty的邪说之前将其揪出。对大多数人而言，那不过都是些流言蜚语。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;此装甲仅适用于VS Infiltrator。&lt;/font&gt;</str>
+  <str key="1707430127-ucdt" type="ucdt" originalKey="1707430127">Oryx, Thalen</str>
+  <str key="1708064594-ucdt" type="ucdt" originalKey="1708064594">Donovan, Jack</str>
+  <str key="1709000529-ucdt" type="ucdt" originalKey="1709000529">Carter, Luke</str>
+  <str key="1709734040-ucdt" type="ucdt" originalKey="1709734040">外骨骼增生鱼</str>
+  <str key="1714970110-ucdt" type="ucdt" originalKey="1714970110">强光光环车标</str>
+  <str key="1718869895-ucdt" type="ucdt" originalKey="1718869895">4月会员礼包I</str>
+  <str key="1724879384-ucdt" type="ucdt" originalKey="1724879384">可更换的发射器模块让你可以精准匹配不同大小鱼类的频率。中等长度的无线电波非常适合扫描中等大小的鱼类。</str>
+  <str key="1728085539-ucdt" type="ucdt" originalKey="1728085539">克洛诺斯之眼涂装</str>
+  <str key="1729556178-ucdt" type="ucdt" originalKey="1729556178">克洛诺斯之眼严格遵守法律，堪称原教旨主义。在表面上，Republic人民会说“正义使者”和“裁决人”在维护正义时是公平公正的。其他人则认为他们利用恐吓手段来控制Republic人民，并惩处那些被司法系统抓住的十足倒霉蛋以儆效尤。但这不过是Terran Republic的敌人散布的谣言。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的个人资料解锁横幅。仅限Terran Republic阵营使用。&lt;/font&gt;</str>
+  <str key="1736521186-ucdt" type="ucdt" originalKey="1736521186">普通湿叼鱼是一种常见于深海的小型盲鱼。尽管其长相丑陋，但却是一种非常贪吃且活跃的鱼类，以小型甲壳类动物为食。它们主要依靠强烈的嗅觉来寻找食物。</str>
+  <str key="1740752203-ucdt" type="ucdt" originalKey="1740752203">爱心轰炸机Mk.II迷彩</str>
+  <str key="1741167857-ucdt" type="ucdt" originalKey="1741167857">Anunnaki Blade</str>
+  <str key="1748352714-ucdt" type="ucdt" originalKey="1748352714">阿努纳基安玛努头盔</str>
+  <str key="1750495979-ucdt" type="ucdt" originalKey="1750495979">授予“黎明后裔”前缀头衔。</str>
+  <str key="1750586358-ucdt" type="ucdt" originalKey="1750586358">Veyra, Pharn</str>
+  <str key="1756179148-ucdt" type="ucdt" originalKey="1756179148">扫描巨型鱼类</str>
+  <str key="1756728871-ucdt" type="ucdt" originalKey="1756728871">Talvox, Eren</str>
+  <str key="1767008248-ucdt" type="ucdt" originalKey="1767008248">头衔：考古技术员</str>
+  <str key="1767615685-ucdt" type="ucdt" originalKey="1767615685">情人节促销！</str>
+  <str key="1770482922-ucdt" type="ucdt" originalKey="1770482922">NS“Primed Lapis”碎片：银质勋章</str>
+  <str key="1771139898-ucdt" type="ucdt" originalKey="1771139898">采用了水动力设计和先进的推进系统，可以在水下迅捷移动。非常适合用来发动突袭以及快速威胁敌人，确保特工可以在水下发挥出远超敌方的机动性能。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有NSO轻型突击兵可装备此装甲。&lt;/font&gt;</str>
+  <str key="1772523262-ucdt" type="ucdt" originalKey="1772523262">NS-44 "Primed Diamond" Commissioner：金质勋章</str>
+  <str key="1774190261-ucdt" type="ucdt" originalKey="1774190261">行动：裂地者</str>
+  <str key="1780215156-ucdt" type="ucdt" originalKey="1780215156">让在30米范围内的友方载具恢复50点生命值，并且不影响Corsair本身。</str>
+  <str key="1780381099-ucdt" type="ucdt" originalKey="1780381099">全金属喷射鱼</str>
+  <str key="1781046813-ucdt" type="ucdt" originalKey="1781046813">Colossus控制</str>
+  <str key="1782463002-ucdt" type="ucdt" originalKey="1782463002">Galaxy小丑喇叭</str>
+  <str key="1787029383-ucdt" type="ucdt" originalKey="1787029383">可部署货物侦察奖励</str>
+  <str key="1790560690-ucdt" type="ucdt" originalKey="1790560690">用爱心轰炸机喇叭分享你的爱。所有阵营都可以使用此装备。</str>
+  <str key="1800905478-ucdt" type="ucdt" originalKey="1800905478">为Flash装备这些轮胎痕迹，在Oshur的海滩上嬉戏，或在Hossin的沼泽中艰难跋涉！所有阵营都可以使用此装备。</str>
+  <str key="1802939572-ucdt" type="ucdt" originalKey="1802939572">O'Neal, Adam</str>
+  <str key="1803095269-ucdt" type="ucdt" originalKey="1803095269">NSO-K“Delta”头盔</str>
+  <str key="1804082340-ucdt" type="ucdt" originalKey="1804082340">Zerax, Vale</str>
+  <str key="1804591165-ucdt" type="ucdt" originalKey="1804591165">Galaxy电子脉冲喇叭</str>
+  <str key="1805503716-ucdt" type="ucdt" originalKey="1805503716">Kelari, Vos</str>
+  <str key="1816911238-ucdt" type="ucdt" originalKey="1816911238">广阔的战场上涌现出的大批太空南瓜正在Auraxis到处制造着混乱！&lt;br&gt;&lt;br&gt;今年Auraxis的太空南瓜季将以一种色彩缤纷的形式呈现，为大家带来漂亮的&lt;font color="#ACE1E5"&gt;亡灵节奖励&lt;/font&gt;。&lt;br&gt;&lt;ui&gt;&lt;li&gt;亡灵横幅&lt;/li&gt;&lt;li&gt;亡灵横幅框&lt;/li&gt;&lt;li&gt;亡灵迷彩&lt;/li&gt;&lt;li&gt;亡灵面具&lt;/li&gt;&lt;/ui&gt;&lt;br&gt;&lt;br&gt;&lt;font color="#ACE1E5"&gt;被遗忘的舰队航母&lt;/font&gt;警报本月限时回归！&lt;br&gt;&lt;br&gt;部分季节性装饰将在商城再次上架，还有一场&lt;font color="#ACE1E5"&gt;持续整月的大促销&lt;/font&gt;：&lt;br&gt;&lt;ui&gt;&lt;li&gt;步兵装备：6折&lt;/li&gt;&lt;li&gt;步兵武器：6折&lt;/li&gt;&lt;li&gt;步兵用具：6折&lt;/li&gt;&lt;li&gt;载具装备：6折&lt;/li&gt;&lt;li&gt;载具武器：6折&lt;/li&gt;&lt;li&gt;载具用具：6折&lt;/li&gt;&lt;li&gt;迷彩：6折&lt;/li&gt;&lt;/ui&gt;&lt;br&gt;&lt;br&gt;&lt;font color="#ACE1E5"&gt;玩家可通过节日任务和成就获取旧款和新款面具&lt;/font&gt;。</str>
+  <str key="1824211025-ucdt" type="ucdt" originalKey="1824211025">占领技术工厂100次。</str>
+  <str key="1825169439-ucdt" type="ucdt" originalKey="1825169439">流线型的设计加上较轻的重量有利于提升水下行进速度。可以从敌人意想不到的角度发动迅捷进攻。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有NC轻型突击兵可装备此装甲。&lt;/font&gt;</str>
+  <str key="1826367812-ucdt" type="ucdt" originalKey="1826367812">2024情人节</str>
+  <str key="1827536326-ucdt" type="ucdt" originalKey="1827536326">《PlanetSide》系列周年庆典</str>
+  <str key="1827971227-ucdt" type="ucdt" originalKey="1827971227">被动修复20米范围内的非Sunderer载具，速率为33生命值/秒。启动后可部署一个修复站，以165生命值/秒的速率修复40米范围内的载具，冷却时间为60秒。Sunderer从部署的修复站获得的修复更少，从未部署处不获得任何修复。</str>
+  <str key="1830412352-ucdt" type="ucdt" originalKey="1830412352">NS-DB绿色弹药</str>
+  <str key="1835427167-ucdt" type="ucdt" originalKey="1835427167">点防御4</str>
+  <str key="1837170038-ucdt" type="ucdt" originalKey="1837170038">快来抢购会员专属的角色装饰物品吧！整个11月期间均可购买！（之前的Amazon Prime奖励）</str>
+  <str key="1862959494-ucdt" type="ucdt" originalKey="1862959494">Vanguard电子脉冲喇叭</str>
+  <str key="1863628843-ucdt" type="ucdt" originalKey="1863628843">这是战场上罕见的实验性技术 ——“观测者” 搜索引擎能对传入的图像进行分析，探测出Infiltrator隐身所引发的视觉波动。“喷火” 工程兵烈焰炮塔现已可识别隐身目标，但存在3秒的延迟。</str>
+  <str key="1865539028-ucdt" type="ucdt" originalKey="1865539028">Frost, Jennifer</str>
+  <str key="1866959941-ucdt" type="ucdt" originalKey="1866959941">为New Conglomerate麾下神秘的雇佣军团体乌鸦军团量身打造，这款头盔所配备的尖端技术由Woodman Advanced Science &amp; Engineering公司提供，但军团坚持要求使用来自Excavion Outfitters公司的定制设计——体现了战场实用性和唯利是图的战士元素的完美融合。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;所有职业都可以装备。仅限New Conglomerate阵营使用。&lt;/font&gt;</str>
+  <str key="1870410469-ucdt" type="ucdt" originalKey="1870410469">干翻那些小丑！所有阵营均可以使用此装备。</str>
+  <str key="1871331489-ucdt" type="ucdt" originalKey="1871331489">反应装甲</str>
+  <str key="1872309756-ucdt" type="ucdt" originalKey="1872309756">一种内含不同鱼饵味道合成分子的特殊胶囊。为合成这种鱼饵，我们在Auraxis各地进行了大量的鱼类研究。可吸引来任何类型的鱼。</str>
+  <str key="1872727130-ucdt" type="ucdt" originalKey="1872727130">护盾干扰器1</str>
+  <str key="1873247565-ucdt" type="ucdt" originalKey="1873247565">十二周年快乐！</str>
+  <str key="1878450192-ucdt" type="ucdt" originalKey="1878450192">Harasser爱心轰炸机喇叭</str>
+  <str key="1878979787-ucdt" type="ucdt" originalKey="1878979787">扳手刀：Auraxium勋章</str>
+  <str key="1879749379-ucdt" type="ucdt" originalKey="1879749379">为你的装甲、武器和载具添加迷彩。仅限VS使用。</str>
+  <str key="1883253675-ucdt" type="ucdt" originalKey="1883253675">电子脉冲横幅框</str>
+  <str key="1883997015-ucdt" type="ucdt" originalKey="1883997015">协调人的十二周年礼包</str>
+  <str key="1888084487-ucdt" type="ucdt" originalKey="1888084487">下一等级：受到伤害后开始恢复护盾的时间缩短到9秒。</str>
+  <str key="1891311149-ucdt" type="ucdt" originalKey="1891311149">Voss, Erik</str>
+  <str key="1891514818-ucdt" type="ucdt" originalKey="1891514818">守卫Amerish的电力中心。</str>
+  <str key="1893275394-ucdt" type="ucdt" originalKey="1893275394">牛市5</str>
+  <str key="1894436106-ucdt" type="ucdt" originalKey="1894436106">守卫技术工厂30次。</str>
+  <str key="1895909978-ucdt" type="ucdt" originalKey="1895909978">战术评估员</str>
+  <str key="1895989868-ucdt" type="ucdt" originalKey="1895989868">Corsair爱心轰炸机喇叭</str>
+  <str key="1896373879-ucdt" type="ucdt" originalKey="1896373879">NS-11CP糖果消音器</str>
+  <str key="1901820131-ucdt" type="ucdt" originalKey="1901820131">Mosquito爱心轰炸机玻璃</str>
+  <str key="1902329896-ucdt" type="ucdt" originalKey="1902329896">GM Osprey：铜质勋章</str>
+  <str key="1902852950-ucdt" type="ucdt" originalKey="1902852950">为你的装甲、武器或载具添加动态迷彩。仅限&lt;font color="#790019"&gt;TR&lt;/font&gt;阵营使用。</str>
+  <str key="1911408484-ucdt" type="ucdt" originalKey="1911408484">系列21周年庆典旗帜框</str>
+  <str key="1911466387-ucdt" type="ucdt" originalKey="1911466387">“WasThereOW2024”涂装</str>
+  <str key="1911934020-ucdt" type="ucdt" originalKey="1911934020">Mosquito小丑喇叭</str>
+  <str key="1917437096-ucdt" type="ucdt" originalKey="1917437096">一种体型中等、缓慢游动的生物，很容易在冷水水域中找到。尖啸鱼是一种过滤鱼，其唯一能抵御捕食者的武器就是覆盖全身的有毒水泡。</str>
+  <str key="1918112856-ucdt" type="ucdt" originalKey="1918112856">复古朋克迷彩</str>
+  <str key="1921432629-ucdt" type="ucdt" originalKey="1921432629">NS-44 "Primed Diamond" Commissioner</str>
+  <str key="1921946752-ucdt" type="ucdt" originalKey="1921946752">授予“鲸鱼”后缀头衔</str>
+  <str key="1922163620-ucdt" type="ucdt" originalKey="1922163620">Weller, Shane</str>
+  <str key="1924994320-ucdt" type="ucdt" originalKey="1924994320">消防系统</str>
+  <str key="1926966334-ucdt" type="ucdt" originalKey="1926966334">感应雷达1</str>
+  <str key="1927667253-ucdt" type="ucdt" originalKey="1927667253">虚游水牛鱼</str>
+  <str key="1934429002-ucdt" type="ucdt" originalKey="1934429002">在另一载具内时摧毁1000个载具。</str>
+  <str key="1935063809-ucdt" type="ucdt" originalKey="1935063809">这款头盔由回收材料辅以独创设计打造而成，凸显了自由战士的意志，无论是在陆上还是水下，都要反抗暴政。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;所有职业都可以装备。仅限New Conglomerate阵营使用。&lt;/font&gt;</str>
+  <str key="1955642511-ucdt" type="ucdt" originalKey="1955642511">研究人员对于这些大型海洋生物是否具有智慧尚存在争论，但它们非常罕见，无法得出确切结论。外骨骼增生鱼是一种非常不寻常的生物，躲藏在深海中它的半机械胶囊里。</str>
+  <str key="1958337191-ucdt" type="ucdt" originalKey="1958337191">强化Sunderer的装甲值</str>
+  <str key="1958811174-ucdt" type="ucdt" originalKey="1958811174">通过进攻或防御Indar的占领据点来获取据点控制缎带。</str>
+  <str key="1959999898-ucdt" type="ucdt" originalKey="1959999898">在无尘室扫描鱼</str>
+  <str key="1963842083-ucdt" type="ucdt" originalKey="1963842083">农历蛇年迷彩</str>
+  <str key="1966586349-ucdt" type="ucdt" originalKey="1966586349">NS“Primed Amethyst”碎片：Auraxium勋章</str>
+  <str key="1967304106-ucdt" type="ucdt" originalKey="1967304106">为你的驾驶舱增添个性化装饰，在挡风玻璃处加上涂装。仅限NSO使用。</str>
+  <str key="1970478493-ucdt" type="ucdt" originalKey="1970478493">为你的装甲、武器或载具添加动态迷彩。所有阵营均可使用此图案。</str>
+  <str key="1974549230-ucdt" type="ucdt" originalKey="1974549230">纳米装甲包可以修复友方载具、MAX机甲和装备，并且可以摧毁敌方的反坦克地雷。多亏了忠诚的Auraxis人民的慷慨捐赠，Terran Republic得以让他们的MAX机甲更持久地战斗，让他们获取更多优势，并淘汰掉那些越界的敌人。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;按住射击键进行维修，按住瞄准键进行拆除。&lt;/font&gt;</str>
+  <str key="1974594304-ucdt" type="ucdt" originalKey="1974594304">活动持续至9月12日</str>
+  <str key="1974904657-ucdt" type="ucdt" originalKey="1974904657">十二周年纪念迷彩</str>
+  <str key="1978188104-ucdt" type="ucdt" originalKey="1978188104">以至少50%参与度完成Esamir的灾难预警。</str>
+  <str key="1984754356-ucdt" type="ucdt" originalKey="1984754356">授予“亡灵”前缀头衔</str>
+  <str key="1985998868-ucdt" type="ucdt" originalKey="1985998868">Nascent Expeditions旗帜</str>
+  <str key="1986572928-ucdt" type="ucdt" originalKey="1986572928">Mely, Melyna</str>
+  <str key="1989955258-ucdt" type="ucdt" originalKey="1989955258">战争老兵：艾莫若德横幅</str>
+  <str key="1991289485-ucdt" type="ucdt" originalKey="1991289485">为你的装甲、武器或载具添加动态迷彩。仅限NSO阵营使用。</str>
+  <str key="1991913588-ucdt" type="ucdt" originalKey="1991913588">“一团裹挟着静电与悲戚的幽魂，在[#AURAXIS#]的战场上徘徊不去。作为‘永恒虚无’，她悄然穿过敌军防线，虽无人察觉，却已留下深切的印记。&lt;br&gt;&lt;br&gt;“每个鬼魂都记得自己的坟墓。”——Eidolon Yurei&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;[#INFILTRATOR#]可以装备。仅限NSO使用。&lt;/font&gt;
+</str>
+  <str key="1992838679-ucdt" type="ucdt" originalKey="1992838679">Hayes, Oliver</str>
+  <str key="1996320594-ucdt" type="ucdt" originalKey="1996320594">用这些特别物品来庆祝Auraxis战争十二周年！</str>
+  <str key="2005052072-ucdt" type="ucdt" originalKey="2005052072">VO“Nautilus”蛙人装备礼包</str>
+  <str key="2010797957-ucdt" type="ucdt" originalKey="2010797957">&lt;font size="28"&gt;能在战场上多一条命那可是千金不换的。&lt;br&gt;&lt;br&gt;Toadman Interactive与Daybreak Games打算为Extra Life 2024义卖募集超$10,000善款，感谢所有给予支持的Auraxis人民！&lt;br&gt;&lt;br&gt;为了表示谢意，我们将今年推出一个组合包，供所有PlanetSide 2玩家兑换：&lt;br&gt;&amp;#8226; &lt;font color="#ACE1E5"&gt;额外生命涂装&lt;/font&gt;&lt;br&gt;&amp;#8226; &lt;font color="#ACE1E5"&gt;额外生命横幅&lt;/font&gt;&lt;br&gt;&amp;#8226; &lt;font color="#ACE1E5"&gt;额外生命横幅框&lt;/font&gt;&lt;br&gt;&amp;#8226; &lt;font color="#ACE1E5"&gt;额外生命迷彩&lt;/font&gt;&lt;br&gt;&amp;#8226; &lt;font color="#ACE1E5"&gt;额外生命医疗枪&lt;/font&gt;&lt;br&gt;&amp;#8226; &lt;font color="#ACE1E5"&gt;额外生命纳米装甲包&lt;/font&gt; &lt;br&gt;&lt;br&gt;此前推出的额外生命物品，例如&lt;font color="#ACE1E5"&gt;赞助人头盔&lt;/font&gt;和&lt;font color="#ACE1E5"&gt;贡献耳机&lt;/font&gt;这些你此前可能错过的物品将再次上架。&lt;br&gt;&lt;br&gt;如果你想参与此次公益活动，请前往Planetside 2的Extra Life页面表示一下你的心意。你捐赠的每一分钱都意义重大！&lt;br&gt;&lt;br&gt;士兵，你还在等什么呢？！</str>
+  <str key="2014516007-ucdt" type="ucdt" originalKey="2014516007">授予“加尔乌鲁”前缀头衔。</str>
+  <str key="2019010484-ucdt" type="ucdt" originalKey="2019010484">纳能活死人（2024年）</str>
+  <str key="2028393927-ucdt" type="ucdt" originalKey="2028393927">用这个限时礼包来庆祝《Planetside 2》的十二周年吧！</str>
+  <str key="2036592582-ucdt" type="ucdt" originalKey="2036592582">兔子象征着在战争中带来和谐的医护人员、外交官和支持者，他们以关怀和机智的方式处理冲突。它也是Auraxis自然生态系统脆弱美丽的象征。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的角色解锁标志旗帜。&lt;/font&gt;</str>
+  <str key="2036814534-ucdt" type="ucdt" originalKey="2036814534">扫描鱼</str>
+  <str key="2037904148-ucdt" type="ucdt" originalKey="2037904148">这款装甲专为战斗主力部队设计，它将ASE的顶级弹道涂装与Exavion的加固框架有机结合。有传言称，某些装甲已经经历过非传统武器的实战测试——或许是为了应对未来将会面对的威胁。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;  此装甲仅适用于NC重型突击兵。&lt;/font&gt;</str>
+  <str key="2042523895-ucdt" type="ucdt" originalKey="2042523895">Voss, Delara</str>
+  <str key="2043003970-ucdt" type="ucdt" originalKey="2043003970">&lt;font color="#9b4eb6"&gt;欧胡衬衫动态迷彩&lt;/font&gt;</str>
+  <str key="2048177937-ucdt" type="ucdt" originalKey="2048177937">“纳能活死人”横幅</str>
+  <str key="2053538396-ucdt" type="ucdt" originalKey="2053538396">EVL车标</str>
+  <str key="2055708200-ucdt" type="ucdt" originalKey="2055708200">阿斯特拉西蠕虫机甲鱼是沼泽中的传奇鱼类。想要见到这种大型生物并对其进行扫描几乎不太可能。科学家们不惜花费大代价也想了解这种生物是如何将自身与科技设备融合在一起的。</str>
+  <str key="2056012133-ucdt" type="ucdt" originalKey="2056012133">Lin, Viktor</str>
+  <str key="2065068066-ucdt" type="ucdt" originalKey="2065068066">&lt;font size="28" color="#ACE1E5"&gt;黎明之女&lt;/font&gt;头盔和装甲套装隆重登场，在商城显示上架！&lt;br&gt;&lt;br&gt;“作为NSO框架实验系列的一部分 ，即“NSO德尔塔计划”。最初被设计为半自动作战单位，但在一场名为‘极乐故障’的事件后，部分框架演变成了失控的人工智能体，而Nanite Systems会不惜一切代价掩盖此事。”&lt;br&gt;&lt;br&gt;所有职业均可使用的装甲套装：&lt;ul&gt;&lt;/li&gt;&lt;font size="28" color="#ACE1E5"&gt;&lt;li&gt;NSO-D“Breaker Vox”（[#Engineer#]）&lt;/li&gt;&lt;li&gt;NSO-D“Choral Hollow”（[#COMBAT_MEDIC#]）&lt;/li&gt;&lt;li&gt;NSO-D“Golem Suneater”（[#HEAVY_ASSAULT#]）&lt;/li&gt;&lt;li&gt;NSO-D“Derecho Haal”（[#LIGHT_ASSAULT#）&lt;/li&gt;&lt;li&gt;NSO-D“Eidolon Yurei”（[#INFILTRATOR#]）</str>
+  <str key="2066666419-ucdt" type="ucdt" originalKey="2066666419">冰激凌车标</str>
+  <str key="2069402781-ucdt" type="ucdt" originalKey="2069402781">Voss, Ingrid</str>
+  <str key="2072827774-ucdt" type="ucdt" originalKey="2072827774">高级传感系统1</str>
+  <str key="2073319380-ucdt" type="ucdt" originalKey="2073319380">ST-2.301B“纳能施放者”</str>
+  <str key="2073832303-ucdt" type="ucdt" originalKey="2073832303">三叶草车标</str>
+  <str key="2076348045-ucdt" type="ucdt" originalKey="2076348045">牛市</str>
+  <str key="2077532826-ucdt" type="ucdt" originalKey="2077532826">&lt;font size="28"&gt;爱意再次浮现在Auraxis的天空、陆地与海洋。&lt;br&gt;&lt;br&gt;&lt;ui&gt;&lt;li&gt;完成每日&lt;font size="28" color="#ACE1E5"&gt;中间人&lt;/font&gt;任务来帮助Sanctuary的居民，并获取丰厚奖励。&lt;/li&gt;&lt;br&gt;&lt;li&gt;完成今年的&lt;font size="28" color="#ACE1E5"&gt;情人节&lt;/font&gt;成就，展现你对L-O-V-E的奉献精神。&lt;/li&gt;&lt;br&gt;&lt;li&gt;领取全新&lt;font size="28" color="#ACE1E5"&gt;爱心轰炸机玻璃和航迹云&lt;/font&gt;礼包，或者在&lt;font size="28" color="#ACE1E5"&gt;仓库&lt;/font&gt;里发现一款限时回归的迷彩、武器和装饰。&lt;/li&gt;&lt;/ui&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size="28"&gt;错过了之前的情人节成就奖励？Daybreak All-Access会员可以在这个月购买前几年的成就奖励。&lt;/font&gt;</str>
+  <str key="2079445914-ucdt" type="ucdt" originalKey="2079445914">扫描传奇鱼类20次</str>
+  <str key="2080865324-ucdt" type="ucdt" originalKey="2080865324">哔哔哔！喇叭</str>
+  <str key="2083139499-ucdt" type="ucdt" originalKey="2083139499">让开，有紧急情况！用这些紧急载具灯为你的Sunderer照亮战场。</str>
+  <str key="2083613414-ucdt" type="ucdt" originalKey="2083613414">“I was there...”涂装</str>
+  <str key="2084340319-ucdt" type="ucdt" originalKey="2084340319">阿努纳基之刃：银质勋章</str>
+  <str key="2085479142-ucdt" type="ucdt" originalKey="2085479142">情人节成就活动贯穿整个二月！</str>
+  <str key="2086662952-ucdt" type="ucdt" originalKey="2086662952">为Harasser装备沙地轮胎痕迹化身沙之恶魔。所有阵营都可以使用此装备。</str>
+  <str key="2086793667-ucdt" type="ucdt" originalKey="2086793667">全金属喷射鱼</str>
+  <str key="2087363171-ucdt" type="ucdt" originalKey="2087363171">让在30米范围内的友方载具恢复100点生命值，并且不影响Corsair本身。</str>
+  <str key="2088009812-ucdt" type="ucdt" originalKey="2088009812">隆重推出由Wainwright Manufacturing Corporation打造的“Barracuda”蛙人合集，专为Terran Republic设计。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;仅限TR士兵装备。&lt;/font&gt;</str>
+  <str key="2089697307-ucdt" type="ucdt" originalKey="2089697307">L-60模块</str>
+  <str key="2092344909-ucdt" type="ucdt" originalKey="2092344909">诱鱼器</str>
+  <str key="2094615352-ucdt" type="ucdt" originalKey="2094615352">Max机甲职业涂装</str>
+  <str key="2095240212-ucdt" type="ucdt" originalKey="2095240212">守卫Amerish的生物实验室。</str>
+  <str key="2095993698-ucdt" type="ucdt" originalKey="2095993698">授予“空军”头衔。</str>
+  <str key="2096820664-ucdt" type="ucdt" originalKey="2096820664">下一等级：受到伤害后开始恢复护盾的时间缩短到6秒。</str>
+  <str key="2096889647-ucdt" type="ucdt" originalKey="2096889647">修复站2</str>
+  <str key="2098968854-ucdt" type="ucdt" originalKey="2098968854">Hossin明信片旗帜</str>
+  <str key="2107355371-ucdt" type="ucdt" originalKey="2107355371">强化涂装4</str>
+  <str key="2110749488-ucdt" type="ucdt" originalKey="2110749488">轻型装甲带有推进器，可协助相关人员探索高处。使用推进器时请务必小心，避免损坏。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;此装甲只能由纳能集团轻型突击兵部队装备。&lt;/font&gt;</str>
+  <str key="2112394473-ucdt" type="ucdt" originalKey="2112394473">SQ-031“追迹者”</str>
+  <str key="2112831529-ucdt" type="ucdt" originalKey="2112831529">占领Hossin的技术工厂。</str>
+  <str key="2114677050-ucdt" type="ucdt" originalKey="2114677050">Chimera控制</str>
+  <str key="2114698527-ucdt" type="ucdt" originalKey="2114698527">Prowler小丑喇叭</str>
+  <str key="2117403263-ucdt" type="ucdt" originalKey="2117403263">会员专属
+</str>
+  <str key="2118542614-ucdt" type="ucdt" originalKey="2118542614">NS制造的标准规格空军头盔，配备一个兼容大部分飞行器的高级瞄准镜。此外，该头盔还有一个先进的辅助呼吸装置，当飞行员失去意识的时候，此装置就会启动。所有职业都可装备。所有阵营都可以使用。</str>
+  <str key="2123116849-ucdt" type="ucdt" originalKey="2123116849">旋转疱疹尖啸鱼</str>
+  <str key="2125004117-ucdt" type="ucdt" originalKey="2125004117">反应装甲3</str>
+  <str key="2125042225-ucdt" type="ucdt" originalKey="2125042225">抛掷探针</str>
+  <str key="2126715320-ucdt" type="ucdt" originalKey="2126715320">Nascent Expeditions旗帜框</str>
+  <str key="2127887220-ucdt" type="ucdt" originalKey="2127887220">徒步穿越Hossin大陆</str>
+  <str key="2139758315-ucdt" type="ucdt" originalKey="2139758315">在另一载具内时摧毁25个载具。</str>
+  <str key="2154819626-ucdt" type="ucdt" originalKey="2154819626">电池</str>
+  <str key="2160647042-ucdt" type="ucdt" originalKey="2160647042">用爱心轰炸机喇叭分享你的爱。</str>
+  <str key="2161877899-ucdt" type="ucdt" originalKey="2161877899">在Auraxis，蛇象征着策略和狡诈，受到间谍、战术家以及那些潜伏在暗处的人们的敬仰。它还与Auraxis纳能科技的不确定性紧密相连。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt; 为你的角色解锁标志旗帜。&lt;/font&gt;</str>
+  <str key="2169477084-ucdt" type="ucdt" originalKey="2169477084">乌鸦军团装备礼包</str>
+  <str key="2180291021-ucdt" type="ucdt" originalKey="2180291021">用爱心轰炸机喇叭分享你的爱。所有阵营都可以使用此装备。</str>
+  <str key="2183392451-ucdt" type="ucdt" originalKey="2183392451">NS“Primed Diamond”碎片：铜质勋章</str>
+  <str key="2185193945-ucdt" type="ucdt" originalKey="2185193945">Dervish爱心轰炸机航迹云</str>
+  <str key="2185397291-ucdt" type="ucdt" originalKey="2185397291">水池</str>
+  <str key="2187220003-ucdt" type="ucdt" originalKey="2187220003">扫描效能</str>
+  <str key="2190483531-ucdt" type="ucdt" originalKey="2190483531">2025情人节</str>
+  <str key="2197335194-ucdt" type="ucdt" originalKey="2197335194">高级传感系统4</str>
+  <str key="2198778636-ucdt" type="ucdt" originalKey="2198778636">使用任意诱鱼器25次</str>
+  <str key="2200642238-ucdt" type="ucdt" originalKey="2200642238">守卫能量容纳站30次。</str>
+  <str key="2201065375-ucdt" type="ucdt" originalKey="2201065375">Light Assault职业涂装</str>
+  <str key="2206340471-ucdt" type="ucdt" originalKey="2206340471">额外生命旗帜框</str>
+  <str key="2206685378-ucdt" type="ucdt" originalKey="2206685378">垂钓者横幅</str>
+  <str key="2208816345-ucdt" type="ucdt" originalKey="2208816345">Caedus, Thorne</str>
+  <str key="2210766179-ucdt" type="ucdt" originalKey="2210766179">Stevens, Laura</str>
+  <str key="2211615892-ucdt" type="ucdt" originalKey="2211615892">高级传感系统6</str>
+  <str key="2218856401-ucdt" type="ucdt" originalKey="2218856401">获得1个据点控制绶带。</str>
+  <str key="2224507982-ucdt" type="ucdt" originalKey="2224507982">ASE-LA Corvid装甲</str>
+  <str key="2224554078-ucdt" type="ucdt" originalKey="2224554078">奥拉西斯圣诞节（2024年）</str>
+  <str key="2224565212-ucdt" type="ucdt" originalKey="2224565212">Sunderer 2024重制版</str>
+  <str key="2225600394-ucdt" type="ucdt" originalKey="2225600394">悬挂式弹药2</str>
+  <str key="2228561339-ucdt" type="ucdt" originalKey="2228561339">5月会员礼包I</str>
+  <str key="2230651708-ucdt" type="ucdt" originalKey="2230651708">授予“Indar”后缀头衔</str>
+  <str key="2231189245-ucdt" type="ucdt" originalKey="2231189245">弹药塔1</str>
+  <str key="2232966942-ucdt" type="ucdt" originalKey="2232966942">爱心轰炸机喇叭</str>
+  <str key="2234380051-ucdt" type="ucdt" originalKey="2234380051">用爱心轰炸机喇叭分享你的爱。</str>
+  <str key="2234397508-ucdt" type="ucdt" originalKey="2234397508">Taylor, Alex</str>
+  <str key="2234426134-ucdt" type="ucdt" originalKey="2234426134">摇铃喇叭</str>
+  <str key="2240325903-ucdt" type="ucdt" originalKey="2240325903">Light Assault职业旗帜</str>
+  <str key="2240970127-ucdt" type="ucdt" originalKey="2240970127">占领能量容纳站25次。</str>
+  <str key="2241532556-ucdt" type="ucdt" originalKey="2241532556">使用任意诱鱼器5次</str>
+  <str key="2241908180-ucdt" type="ucdt" originalKey="2241908180">感应雷达4描述</str>
+  <str key="2249282121-ucdt" type="ucdt" originalKey="2249282121">通过进攻或防御Amerish的占领据点来获取据点控制缎带。</str>
+  <str key="2252442098-ucdt" type="ucdt" originalKey="2252442098">通过进攻或防御Esamir的占领据点来获取据点控制缎带。</str>
+  <str key="2253606390-ucdt" type="ucdt" originalKey="2253606390">活动持续至8月5日</str>
+  <str key="2255789326-ucdt" type="ucdt" originalKey="2255789326">十二周年纪念涂装</str>
+  <str key="2257125242-ucdt" type="ucdt" originalKey="2257125242">战斗医疗兵职业旗帜</str>
+  <str key="2258829851-ucdt" type="ucdt" originalKey="2258829851">切换视角</str>
+  <str key="2260022870-ucdt" type="ucdt" originalKey="2260022870">从你的载具发射出一阵巨大的声呐冲击波。所有阵营均可使用此装备。</str>
+  <str key="2274875662-ucdt" type="ucdt" originalKey="2274875662">黎明之女涂装</str>
+  <str key="2282297316-ucdt" type="ucdt" originalKey="2282297316">Liberator电子脉冲喇叭</str>
+  <str key="2283101781-ucdt" type="ucdt" originalKey="2283101781">用爱心轰炸机喇叭分享你的爱。所有阵营都可以使用此装备。</str>
+  <str key="2284712074-ucdt" type="ucdt" originalKey="2284712074">该礼包包含五个随机插件，有机会获得卓越插件。</str>
+  <str key="2296017679-ucdt" type="ucdt" originalKey="2296017679">购买载具武器可享40%的折扣！</str>
+  <str key="2302193265-ucdt" type="ucdt" originalKey="2302193265">额外生命涂装</str>
+  <str key="2302523856-ucdt" type="ucdt" originalKey="2302523856">占领技术工厂30次。</str>
+  <str key="2303414407-ucdt" type="ucdt" originalKey="2303414407">Infiltrator职业旗帜</str>
+  <str key="2303440559-ucdt" type="ucdt" originalKey="2303440559">护盾干扰器4</str>
+  <str key="2306133708-ucdt" type="ucdt" originalKey="2306133708">&lt;font size="28"&gt;重制版Sunderer全新上线！安装全新模块，驾驶着经过全新重新设计、闪耀着光芒的Sunderer前往战场和敌人一较高下吧！&lt;/font&gt;</str>
+  <str key="2309684301-ucdt" type="ucdt" originalKey="2309684301">Cameron, Natalie</str>
+  <str key="2314808671-ucdt" type="ucdt" originalKey="2314808671">Hossin</str>
+  <str key="2316062882-ucdt" type="ucdt" originalKey="2316062882">弹药塔2</str>
+  <str key="2317230131-ucdt" type="ucdt" originalKey="2317230131">True North涂装</str>
+  <str key="2317230787-ucdt" type="ucdt" originalKey="2317230787">7月会员礼包I</str>
+  <str key="2319992011-ucdt" type="ucdt" originalKey="2319992011">Esamir明信片旗帜</str>
+  <str key="2324692867-ucdt" type="ucdt" originalKey="2324692867">仲裁人</str>
+  <str key="2324715891-ucdt" type="ucdt" originalKey="2324715891">10月会员礼包I</str>
+  <str key="2324853945-ucdt" type="ucdt" originalKey="2324853945">&lt;font size="32"&gt;获取多种回归好礼来庆祝这个全年最幸运的节日。&lt;br&gt;&lt;br&gt;马上前往&lt;font color="#ACE1E5"&gt;仓库&lt;/font&gt;看看所有限时武器、迷彩和装饰物品，时间不等人哦！&lt;/font&gt;</str>
+  <str key="2330093490-ucdt" type="ucdt" originalKey="2330093490">部署一座弹药塔，为附近47米内的友方载具补充弹药。每隔50秒可以投放一次弹药。</str>
+  <str key="2330658996-ucdt" type="ucdt" originalKey="2330658996">飘忽不定的旗帜</str>
+  <str key="2335397570-ucdt" type="ucdt" originalKey="2335397570">该插件可监测使用者的生命体征，并在使用者死亡时引爆破片手雷。
+</str>
+  <str key="2343080708-ucdt" type="ucdt" originalKey="2343080708">徒步穿越</str>
+  <str key="2355917627-ucdt" type="ucdt" originalKey="2355917627">部署插槽</str>
+  <str key="2363879983-ucdt" type="ucdt" originalKey="2363879983">载具有人驾乘，无法骇入</str>
+  <str key="2365643167-ucdt" type="ucdt" originalKey="2365643167">Douglas, James</str>
+  <str key="2367618162-ucdt" type="ucdt" originalKey="2367618162">获得一条额外的生命！</str>
+  <str key="2369091985-ucdt" type="ucdt" originalKey="2369091985">占领生物实验室</str>
+  <str key="2369101157-ucdt" type="ucdt" originalKey="2369101157">侦察雷达2</str>
+  <str key="2370090709-ucdt" type="ucdt" originalKey="2370090709">授予“Esamir”后缀头衔</str>
+  <str key="2372060876-ucdt" type="ucdt" originalKey="2372060876">Sunderer：货物插槽</str>
+  <str key="2372402927-ucdt" type="ucdt" originalKey="2372402927">Aiken, Lydia</str>
+  <str key="2372427048-ucdt" type="ucdt" originalKey="2372427048">Puzzler涂装</str>
+  <str key="2374892726-ucdt" type="ucdt" originalKey="2374892726">Liberator爱心轰炸机玻璃</str>
+  <str key="2375565460-ucdt" type="ucdt" originalKey="2375565460">高级传感系统2</str>
+  <str key="2377560222-ucdt" type="ucdt" originalKey="2377560222">赚取6500鱼币</str>
+  <str key="2379974643-ucdt" type="ucdt" originalKey="2379974643">Rourke, Logan</str>
+  <str key="2382225708-ucdt" type="ucdt" originalKey="2382225708">Halo, Bruni</str>
+  <str key="2389625437-ucdt" type="ucdt" originalKey="2389625437">工程兵职业涂装</str>
+  <str key="2389705453-ucdt" type="ucdt" originalKey="2389705453">紫色掠泡鱼</str>
+  <str key="2401025407-ucdt" type="ucdt" originalKey="2401025407">蓝色装饰鳍鳞片迷彩</str>
+  <str key="2401792317-ucdt" type="ucdt" originalKey="2401792317">Zai-Kor, Elax</str>
+  <str key="2418116274-ucdt" type="ucdt" originalKey="2418116274">修复站4</str>
+  <str key="2418295424-ucdt" type="ucdt" originalKey="2418295424">成就礼包：夏日尝鲜狂潮（2023年）</str>
+  <str key="2420008599-ucdt" type="ucdt" originalKey="2420008599">1月会员礼包I</str>
+  <str key="2443917043-ucdt" type="ucdt" originalKey="2443917043">此装甲配备了先进的医疗系统且重量较轻。同时配备了纳能喷射器和可以迅速愈合的凝胶洒布器，可以在水下提供有效的治疗和复活单位。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有TR战斗医疗兵可装备此装甲。&lt;/font&gt;</str>
+  <str key="2444537646-ucdt" type="ucdt" originalKey="2444537646">纳能装甲</str>
+  <str key="2445173128-ucdt" type="ucdt" originalKey="2445173128">NS“Primed Ruby”碎片：银质勋章</str>
+  <str key="2449456735-ucdt" type="ucdt" originalKey="2449456735">2025农历新年礼包</str>
+  <str key="2449711862-ucdt" type="ucdt" originalKey="2449711862">NS-44 "Primed Lapis" Commissioner：金质勋章</str>
+  <str key="2450763970-ucdt" type="ucdt" originalKey="2450763970">爱心轰炸机横幅</str>
+  <str key="2453002843-ucdt" type="ucdt" originalKey="2453002843">沼泽沿岸到处可以看到成群的泥沼爬行者。它们的小腿可以让它们在浅水中游动，捕食藻类。即便是使用最便宜的扫描器，垂钓者也能轻松扫描到这些生物。</str>
+  <str key="2453633579-ucdt" type="ucdt" originalKey="2453633579">为你的角色添加横幅。仅限Terran Republic阵营使用。</str>
+  <str key="2462338466-ucdt" type="ucdt" originalKey="2462338466">Hallen, Markus</str>
+  <str key="2463149584-ucdt" type="ucdt" originalKey="2463149584">使用LiquidTech“A-1”诱鱼器30次</str>
+  <str key="2466648611-ucdt" type="ucdt" originalKey="2466648611">受到Oshur海床出土的传奇鸟类化石的启发，同时结合远古Vanu传说，这顶头盔平添了一抹奥星神话的神秘色彩，将古老传说与现代战场的传奇融为一体。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;所有阵营都可穿戴。&lt;/font&gt;</str>
+  <str key="2488251471-ucdt" type="ucdt" originalKey="2488251471">部署后形成一层最多可以吸收3000伤害的护盾。这层护盾以70生命值/秒的速率持续恢复生命值，直到被摧毁。被摧毁后，这层护盾需要等待26秒才能重新启动。</str>
+  <str key="2500232060-ucdt" type="ucdt" originalKey="2500232060">消防系统</str>
+  <str key="2501507214-ucdt" type="ucdt" originalKey="2501507214">SynthX-Premium“精华”</str>
+  <str key="2502129596-ucdt" type="ucdt" originalKey="2502129596">感应雷达</str>
+  <str key="2503665591-ucdt" type="ucdt" originalKey="2503665591">占领生物实验室1次。</str>
+  <str key="2511963221-ucdt" type="ucdt" originalKey="2511963221">阿努氏的战斗医疗兵坚信他们的工具都被灌注了阿努纳基的生命恢复魔法。每一位倒下的盟友都能在外星科学的引导下重获新生。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;此装甲仅适用于VS战斗医疗兵。&lt;/font&gt;</str>
+  <str key="2512854484-ucdt" type="ucdt" originalKey="2512854484">Vy'Korr, Teral</str>
+  <str key="2514817219-ucdt" type="ucdt" originalKey="2514817219">&lt;font color="#9b4eb6"&gt;红色装饰鳞片动态迷彩&lt;/font&gt;</str>
+  <str key="2521701083-ucdt" type="ucdt" originalKey="2521701083">用这个便宜到离谱的礼包来忽悠你的敌人！</str>
+  <str key="2528987693-ucdt" type="ucdt" originalKey="2528987693">流线型的设计加上较轻的重量有利于迅速部署并提升水下行进速度。同时配备了空气辅助推进以提升侧翼机动性。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有TR轻型突击兵可装备此装甲。&lt;/font&gt;</str>
+  <str key="2529348210-ucdt" type="ucdt" originalKey="2529348210">Amerish警报完成点券</str>
+  <str key="2532099062-ucdt" type="ucdt" originalKey="2532099062">&lt;font color="#9b4eb6"&gt;月蛇动态迷彩&lt;/font&gt;</str>
+  <str key="2535769893-ucdt" type="ucdt" originalKey="2535769893">Selari, Kaeth</str>
+  <str key="2535797040-ucdt" type="ucdt" originalKey="2535797040">Lightning小丑喇叭</str>
+  <str key="2537930342-ucdt" type="ucdt" originalKey="2537930342">艾瑞</str>
+  <str key="2540162531-ucdt" type="ucdt" originalKey="2540162531">NS-44 "Primed Lapis" Commissioner：Auraxium勋章</str>
+  <str key="2541986175-ucdt" type="ucdt" originalKey="2541986175">闪耀出强烈的猩红光芒，NS“Primed Ruby”碎片是火热激情和忠诚的化身。它的每一次挥砍都见证了自由的代价和为此付出的勇气。</str>
+  <str key="2542573166-ucdt" type="ucdt" originalKey="2542573166">欧胡鼠鲨目横幅</str>
+  <str key="2543379879-ucdt" type="ucdt" originalKey="2543379879">Osprey</str>
+  <str key="2544090802-ucdt" type="ucdt" originalKey="2544090802">探测器手雷</str>
+  <str key="2544231051-ucdt" type="ucdt" originalKey="2544231051">用爱心轰炸机喇叭分享你的爱。所有阵营都可以使用此装备。</str>
+  <str key="2544569984-ucdt" type="ucdt" originalKey="2544569984">安努氏涂装</str>
+  <str key="2544748102-ucdt" type="ucdt" originalKey="2544748102">&lt;font size="28"&gt;夏日欢乐再临Auraxis！&lt;br&gt;我们特此推出了两个活动成就以表庆祝：&lt;br&gt;&amp;#8226; &lt;font color="#ACE1E5"&gt;行动：Helios&lt;/font&gt;8 月 5 日至 9 月 5 日期间可获取&lt;br&gt;&amp;#8226; &lt;font color="#ACE1E5"&gt;行动：Kaiju&lt;/font&gt;8 月 5 日至 9 月 5 日期间可获取&lt;br&gt;&lt;br&gt;带上&lt;font color="#ACE1E5"&gt;战术冲浪板&lt;/font&gt;外壳和Harasser的&lt;font color="#ACE1E5"&gt;浮力轮胎&lt;/font&gt;前往Oshur的海滩！在&lt;font color="#ACE1E5"&gt;商城&lt;/font&gt;中限时上架&lt;br&gt;&lt;br&gt;完成&lt;font color="#ACE1E5"&gt;行动：Helios&lt;/font&gt;活动成就即可赢取夏日主题奖励：&lt;br&gt;&lt;font size="28" color="#ACE1E5"&gt; &amp;#8226; 冲浪涂装&lt;/font&gt;&lt;br&gt;&lt;font size="28" color="#ACE1E5"&gt; &amp;#8226; 造船工人头衔&lt;/font&gt;&lt;br&gt;&lt;font size="28" color="#ACE1E5"&gt; &amp;#8226; 海浪横幅&lt;/font&gt;&lt;br&gt;&lt;font size="28" color="#ACE1E5"&gt; &amp;#8226; 海滨码头横幅框&lt;/font&gt;&lt;br&gt;&lt;font size="28" color="#ACE1E5"&gt; &amp;#8226; 欧胡衬衫迷彩&lt;/font&gt;&lt;br&gt;&lt;font size="28" color="#ACE1E5"&gt; &amp;#8226; 沙地轮胎痕迹&lt;/font&gt;&lt;br&gt;咱们沙滩见！</str>
+  <str key="2544880961-ucdt" type="ucdt" originalKey="2544880961">Korrick, Nathan</str>
+  <str key="2546911741-ucdt" type="ucdt" originalKey="2546911741">选择重生点</str>
+  <str key="2547151886-ucdt" type="ucdt" originalKey="2547151886">十二周年庆典 (2024)</str>
+  <str key="2548662326-ucdt" type="ucdt" originalKey="2548662326">2025第一滴血北美横幅</str>
+  <str key="2549703411-ucdt" type="ucdt" originalKey="2549703411">Selux, Varin</str>
+  <str key="2550727304-ucdt" type="ucdt" originalKey="2550727304">Reaver电子脉冲喇叭</str>
+  <str key="2551550720-ucdt" type="ucdt" originalKey="2551550720">NSO-E“Kelpie”蛙人装甲</str>
+  <str key="2553297686-ucdt" type="ucdt" originalKey="2553297686">系列21周年庆典涂装</str>
+  <str key="2559318581-ucdt" type="ucdt" originalKey="2559318581">可部署货物小队侦察奖励</str>
+  <str key="2561728023-ucdt" type="ucdt" originalKey="2561728023">占领Hossin的生物实验室。</str>
+  <str key="2564859522-ucdt" type="ucdt" originalKey="2564859522">Thornton, Olivia</str>
+  <str key="2566296944-ucdt" type="ucdt" originalKey="2566296944">头衔：战术评估员</str>
+  <str key="2568328376-ucdt" type="ucdt" originalKey="2568328376">Extra Life 2024版战斗医疗兵的医疗枪。</str>
+  <str key="2568643250-ucdt" type="ucdt" originalKey="2568643250">NS-11CB糖果消音器</str>
+  <str key="2568783752-ucdt" type="ucdt" originalKey="2568783752">Kreel, Jonas</str>
+  <str key="2569552619-ucdt" type="ucdt" originalKey="2569552619">Colossus爱心轰炸机喇叭</str>
+  <str key="2570202476-ucdt" type="ucdt" originalKey="2570202476">深渊微光巨兽鱼</str>
+  <str key="2571246049-ucdt" type="ucdt" originalKey="2571246049">黎明之女装备礼包</str>
+  <str key="2571914335-ucdt" type="ucdt" originalKey="2571914335">苏卡尔担任阿努氏的使者一职，负责向那些反对Vanu Sovereignty的人降下喷气式神罚和开解。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;此头盔仅适用于VS轻型突击兵。&lt;/font&gt;</str>
+  <str key="2587834794-ucdt" type="ucdt" originalKey="2587834794">阿努纳基安玛努装甲</str>
+  <str key="2592212471-ucdt" type="ucdt" originalKey="2592212471">钓鱼扫描工具电池</str>
+  <str key="2594799627-ucdt" type="ucdt" originalKey="2594799627">代表</str>
+  <str key="2601460603-ucdt" type="ucdt" originalKey="2601460603">NSO-I“Kelpie”蛙人装甲</str>
+  <str key="2602341915-ucdt" type="ucdt" originalKey="2602341915">XOXO涂装</str>
+  <str key="2603448906-ucdt" type="ucdt" originalKey="2603448906">NSO-D“Golem Suneater”装甲</str>
+  <str key="2608695981-ucdt" type="ucdt" originalKey="2608695981">2025愚人节</str>
+  <str key="2611519245-ucdt" type="ucdt" originalKey="2611519245">Scythe爱心轰炸机玻璃</str>
+  <str key="2612244446-ucdt" type="ucdt" originalKey="2612244446">NS“Primed Ruby”碎片</str>
+  <str key="2613418796-ucdt" type="ucdt" originalKey="2613418796">扫描稀有鱼类</str>
+  <str key="2614618621-ucdt" type="ucdt" originalKey="2614618621">Vasquez, Kara</str>
+  <str key="2615373333-ucdt" type="ucdt" originalKey="2615373333">护盾干扰器2</str>
+  <str key="2620137432-ucdt" type="ucdt" originalKey="2620137432">NSO“Kelpie”蛙人装备礼包</str>
+  <str key="2620883843-ucdt" type="ucdt" originalKey="2620883843">Indar明信片旗帜</str>
+  <str key="2624200512-ucdt" type="ucdt" originalKey="2624200512">守卫能量容纳站</str>
+  <str key="2625484446-ucdt" type="ucdt" originalKey="2625484446">阿努氏的战斗医疗兵坚信他们的工具都被灌注了阿努纳基的生命恢复魔法。每一位倒下的盟友都能在外星科学的引导下重获新生。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;此头盔仅适用于VS战斗医疗兵。&lt;/font&gt;</str>
+  <str key="2625687674-ucdt" type="ucdt" originalKey="2625687674">NS-44 "Primed Ruby" Commissioner：金质勋章</str>
+  <str key="2625811247-ucdt" type="ucdt" originalKey="2625811247">头衔：天空之鲸</str>
+  <str key="2626133821-ucdt" type="ucdt" originalKey="2626133821">感应雷达2描述</str>
+  <str key="2631402815-ucdt" type="ucdt" originalKey="2631402815">海滨码头横幅框</str>
+  <str key="2634775000-ucdt" type="ucdt" originalKey="2634775000">快来抢购会员专属的角色装饰物品吧！整个2月期间均可购买！（之前的Amazon Prime奖励）</str>
+  <str key="2637883411-ucdt" type="ucdt" originalKey="2637883411">换上蛙人装饰品在这夏天深入水下玩个痛快吧！</str>
+  <str key="2639082068-ucdt" type="ucdt" originalKey="2639082068">空军</str>
+  <str key="2640679147-ucdt" type="ucdt" originalKey="2640679147">拥有专用的水下修理系统和尖端的防护性涂装。允许工程师在水下有效地进行维护和部署装备作业。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有TR工程兵可装备此装甲。&lt;/font&gt;</str>
+  <str key="2641904155-ucdt" type="ucdt" originalKey="2641904155">修复站1</str>
+  <str key="2643595004-ucdt" type="ucdt" originalKey="2643595004">强化涂装3</str>
+  <str key="2643703438-ucdt" type="ucdt" originalKey="2643703438">Max机甲职业旗帜框</str>
+  <str key="2645632882-ucdt" type="ucdt" originalKey="2645632882">NS“Primed Diamond”碎片</str>
+  <str key="2647649234-ucdt" type="ucdt" originalKey="2647649234">扫描稀有鱼类30次</str>
+  <str key="2649165879-ucdt" type="ucdt" originalKey="2649165879">Rhodes, Samuel</str>
+  <str key="2649565872-ucdt" type="ucdt" originalKey="2649565872">黎明之子</str>
+  <str key="2662674033-ucdt" type="ucdt" originalKey="2662674033">NSO-D“Derecho Haal”头盔</str>
+  <str key="2676147119-ucdt" type="ucdt" originalKey="2676147119">“WasThereOW2024”背景</str>
+  <str key="2681723202-ucdt" type="ucdt" originalKey="2681723202">电子脉冲喇叭</str>
+  <str key="2682349857-ucdt" type="ucdt" originalKey="2682349857">Magrider爱心轰炸机喇叭</str>
+  <str key="2688015426-ucdt" type="ucdt" originalKey="2688015426">需要撤退吗？这个喇叭可以助你一臂之力！</str>
+  <str key="2689148449-ucdt" type="ucdt" originalKey="2689148449">NS“Primed Diamond”碎片是力量和韧性的典范。它完美无瑕的刀刃映照着其持有者坚不可摧的意志，在战争的迷雾中带来清晰的方向和坚忍不拔的承诺。</str>
+  <str key="2692599732-ucdt" type="ucdt" originalKey="2692599732">未安装诱鱼器</str>
+  <str key="2694144489-ucdt" type="ucdt" originalKey="2694144489">守卫Amerish的技术工厂。</str>
+  <str key="2694448951-ucdt" type="ucdt" originalKey="2694448951">授予“追踪者”前缀头衔。</str>
+  <str key="2698331127-ucdt" type="ucdt" originalKey="2698331127">Iskaren, Maev</str>
+  <str key="2699535559-ucdt" type="ucdt" originalKey="2699535559">EL医疗枪1</str>
+  <str key="2703766951-ucdt" type="ucdt" originalKey="2703766951">Scythe爱心轰炸机航迹云</str>
+  <str key="2710977058-ucdt" type="ucdt" originalKey="2710977058">Amerish据点控制</str>
+  <str key="2711453689-ucdt" type="ucdt" originalKey="2711453689">乌鸦军团横幅</str>
+  <str key="2712911166-ucdt" type="ucdt" originalKey="2712911166">在[#HARASSER#]上添加头足纲外壳。所有阵营均可使用此装备。</str>
+  <str key="2713010562-ucdt" type="ucdt" originalKey="2713010562">无论阵营，为了实现你的雄心壮志，尽管入手包含全部蛙人装甲的折扣礼包！限时上架。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;此礼包包含你所拥有的所有角色的装饰。&lt;/font&gt;</str>
+  <str key="2713247842-ucdt" type="ucdt" originalKey="2713247842">改变载具的航迹云颜色。</str>
+  <str key="2713722136-ucdt" type="ucdt" originalKey="2713722136">扫描呆呆咕哝鱼15次</str>
+  <str key="2714438806-ucdt" type="ucdt" originalKey="2714438806">Wren, Cassian</str>
+  <str key="2723809257-ucdt" type="ucdt" originalKey="2723809257">黎明之女横幅框</str>
+  <str key="2731412302-ucdt" type="ucdt" originalKey="2731412302">Solene, Kira</str>
+  <str key="2732076278-ucdt" type="ucdt" originalKey="2732076278">NS-T万能钥匙</str>
+  <str key="2735608106-ucdt" type="ucdt" originalKey="2735608106">悬挂式弹药5</str>
+  <str key="2735648663-ucdt" type="ucdt" originalKey="2735648663">为你的驾驶舱增添个性化装饰，在挡风玻璃处添加涂装。所有阵营都可以使用此装备。</str>
+  <str key="2741225722-ucdt" type="ucdt" originalKey="2741225722">传奇鱼</str>
+  <str key="2742540231-ucdt" type="ucdt" originalKey="2742540231">爱心轰炸机破片手雷</str>
+  <str key="2742830848-ucdt" type="ucdt" originalKey="2742830848">VEX-B协议数据点：Auraxium勋章</str>
+  <str key="2743148890-ucdt" type="ucdt" originalKey="2743148890">该面具强烈提醒着Terran Republic所付出的牺牲。正是有了这些牺牲，人民才能安居乐业。Terran Republic庆祝这些无畏英雄的生命，而他们的英勇事迹又坚定了居民的信念。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;仅Terran Republic可装备此头盔。&lt;/font&gt;</str>
+  <str key="2743798106-ucdt" type="ucdt" originalKey="2743798106">Amerish狗牌</str>
+  <str key="2744428615-ucdt" type="ucdt" originalKey="2744428615">生成Stryder</str>
+  <str key="2745784421-ucdt" type="ucdt" originalKey="2745784421">Vance, Nikolai</str>
+  <str key="2750060986-ucdt" type="ucdt" originalKey="2750060986">为你的装甲、武器或载具添加动态迷彩。仅限&lt;font color="#0140a4"&gt;NC&lt;/font&gt;阵营使用。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;会员专属。&lt;br&gt;&lt;br&gt;(仅限Daybreak Cash购买)&lt;/font&gt;</str>
+  <str key="2750535154-ucdt" type="ucdt" originalKey="2750535154">爱心轰炸机迷彩</str>
+  <str key="2751660220-ucdt" type="ucdt" originalKey="2751660220">NS“Primed Amethyst”碎片：金质勋章</str>
+  <str key="2760189440-ucdt" type="ucdt" originalKey="2760189440">&lt;font size="28"&gt;感谢你与我们一道，庆祝Auraxis行星在熊熊战火中走过第21个年头！&lt;br&gt;&lt;br&gt;为了这次周年庆，我们打造了一个&lt;font color="#ACE1E5"&gt;系列21周年庆典礼包&lt;/font&gt; ，你可以在仓库中购买该礼包，此外还有&lt;font color="#ACE1E5"&gt;先前系列周年庆典&lt;/font&gt;的礼包回归哦！&lt;br&gt;&lt;br&gt;全新的系列21周年庆典礼包虽小，但是我们对于《Planetside 2》这款游戏却怀有远大的抱负！&lt;br&gt;&lt;br&gt;想要了解我们正在筹划的内容吗？快登录《Planetside 2》官网查看我们的发展规划吧！&lt;br&gt;</str>
+  <str key="2760321966-ucdt" type="ucdt" originalKey="2760321966">扫描普通鱼类</str>
+  <str key="2760450347-ucdt" type="ucdt" originalKey="2760450347">发射器</str>
+  <str key="2760771407-ucdt" type="ucdt" originalKey="2760771407">与大多数文明一样，Vanu Sovereignty融合了过去的庆祝活动来促进同化，希望加强与Auraxis人民的联系，无论他们是否忠诚。面具及其相关节日象征着Vanu Sovereignty内的生与死都值得纪念。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;仅Vanu Sovereignty可装备此头盔。&lt;/font&gt;</str>
+  <str key="2761884922-ucdt" type="ucdt" originalKey="2761884922">成就礼包：纳能活死人（2023年）</str>
+  <str key="2763661029-ucdt" type="ucdt" originalKey="2763661029">NS-44 "Primed Ruby" Commissioner：银质勋章</str>
+  <str key="2764447070-ucdt" type="ucdt" originalKey="2764447070">授予“虎鲸”前缀头衔</str>
+  <str key="2765227375-ucdt" type="ucdt" originalKey="2765227375">让在30米范围内的友方载具恢复125点生命值，并且不影响Corsair本身。</str>
+  <str key="2766084633-ucdt" type="ucdt" originalKey="2766084633">感应雷达2</str>
+  <str key="2766876284-ucdt" type="ucdt" originalKey="2766876284">已锁定</str>
+  <str key="2769011483-ucdt" type="ucdt" originalKey="2769011483">快来抢购会员专属的角色装饰物品吧！整个1月期间均可购买！（之前的Amazon Prime奖励）</str>
+  <str key="2772743014-ucdt" type="ucdt" originalKey="2772743014">12月会员礼包I</str>
+  <str key="2773084993-ucdt" type="ucdt" originalKey="2773084993">被动修复20米范围内的非Sunderer载具，速率为28生命值/秒。启动后可部署一个修复站，以140生命值/秒的速率修复38米范围内的载具，冷却时间为65秒。Sunderer从部署的修复站获得的修复更少，从未部署处不获得任何修复。</str>
+  <str key="2775917625-ucdt" type="ucdt" originalKey="2775917625">Flash爱心轰炸机喇叭</str>
+  <str key="2778112908-ucdt" type="ucdt" originalKey="2778112908">&lt;font color="#9b4eb6"&gt;蓝色装饰鳞片动态迷彩&lt;/font&gt;</str>
+  <str key="2778597360-ucdt" type="ucdt" originalKey="2778597360">探索者是无形的审判之手，负责在异端分子传播有关Vanu Sovereignty的邪说之前将其揪出。对大多数人而言，那不过都是些流言蜚语。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;此头盔仅适用于VS Infiltrator。&lt;/font&gt;</str>
+  <str key="2780510606-ucdt" type="ucdt" originalKey="2780510606">感应雷达3</str>
+  <str key="2785320309-ucdt" type="ucdt" originalKey="2785320309">占领能量容纳站</str>
+  <str key="2789102315-ucdt" type="ucdt" originalKey="2789102315">普通</str>
+  <str key="2790371345-ucdt" type="ucdt" originalKey="2790371345">占领能量容纳站1次。</str>
+  <str key="2790973244-ucdt" type="ucdt" originalKey="2790973244">NS-44 "Primed Ruby" Commissioner：Auraxium勋章</str>
+  <str key="2793023636-ucdt" type="ucdt" originalKey="2793023636">加尔乌鲁</str>
+  <str key="2794000412-ucdt" type="ucdt" originalKey="2794000412">授予“天空之鲸”前缀头衔</str>
+  <str key="2796113778-ucdt" type="ucdt" originalKey="2796113778">用这个特大礼包来庆祝《Planetside 2》的十二周年吧。注意：礼包内包含VS/NC/TR/NSO帝国的对应武器和装饰。英雄加成只能在购买礼包的角色身上生效。</str>
+  <str key="2803010352-ucdt" type="ucdt" originalKey="2803010352">完成一次警报。</str>
+  <str key="2803431066-ucdt" type="ucdt" originalKey="2803431066">使用诱鱼器</str>
+  <str key="2808295786-ucdt" type="ucdt" originalKey="2808295786">授予“考古技术员”前缀头衔。</str>
+  <str key="2815109548-ucdt" type="ucdt" originalKey="2815109548">Ferguson, Jack</str>
+  <str key="2817717688-ucdt" type="ucdt" originalKey="2817717688">Vanguard爱心轰炸机喇叭</str>
+  <str key="2821014646-ucdt" type="ucdt" originalKey="2821014646">Corvid迷彩</str>
+  <str key="2821849999-ucdt" type="ucdt" originalKey="2821849999">NSO-D“Derecho Haal”装甲</str>
+  <str key="2824117741-ucdt" type="ucdt" originalKey="2824117741">Puzzler旗帜</str>
+  <str key="2825753484-ucdt" type="ucdt" originalKey="2825753484">快来抢购会员专属的角色装饰物品吧！整个3月期间均可购买！（之前的Amazon Prime奖励）</str>
+  <str key="2825893249-ucdt" type="ucdt" originalKey="2825893249">EL医疗枪4</str>
+  <str key="2827543010-ucdt" type="ucdt" originalKey="2827543010">一台被 “极乐故障” 撕裂的攻城单位，以 “寂静之喉” 之名重生。她不事推进，只懂吞噬。每一步都能震裂防御工事，她的饥饿终结一切交锋。&lt;br&gt;&lt;br&gt;“每座堡垒，都在为熔毁自身的火焰添柴。”——Golem Suneater&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;[#HEAVY_ASSAULT#]可以装备。仅限NSO使用。&lt;/font&gt;</str>
+  <str key="2827993020-ucdt" type="ucdt" originalKey="2827993020">正能量涂鸦旗帜</str>
+  <str key="2830085328-ucdt" type="ucdt" originalKey="2830085328">侦察雷达3</str>
+  <str key="2836790015-ucdt" type="ucdt" originalKey="2836790015">Sunderer：装甲插槽</str>
+  <str key="2838633200-ucdt" type="ucdt" originalKey="2838633200">守卫Indar的电力中心。</str>
+  <str key="2839581290-ucdt" type="ucdt" originalKey="2839581290">VO-HA“Nautilus”蛙人装甲</str>
+  <str key="2859744399-ucdt" type="ucdt" originalKey="2859744399">该组织成立于Terran Republic早期，主张维护退伍军人的权益，让他们能够适应战后新生活。之后，该组织的关注点不断扩大，旨在吸引民间枪支爱好者和列兵安保公司。乌鸦军团是第一个对Terran RepublicTerran Republic的戒严表示愤慨的组织。对于乌鸦军团而言，Auraxis战争并不是一场意识形态之战，他们只是贪图战斗和兑现支票时带来的快感。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的装甲或载具添加涂装。仅限New Conglomerate阵营使用。&lt;/font&gt;</str>
+  <str key="2860367976-ucdt" type="ucdt" originalKey="2860367976">Dazkar, Maral</str>
+  <str key="2860756426-ucdt" type="ucdt" originalKey="2860756426">电池</str>
+  <str key="2861087643-ucdt" type="ucdt" originalKey="2861087643">小型</str>
+  <str key="2861406650-ucdt" type="ucdt" originalKey="2861406650">爱心轰炸机破片手雷</str>
+  <str key="2861988257-ucdt" type="ucdt" originalKey="2861988257">[#COMBAT_MEDIC#]可装备。仅限NSO使用。</str>
+  <str key="2866779420-ucdt" type="ucdt" originalKey="2866779420">代表的十二周年礼包</str>
+  <str key="2877656779-ucdt" type="ucdt" originalKey="2877656779">部署后形成一层最多可以吸收3700伤害的护盾。这层护盾以90生命值/秒的速率持续恢复生命值，直到被摧毁。被摧毁后，这层护盾需要等待22秒才能重新启动。</str>
+  <str key="2879629193-ucdt" type="ucdt" originalKey="2879629193">Sharif, Yusuf</str>
+  <str key="2881028722-ucdt" type="ucdt" originalKey="2881028722">有什么东西潜伏在下方、上方，或是 —— 就在你身后！带上这只号角，在战场上为自己增添一股不祥的气息吧。所有阵营均可使用此装备。</str>
+  <str key="2881056388-ucdt" type="ucdt" originalKey="2881056388">BAR-A50 - 全副武装礼包</str>
+  <str key="2881934216-ucdt" type="ucdt" originalKey="2881934216">Dryden, Ronan</str>
+  <str key="2882898542-ucdt" type="ucdt" originalKey="2882898542">货物插槽</str>
+  <str key="2884645566-ucdt" type="ucdt" originalKey="2884645566">阿努纳基之刃：金质勋章</str>
+  <str key="2884869817-ucdt" type="ucdt" originalKey="2884869817">NS“Primed Lapis”碎片：铜质勋章</str>
+  <str key="2885565101-ucdt" type="ucdt" originalKey="2885565101">EVL Flash附件</str>
+  <str key="2886713026-ucdt" type="ucdt" originalKey="2886713026">头衔：乌鸦</str>
+  <str key="2904340649-ucdt" type="ucdt" originalKey="2904340649">Mosquito爱心轰炸机航迹云</str>
+  <str key="2906491185-ucdt" type="ucdt" originalKey="2906491185">鱼类扫描效能</str>
+  <str key="2913666388-ucdt" type="ucdt" originalKey="2913666388">VO-E“Nautilus”蛙人装甲</str>
+  <str key="2915598798-ucdt" type="ucdt" originalKey="2915598798">占领Indar的生物实验室。</str>
+  <str key="2920225520-ucdt" type="ucdt" originalKey="2920225520">一款远程控制的无人飞行器，用于侦察敌情并提供战场全景视野，有效控制范围为60米，探测器的电池续航时间为40秒。</str>
+  <str key="2921607044-ucdt" type="ucdt" originalKey="2921607044">对于Auraxis人来说，龙代表着神秘与科学的融合，象征着探索者与创新者，特别是追求解锁宇宙奥秘的Vanu Sovereignty。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的角色解锁标志旗帜。&lt;/font&gt;</str>
+  <str key="2926896685-ucdt" type="ucdt" originalKey="2926896685">&lt;font size="32"&gt;4月1日至4月7日期间所有玩家可获双倍经验！&lt;br&gt;穿戴&lt;font color="#ACE1E5"&gt; 大鼻子&lt;/font&gt;还可获取更多奖励经验！&lt;br&gt;&lt;br&gt;千万不要错过&lt;font color="#ACE1E5"&gt;仓库&lt;/font&gt;中的限时礼包，其中包括大受欢迎的载具喇叭的返场。&lt;br&gt;&lt;br&gt;用全新的&lt;font color="#ACE1E5"&gt;“哔哔哔！喇叭”&lt;/font&gt;让你的朋友和对手感受深入骨髓的恐惧。&lt;br&gt;&lt;br&gt;&lt;font color="#ACE1E5"&gt;钓鱼&lt;/font&gt;也随之上线并提供全新的长期成就和奖励！</str>
+  <str key="2928140334-ucdt" type="ucdt" originalKey="2928140334">头衔：黎明后裔</str>
+  <str key="2929426060-ucdt" type="ucdt" originalKey="2929426060">欧胡衬衫迷彩</str>
+  <str key="2932355286-ucdt" type="ucdt" originalKey="2932355286">这款喷气背包完美适配那些需要执行快速打击同时更快撤退的乌鸦士兵。它整合了ASE的横向跃迁加速器，并融入了符合审美且经过改良的空气动力学设计，同时提升了爆发推力效率。这些定制型号甚至通过了非常规能量抗性测试，侧面说明了军团的野心已经超越了传统战争的范畴。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;此装甲仅适用于NC轻型突击兵。&lt;/font&gt;</str>
+  <str key="2937314092-ucdt" type="ucdt" originalKey="2937314092">扫描中</str>
+  <str key="2937771218-ucdt" type="ucdt" originalKey="2937771218">部署后形成一层最多可以吸收3000伤害的护盾。这层护盾以70生命值/秒的速率持续恢复生命值，直到被摧毁。被摧毁后，这层护盾需要等待26秒才能重新启动。</str>
+  <str key="2938453165-ucdt" type="ucdt" originalKey="2938453165">徒步穿越25000米的距离。</str>
+  <str key="2941739565-ucdt" type="ucdt" originalKey="2941739565">黎明之女横幅</str>
+  <str key="2960805670-ucdt" type="ucdt" originalKey="2960805670">扫描大型鱼类</str>
+  <str key="2963529078-ucdt" type="ucdt" originalKey="2963529078">EL纳米装甲包3</str>
+  <str key="2964082141-ucdt" type="ucdt" originalKey="2964082141">配备了防水的医疗设备和先进的纳能医疗系统。提供了高效的水下导航和治疗能力。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有NC战斗医疗兵可装备此装甲。&lt;/font&gt;</str>
+  <str key="2964116237-ucdt" type="ucdt" originalKey="2964116237">爱心轰炸机Mk.II迷彩</str>
+  <str key="2964635148-ucdt" type="ucdt" originalKey="2964635148">鲸鱼</str>
+  <str key="2965198848-ucdt" type="ucdt" originalKey="2965198848">一位基础设施专家在 “极乐故障” 中重生，化身为 “瓦解之声”。她的只言片语能让系统短路，她的每声低语都是一场破坏。当她开口时，机器便会记起如何走向终结。&lt;br&gt;&lt;br&gt;“本就不该建造之物，何必去修复？”——Breaker Vox&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;[#Engineer#]可以装备。仅限NSO使用。&lt;/font&gt;
+</str>
+  <str key="2965579391-ucdt" type="ucdt" originalKey="2965579391">快来抢购会员专属的角色装饰物品吧！整个7月期间均可购买！（之前的Amazon Prime奖励）</str>
+  <str key="2969287676-ucdt" type="ucdt" originalKey="2969287676">一台机器，其电路中回荡着逝者的声音，被记忆所淹没。重生为 “空洞圣歌” 的她，体内的纳米机器人能修复躯体，却会侵蚀灵魂。被救活的人或许能再战一日，却再也回不到从前的自己。&lt;br&gt;&lt;br&gt;“死者的歌声，远比生者嘹亮。”——Choral Hollow&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;[#COMBAT_MEDIC#]可以装备。仅限NSO使用。&lt;/font&gt;</str>
+  <str key="2986435834-ucdt" type="ucdt" originalKey="2986435834">Shaw, Tanner</str>
+  <str key="2988114537-ucdt" type="ucdt" originalKey="2988114537">VO-A“Nautilus”蛙人头盔</str>
+  <str key="2992298609-ucdt" type="ucdt" originalKey="2992298609">配备了耐高压的医疗补给仓库和自适应的生命支持系统。非常适合执行长期任务，确保了特工在水下环境中的舒适度。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有VS战斗医疗兵可装备此装甲。 &lt;/font&gt;</str>
+  <str key="2992954646-ucdt" type="ucdt" originalKey="2992954646">EXO-LA“Hammerhead”蛙人装甲</str>
+  <str key="2993367455-ucdt" type="ucdt" originalKey="2993367455">头衔：代表</str>
+  <str key="2993941785-ucdt" type="ucdt" originalKey="2993941785">守卫生物实验室50次。</str>
+  <str key="2999414930-ucdt" type="ucdt" originalKey="2999414930">爱心轰炸机Mk.II迷彩</str>
+  <str key="3000674025-ucdt" type="ucdt" originalKey="3000674025">WMC-A“Barracuda”蛙人头盔</str>
+  <str key="3001204986-ucdt" type="ucdt" originalKey="3001204986">激活前一个载具技能</str>
+  <str key="3003713783-ucdt" type="ucdt" originalKey="3003713783">占领Amerish的生物实验室。</str>
+  <str key="3004338695-ucdt" type="ucdt" originalKey="3004338695">入手限量款的“Primed Lapis” NS-44 Commissioner左轮手枪，成为人群中最靓的仔！所有阵营都可以使用此武器。</str>
+  <str key="3005041714-ucdt" type="ucdt" originalKey="3005041714">弹药塔2</str>
+  <str key="3006249072-ucdt" type="ucdt" originalKey="3006249072">护盾干扰器3</str>
+  <str key="3006800897-ucdt" type="ucdt" originalKey="3006800897">点防御2</str>
+  <str key="3006890713-ucdt" type="ucdt" originalKey="3006890713">Puzzler车标</str>
+  <str key="3007116602-ucdt" type="ucdt" originalKey="3007116602">SQ-031“追迹者”</str>
+  <str key="3007752775-ucdt" type="ucdt" originalKey="3007752775">这款装甲是为了纪念天空之父阿努而打造，其上饰有“丁吉尔”神符，并点缀着象征天界的蔚蓝元素。穿戴此甲者将成为末日报临的具象化身，迫使背信者直面悔悟。</str>
+  <str key="3007919066-ucdt" type="ucdt" originalKey="3007919066">爱心轰炸机</str>
+  <str key="3008221407-ucdt" type="ucdt" originalKey="3008221407">快来抢购会员专属的角色装饰物品吧！整个4月期间均可购买！（之前的Amazon Prime奖励）</str>
+  <str key="3009666913-ucdt" type="ucdt" originalKey="3009666913">守卫能量容纳站2次。</str>
+  <str key="3010287418-ucdt" type="ucdt" originalKey="3010287418">感应雷达3描述</str>
+  <str key="3010353009-ucdt" type="ucdt" originalKey="3010353009">征服 - Amerish</str>
+  <str key="3011986233-ucdt" type="ucdt" originalKey="3011986233">2024愚人节</str>
+  <str key="3012612579-ucdt" type="ucdt" originalKey="3012612579">扫描普通鱼类40次</str>
+  <str key="3012986721-ucdt" type="ucdt" originalKey="3012986721">徒步穿越1000米的距离。</str>
+  <str key="3014119500-ucdt" type="ucdt" originalKey="3014119500">传奇</str>
+  <str key="3014229504-ucdt" type="ucdt" originalKey="3014229504">Ngata, Rawiri</str>
+  <str key="3017071644-ucdt" type="ucdt" originalKey="3017071644">Daxton, Rhea</str>
+  <str key="3018497448-ucdt" type="ucdt" originalKey="3018497448">VEX Biologics公司为NS特工设计的可编程刀片的结构原型。虽然此型号中的电子元件和软件无法使用，但这种刀设计本身就能造成可怕的伤害。</str>
+  <str key="3020393505-ucdt" type="ucdt" originalKey="3020393505">由于扫描工具广受欢迎，所有基础模型组件经过了重新设计以突破其限制。这一改动对扫描能力和电池充电速率产生了积极的影响。</str>
+  <str key="3021685245-ucdt" type="ucdt" originalKey="3021685245">NS万能钥匙：铜质勋章</str>
+  <str key="3022200220-ucdt" type="ucdt" originalKey="3022200220">阿努纳基阿斯普头盔</str>
+  <str key="3022390681-ucdt" type="ucdt" originalKey="3022390681">Reaver爱心轰炸机玻璃</str>
+  <str key="3022620159-ucdt" type="ucdt" originalKey="3022620159">改变载具的航迹云颜色。</str>
+  <str key="3026049475-ucdt" type="ucdt" originalKey="3026049475">忠诚十二周年</str>
+  <str key="3027124745-ucdt" type="ucdt" originalKey="3027124745">Reaver小丑喇叭</str>
+  <str key="3029932016-ucdt" type="ucdt" originalKey="3029932016">Nascent Expeditions迷彩</str>
+  <str key="3032672136-ucdt" type="ucdt" originalKey="3032672136">EL纳米装甲包4</str>
+  <str key="3033157362-ucdt" type="ucdt" originalKey="3033157362">阿努纳基苏卡尔头盔</str>
+  <str key="3035380489-ucdt" type="ucdt" originalKey="3035380489">McCready, Dante</str>
+  <str key="3036667972-ucdt" type="ucdt" originalKey="3036667972">&lt;font color="#9b4eb6"&gt;暴风雪动态迷彩&lt;/font&gt;</str>
+  <str key="3036973829-ucdt" type="ucdt" originalKey="3036973829">NS“Primed Ruby”碎片：Auraxium勋章</str>
+  <str key="3037284323-ucdt" type="ucdt" originalKey="3037284323">NSO-2PT钓鱼头盔</str>
+  <str key="3039628149-ucdt" type="ucdt" originalKey="3039628149">爱心轰炸机航迹云</str>
+  <str key="3039831469-ucdt" type="ucdt" originalKey="3039831469">Javelin控制</str>
+  <str key="3040260497-ucdt" type="ucdt" originalKey="3040260497">Reaver爱心轰炸机航迹云</str>
+  <str key="3041065642-ucdt" type="ucdt" originalKey="3041065642">可部署货物致命协助击杀</str>
+  <str key="3041148503-ucdt" type="ucdt" originalKey="3041148503">授予“艾瑞”前缀头衔。</str>
+  <str key="3042955241-ucdt" type="ucdt" originalKey="3042955241">此礼包包含先前成就活动的物品。因此，如果你与之前的物品失之交臂，更应该抓住这次机会！&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;会员专属。&lt;br&gt;&lt;br&gt;(仅限Daybreak Cash购买)&lt;/font&gt;</str>
+  <str key="3043435473-ucdt" type="ucdt" originalKey="3043435473">Vanguard小丑喇叭</str>
+  <str key="3043449261-ucdt" type="ucdt" originalKey="3043449261">塞尔维亚装甲涂装</str>
+  <str key="3043556872-ucdt" type="ucdt" originalKey="3043556872">《PlanetSide》系列周年庆典</str>
+  <str key="3048290425-ucdt" type="ucdt" originalKey="3048290425">一种常见但难以捕捉的沼泽鱼类，体型较小，经常用其胸足在水底淤泥中寻找小虫子和软体动物。建议使用高级工具扫描它们。</str>
+  <str key="3052971516-ucdt" type="ucdt" originalKey="3052971516">ASE-HA Corvid装甲</str>
+  <str key="3053014447-ucdt" type="ucdt" originalKey="3053014447">用爱心轰炸机喇叭分享你的爱。</str>
+  <str key="3053242878-ucdt" type="ucdt" originalKey="3053242878">Dervish电子脉冲喇叭</str>
+  <str key="3053525404-ucdt" type="ucdt" originalKey="3053525404">兔子象征着在战争中带来和谐的医护人员、外交官和支持者，他们以关怀和机智的方式处理冲突。它也是Auraxis自然生态系统脆弱美丽的象征。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的装甲或载具添加[#DECAL#]。&lt;/font&gt;</str>
+  <str key="3058954280-ucdt" type="ucdt" originalKey="3058954280">农历蛇年横幅</str>
+  <str key="3063708195-ucdt" type="ucdt" originalKey="3063708195">头衔：黎明之子</str>
+  <str key="3064222895-ucdt" type="ucdt" originalKey="3064222895">已扫描的鱼</str>
+  <str key="3064800952-ucdt" type="ucdt" originalKey="3064800952">亡灵</str>
+  <str key="3070078850-ucdt" type="ucdt" originalKey="3070078850">以至少50%参与度完成Hossin的灾难预警。</str>
+  <str key="3073765193-ucdt" type="ucdt" originalKey="3073765193">拉夫拉髓质鱼</str>
+  <str key="3074062918-ucdt" type="ucdt" originalKey="3074062918">高级传感系统3</str>
+  <str key="3075520503-ucdt" type="ucdt" originalKey="3075520503">母亲节涂装</str>
+  <str key="3076079454-ucdt" type="ucdt" originalKey="3076079454">赚取9000鱼币</str>
+  <str key="3081973245-ucdt" type="ucdt" originalKey="3081973245">以在地球上发现的由苏美尔文明成员绘制的类似作品为基础，创作的一幅金蚀刻画。阿努“探寻者们”有时会聚集在霍森的金字形神塔之下，他们会在那里仔细研究古人留下的遗物。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的个人资料解锁横幅。仅限Vanu Sovereignty阵营使用。&lt;/font&gt;</str>
+  <str key="3085376041-ucdt" type="ucdt" originalKey="3085376041">准备</str>
+  <str key="3092965321-ucdt" type="ucdt" originalKey="3092965321">行动：追光者</str>
+  <str key="3098077902-ucdt" type="ucdt" originalKey="3098077902">完成20次警报。</str>
+  <str key="3099824735-ucdt" type="ucdt" originalKey="3099824735">蛙人头盔</str>
+  <str key="3101717418-ucdt" type="ucdt" originalKey="3101717418">NSO-A“Kelpie”蛙人头盔</str>
+  <str key="3102660300-ucdt" type="ucdt" originalKey="3102660300">头衔：Hossin</str>
+  <str key="3105202627-ucdt" type="ucdt" originalKey="3105202627">外骨骼增生鱼</str>
+  <str key="3113492071-ucdt" type="ucdt" originalKey="3113492071">EL纳米装甲包2</str>
+  <str key="3116370436-ucdt" type="ucdt" originalKey="3116370436">追踪者</str>
+  <str key="3118646870-ucdt" type="ucdt" originalKey="3118646870">未安装发射器</str>
+  <str key="3123495303-ucdt" type="ucdt" originalKey="3123495303">WMC Inquirer：金质勋章</str>
+  <str key="3136422608-ucdt" type="ucdt" originalKey="3136422608">征服 - Indar</str>
+  <str key="3138311121-ucdt" type="ucdt" originalKey="3138311121">部署</str>
+  <str key="3140707706-ucdt" type="ucdt" originalKey="3140707706">成就礼包：2025情人节</str>
+  <str key="3142160441-ucdt" type="ucdt" originalKey="3142160441">NS“Primed Amethyst”碎片：银质勋章</str>
+  <str key="3155774812-ucdt" type="ucdt" originalKey="3155774812">占领Amerish的技术工厂。</str>
+  <str key="3156510746-ucdt" type="ucdt" originalKey="3156510746">守卫技术工厂50次。</str>
+  <str key="3156592852-ucdt" type="ucdt" originalKey="3156592852">真北航迹云</str>
+  <str key="3157428079-ucdt" type="ucdt" originalKey="3157428079">守卫电力中心2次。</str>
+  <str key="3158247719-ucdt" type="ucdt" originalKey="3158247719">弹药塔2描述</str>
+  <str key="3161601329-ucdt" type="ucdt" originalKey="3161601329">部署一个货物设备，让附近友方载具获得“破门”能力，从而通过大门。冷却时间为50秒。</str>
+  <str key="3165716486-ucdt" type="ucdt" originalKey="3165716486">飞翼伪浮漂鱼</str>
+  <str key="3166946520-ucdt" type="ucdt" originalKey="3166946520">LiquidTech“Enticing S”</str>
+  <str key="3166990483-ucdt" type="ucdt" originalKey="3166990483">感应雷达</str>
+  <str key="3167374783-ucdt" type="ucdt" originalKey="3167374783">采用先进的机动模组和轻量化材料，提供了优异的速度和机动性，非常适合执行“打了就跑”战术行动。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有VS轻型突击兵可装备此装甲。&lt;/font&gt;</str>
+  <str key="3167402134-ucdt" type="ucdt" originalKey="3167402134">纳能装甲4</str>
+  <str key="3171191960-ucdt" type="ucdt" originalKey="3171191960">头衔：Esamir</str>
+  <str key="3171778437-ucdt" type="ucdt" originalKey="3171778437">抛掷探针</str>
+  <str key="3176977080-ucdt" type="ucdt" originalKey="3176977080">加装侦察模组并升级无人机硬件，可将追踪敌方目标的时间延长至26秒。</str>
+  <str key="3178537806-ucdt" type="ucdt" originalKey="3178537806">系列21周年庆典旗帜</str>
+  <str key="3181556998-ucdt" type="ucdt" originalKey="3181556998">NE-E荒原防弹衣</str>
+  <str key="3185170470-ucdt" type="ucdt" originalKey="3185170470">乌鸦军团横幅框</str>
+  <str key="3185222482-ucdt" type="ucdt" originalKey="3185222482">Hossin据点控制</str>
+  <str key="3185670906-ucdt" type="ucdt" originalKey="3185670906">9月会员礼包I</str>
+  <str key="3186159021-ucdt" type="ucdt" originalKey="3186159021">天空之鲸外壳</str>
+  <str key="3186333182-ucdt" type="ucdt" originalKey="3186333182">点防御3</str>
+  <str key="3187867568-ucdt" type="ucdt" originalKey="3187867568">弹药塔3</str>
+  <str key="3188015830-ucdt" type="ucdt" originalKey="3188015830">Infiltrator职业涂装</str>
+  <str key="3188339191-ucdt" type="ucdt" originalKey="3188339191">弹药塔3</str>
+  <str key="3188707898-ucdt" type="ucdt" originalKey="3188707898">为Sunderer的部署插槽解锁多样道具。可以在配置界面的插槽中装备部署插槽。</str>
+  <str key="3188811185-ucdt" type="ucdt" originalKey="3188811185">部署一个货物设备，让附近友方载具获得“破门”能力，从而通过大门。</str>
+  <str key="3189242839-ucdt" type="ucdt" originalKey="3189242839">授予“Hossin”后缀头衔</str>
+  <str key="3189438257-ucdt" type="ucdt" originalKey="3189438257">侦察雷达</str>
+  <str key="3190114853-ucdt" type="ucdt" originalKey="3190114853">激活载具技能2</str>
+  <str key="3190145302-ucdt" type="ucdt" originalKey="3190145302">EXO-HA“Hammerhead”蛙人装甲</str>
+  <str key="3190301445-ucdt" type="ucdt" originalKey="3190301445">Indar警报完成点券</str>
+  <str key="3192013619-ucdt" type="ucdt" originalKey="3192013619">占领生物实验室100次。</str>
+  <str key="3192636249-ucdt" type="ucdt" originalKey="3192636249">Indar据点控制</str>
+  <str key="3193853342-ucdt" type="ucdt" originalKey="3193853342">激活载具技能1</str>
+  <str key="3197022553-ucdt" type="ucdt" originalKey="3197022553">部署后，武器射速提高10%、投射物速度提高20%、装弹的时间减少30%，但武器射程缩短60%</str>
+  <str key="3203134225-ucdt" type="ucdt" originalKey="3203134225">一种内含不同鱼饵味道合成分子的特殊胶囊。胶囊内的物质被释放到水中后，其气味会吸引来鱼类。该口味是最便宜的款式。</str>
+  <str key="3204671755-ucdt" type="ucdt" originalKey="3204671755">安努氏横幅</str>
+  <str key="3204840022-ucdt" type="ucdt" originalKey="3204840022">泥沼爬行者</str>
+  <str key="3205345269-ucdt" type="ucdt" originalKey="3205345269">EXO-I“Hammerhead”蛙人装甲</str>
+  <str key="3207059897-ucdt" type="ucdt" originalKey="3207059897">头衔：追踪者</str>
+  <str key="3208438820-ucdt" type="ucdt" originalKey="3208438820">庆祝Auraxis战争十二周年！</str>
+  <str key="3224199853-ucdt" type="ucdt" originalKey="3224199853">头衔：黎明之女</str>
+  <str key="3232186097-ucdt" type="ucdt" originalKey="3232186097">NS-DB蓝色弹药</str>
+  <str key="3238336902-ucdt" type="ucdt" originalKey="3238336902">这种诱鱼器专为引诱最稀有、最挑食的鱼类而设计，使用天然成分提取物而非合成物，因此价格昂贵，但效果极佳。</str>
+  <str key="3247559352-ucdt" type="ucdt" originalKey="3247559352">NS-44“Primed Ruby”Commissioner</str>
+  <str key="3250079130-ucdt" type="ucdt" originalKey="3250079130">守卫Esamir的电力中心。</str>
+  <str key="3254137201-ucdt" type="ucdt" originalKey="3254137201">杰出测试者礼包</str>
+  <str key="3254960788-ucdt" type="ucdt" originalKey="3254960788">Stryder</str>
+  <str key="3256677910-ucdt" type="ucdt" originalKey="3256677910">守卫技术工厂50次。</str>
+  <str key="3258097717-ucdt" type="ucdt" originalKey="3258097717">在另一载具内时摧毁10个载具。</str>
+  <str key="3262181356-ucdt" type="ucdt" originalKey="3262181356">EXO-A“Hammerhead”蛙人头盔</str>
+  <str key="3263690031-ucdt" type="ucdt" originalKey="3263690031">停止受到以下类型的伤害：重型炸药、反坦克地雷、轻型反载具、步兵火箭筒、步兵瞄准、坦克炮弹、空对地弹头。每层装甲板为独立启动和再生，40秒后重新启动。Sunderer恢复满血可以缩短再生时间，顺序如下：正面、左侧、右侧、背面、顶部</str>
+  <str key="3263800740-ucdt" type="ucdt" originalKey="3263800740">SQS-3.045“Beleza”</str>
+  <str key="3265730614-ucdt" type="ucdt" originalKey="3265730614">钓鱼精通</str>
+  <str key="3266413531-ucdt" type="ucdt" originalKey="3266413531">Hoyt, Lysander</str>
+  <str key="3268670607-ucdt" type="ucdt" originalKey="3268670607">NS“Primed Ruby”碎片：金质勋章</str>
+  <str key="3270045475-ucdt" type="ucdt" originalKey="3270045475">NSO-HA“Kelpie”蛙人装甲</str>
+  <str key="3270396261-ucdt" type="ucdt" originalKey="3270396261">钓鱼车标</str>
+  <str key="3272502230-ucdt" type="ucdt" originalKey="3272502230">头衔：亡灵</str>
+  <str key="3274292701-ucdt" type="ucdt" originalKey="3274292701">老虎象征着无畏的战士，他们冲锋陷阵。他们的凶猛和独立性激励着前线的士兵，常被视为骄傲的象征。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的角色解锁标志旗帜。&lt;/font&gt;</str>
+  <str key="3275151678-ucdt" type="ucdt" originalKey="3275151678">悬挂式弹药4</str>
+  <str key="3277871461-ucdt" type="ucdt" originalKey="3277871461">用爱心轰炸机喇叭分享你的爱。</str>
+  <str key="3279720799-ucdt" type="ucdt" originalKey="3279720799">牛市4</str>
+  <str key="3279895292-ucdt" type="ucdt" originalKey="3279895292">这款装甲对军团中技术精通的操作员至关重要，它融合了ASE的模块化涂装和Exavion的定制工具带。设计上便于快速获取工具、炸弹和弹药，深受那些喜欢保持小队战斗力，并始终领先敌方装甲的乌鸦士兵们的青睐。</str>
+  <str key="3280637686-ucdt" type="ucdt" originalKey="3280637686">赚取鱼币</str>
+  <str key="3282735573-ucdt" type="ucdt" originalKey="3282735573">Spencer, Natalie</str>
+  <str key="3304264896-ucdt" type="ucdt" originalKey="3304264896">Ivers, Bran</str>
+  <str key="3310675044-ucdt" type="ucdt" originalKey="3310675044">悬挂式弹药</str>
+  <str key="3312740858-ucdt" type="ucdt" originalKey="3312740858">Esamir据点控制</str>
+  <str key="3328762472-ucdt" type="ucdt" originalKey="3328762472">授予“协调人”前缀头衔。</str>
+  <str key="3336552800-ucdt" type="ucdt" originalKey="3336552800">正能量涂鸦迷彩</str>
+  <str key="3337689894-ucdt" type="ucdt" originalKey="3337689894">Ellis, Gregory</str>
+  <str key="3339748849-ucdt" type="ucdt" originalKey="3339748849">酷炫迷彩</str>
+  <str key="3340592176-ucdt" type="ucdt" originalKey="3340592176">WMC-E“Barracuda”蛙人装甲</str>
+  <str key="3342915988-ucdt" type="ucdt" originalKey="3342915988">弹药塔1</str>
+  <str key="3354990259-ucdt" type="ucdt" originalKey="3354990259">高级Puzzler平头</str>
+  <str key="3358256810-ucdt" type="ucdt" originalKey="3358256810">EL医疗枪3</str>
+  <str key="3365912376-ucdt" type="ucdt" originalKey="3365912376">冲浪[#DECAL#]</str>
+  <str key="3373936102-ucdt" type="ucdt" originalKey="3373936102">隆重推出由Vanu Oshur打造的“Nautilu”蛙人合集，专为Vanu Sovereignty设计。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;仅限VS士兵装备。&lt;/font&gt;</str>
+  <str key="3379823751-ucdt" type="ucdt" originalKey="3379823751">因达尔荒原环境严酷无情。医疗领域的特工配备了各种初级装备和一些温控抗生素和止痛药，以防在探索途中有同伴可能死于疾病。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;此装甲只能由纳能集团战斗医疗兵装备。&lt;/font&gt;</str>
+  <str key="3380396202-ucdt" type="ucdt" originalKey="3380396202">充电中</str>
+  <str key="3404079063-ucdt" type="ucdt" originalKey="3404079063">黎明之女</str>
+  <str key="3406556608-ucdt" type="ucdt" originalKey="3406556608">NSO-D“Eidolon Yurei”装甲</str>
+  <str key="3416382323-ucdt" type="ucdt" originalKey="3416382323">Hossin警报完成点券</str>
+  <str key="3417647569-ucdt" type="ucdt" originalKey="3417647569">持续修复Sunderer，修复速率为68生命值/秒。启动后可以修复1915生命值，并能扑灭火势。60秒冷却期间，被动修复处于禁用状态。</str>
+  <str key="3419142018-ucdt" type="ucdt" originalKey="3419142018">冰龙是一把炽烈无匹的武器，能发出五连发射爆射。可以将它切换到第二武器模式，消耗50发子弹发射一个火焰巨球。</str>
+  <str key="3419255722-ucdt" type="ucdt" originalKey="3419255722">蓄电</str>
+  <str key="3420523106-ucdt" type="ucdt" originalKey="3420523106">高级插件礼包</str>
+  <str key="3422818882-ucdt" type="ucdt" originalKey="3422818882">为你的驾驶舱增添个性化装饰，在挡风玻璃处添加涂装。所有阵营都可以使用此装备。</str>
+  <str key="3423112551-ucdt" type="ucdt" originalKey="3423112551">尖刺钻泥鱼</str>
+  <str key="3423255546-ucdt" type="ucdt" originalKey="3423255546">这个头盔是阿努氏装甲的一部分，其上点缀的象征天界的蔚蓝元素是为了纪念天空之父。穿戴此甲者将成为末日报临的具象化身，迫使背信者直面悔悟。</str>
+  <str key="3438653877-ucdt" type="ucdt" originalKey="3438653877">探测器升级</str>
+  <str key="3438689549-ucdt" type="ucdt" originalKey="3438689549">用这款纪念款横幅庆祝你与艾莫若德服务器的渊源！为你的角色添加横幅。所有阵营均可使用此横幅。</str>
+  <str key="3440108810-ucdt" type="ucdt" originalKey="3440108810">Indar狗牌</str>
+  <str key="3440947703-ucdt" type="ucdt" originalKey="3440947703">此礼包包含先前任务活动的物品。因此，你如果与之前的物品失之交臂，更应该抓住这次机会！</str>
+  <str key="3448706668-ucdt" type="ucdt" originalKey="3448706668">特工需要深入洞穴和其他地下环境时，会利用轻型装甲。最好是在轻型车架上使用，以减少恢复单位时发生的任何不幸事故。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;此装甲只能由纳能集团渗透者装备。&lt;/font&gt;</str>
+  <str key="3450481531-ucdt" type="ucdt" originalKey="3450481531">GM Osprey：Auraxium勋章</str>
+  <str key="3457903870-ucdt" type="ucdt" originalKey="3457903870">无法在后退时部署</str>
+  <str key="3473028650-ucdt" type="ucdt" originalKey="3473028650">爱心轰炸机Mk.II迷彩</str>
+  <str key="3473720598-ucdt" type="ucdt" originalKey="3473720598">天使合唱团喇叭</str>
+  <str key="3484140675-ucdt" type="ucdt" originalKey="3484140675">为你的地面载具提供个性化修改，加装强光光环车标</str>
+  <str key="3485010600-ucdt" type="ucdt" originalKey="3485010600">Liberator小丑喇叭</str>
+  <str key="3485659495-ucdt" type="ucdt" originalKey="3485659495">NS-44 "Primed Diamond" Commissioner：银质勋章</str>
+  <str key="3491467338-ucdt" type="ucdt" originalKey="3491467338">Vyshnevsky, Anatoli</str>
+  <str key="3519030496-ucdt" type="ucdt" originalKey="3519030496">O'Donnell, Riley</str>
+  <str key="3520674968-ucdt" type="ucdt" originalKey="3520674968">Tivar, Juno</str>
+  <str key="3534598840-ucdt" type="ucdt" originalKey="3534598840">Prowler电子脉冲喇叭</str>
+  <str key="3535372670-ucdt" type="ucdt" originalKey="3535372670">Taveth, Junai</str>
+  <str key="3536862880-ucdt" type="ucdt" originalKey="3536862880">允许携带一枚可朝敌人投掷的手雷</str>
+  <str key="3537342152-ucdt" type="ucdt" originalKey="3537342152">欧胡鼠鲨目生物与地球上的鲨鱼极为相似。由于其进化特征似乎仅有细微差异，奥星的海洋生物学家认为，无论这类生物栖息在哪个星球，它们都是顶级捕食者。为你的角色解锁标志横幅。</str>
+  <str key="3537695391-ucdt" type="ucdt" originalKey="3537695391">ANT爱心轰炸机喇叭</str>
+  <str key="3537866375-ucdt" type="ucdt" originalKey="3537866375">Wainwright</str>
+  <str key="3544299311-ucdt" type="ucdt" originalKey="3544299311">&lt;font color="#dc9c36"&gt;蛙人装备合集礼包&lt;/font&gt;</str>
+  <str key="3547484823-ucdt" type="ucdt" originalKey="3547484823">为你的Harasser添加装饰附件。所有阵营都可以使用。</str>
+  <str key="3552199409-ucdt" type="ucdt" originalKey="3552199409">插件礼包</str>
+  <str key="3553172613-ucdt" type="ucdt" originalKey="3553172613">授予“乌曲拉”前缀头衔。</str>
+  <str key="3553587477-ucdt" type="ucdt" originalKey="3553587477">Sunderer爱心轰炸机喇叭</str>
+  <str key="3555191007-ucdt" type="ucdt" originalKey="3555191007">髓质鱼是一种常见的冷水水域鱼，其行动敏捷，攻击性很强。它们会组成小群攻击较大的鱼或者任何它们能捕捉到的东西。其贪吃的天性使得它们很容易被诱鱼器引诱。</str>
+  <str key="3555622157-ucdt" type="ucdt" originalKey="3555622157">被动修复20米范围内的非Sunderer载具，速率为23生命值/秒。启动后可部署一个修复站，以115生命值/秒的速率修复35米范围内的载具，冷却时间为70秒。Sunderer从部署的修复站获得的修复更少，从未部署处不获得任何修复。</str>
+  <str key="3556357268-ucdt" type="ucdt" originalKey="3556357268">行动：Helios</str>
+  <str key="3556533572-ucdt" type="ucdt" originalKey="3556533572">纳能装甲1</str>
+  <str key="3557329048-ucdt" type="ucdt" originalKey="3557329048">Scythe电子脉冲喇叭</str>
+  <str key="3569972253-ucdt" type="ucdt" originalKey="3569972253">2024夏日尝鲜活动</str>
+  <str key="3570952486-ucdt" type="ucdt" originalKey="3570952486">&lt;font size="28"&gt;感谢你与我们一道，庆祝Auraxis行星在熊熊战火中走过第21个年头！&lt;br&gt;&lt;br&gt;为了这次周年庆，我们打造了一个&lt;font color="#ACE1E5"&gt;系列21周年庆典礼包&lt;/font&gt; ，你可以在Depot中购买该礼包，此外还有&lt;font color="#ACE1E5"&gt;先前系列周年庆典&lt;/font&gt;的礼包回归哦！&lt;br&gt;&lt;br&gt;全新的系列21周年庆典礼包虽小，但是我们对于《Planetside 2》这款游戏却怀有远大的抱负！&lt;br&gt;&lt;br&gt;想要了解我们正在筹划的内容吗？快登录《Planetside 2》官网查看我们的发展规划吧！&lt;br&gt;</str>
+  <str key="3574454183-ucdt" type="ucdt" originalKey="3574454183">已击杀可部署货物</str>
+  <str key="3576650298-ucdt" type="ucdt" originalKey="3576650298">这款装甲蕴含阿努的不屈之威，佩戴者将成为行走的神力化身。敢于在战场上直面其佩戴者的人几乎没有机会生还，更遑论再次质疑其信仰。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;此装甲仅适用于VS重型突击兵。&lt;/font&gt;</str>
+  <str key="3579170658-ucdt" type="ucdt" originalKey="3579170658">Quorim, Halek</str>
+  <str key="3586418880-ucdt" type="ucdt" originalKey="3586418880">Sunderer小丑喇叭</str>
+  <str key="3587844203-ucdt" type="ucdt" originalKey="3587844203">为庆祝《PlanetSide》系列21周年，特别推出此礼包，其中的一个涂装、一个标志旗帜及旗帜框以及一个迷彩（4种阵营形态）。</str>
+  <str key="3593332660-ucdt" type="ucdt" originalKey="3593332660">钓鱼扫描仪</str>
+  <str key="3594146201-ucdt" type="ucdt" originalKey="3594146201">占领Indar的电力中心。</str>
+  <str key="3594850778-ucdt" type="ucdt" originalKey="3594850778">Sunderer：部署插槽</str>
+  <str key="3604665040-ucdt" type="ucdt" originalKey="3604665040">造船工人</str>
+  <str key="3607448441-ucdt" type="ucdt" originalKey="3607448441">购买步兵武器可享40%的折扣！</str>
+  <str key="3608497154-ucdt" type="ucdt" originalKey="3608497154">Amerish</str>
+  <str key="3614336347-ucdt" type="ucdt" originalKey="3614336347">老鼠是幸存者和机会主义者，象征着那些在混乱的战争中仍能茁壮成长、迅速适应新挑战的人。许多工程师和战略家都将自己与这一标志联系在一起。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的装甲或载具添加[#DECAL#]。&lt;/font&gt;</str>
+  <str key="3630190148-ucdt" type="ucdt" originalKey="3630190148">阿努纳基之刃：铜质勋章</str>
+  <str key="3632754243-ucdt" type="ucdt" originalKey="3632754243">扫描传奇鱼类</str>
+  <str key="3632979617-ucdt" type="ucdt" originalKey="3632979617">NS“Primed Amethyst”碎片</str>
+  <str key="3634108806-ucdt" type="ucdt" originalKey="3634108806">True North旗帜</str>
+  <str key="3634487750-ucdt" type="ucdt" originalKey="3634487750">Bishop, Elias</str>
+  <str key="3637099968-ucdt" type="ucdt" originalKey="3637099968">Amerish邮票涂装</str>
+  <str key="3641836604-ucdt" type="ucdt" originalKey="3641836604">Lightning电子脉冲喇叭</str>
+  <str key="3643098113-ucdt" type="ucdt" originalKey="3643098113">探路者</str>
+  <str key="3643418621-ucdt" type="ucdt" originalKey="3643418621">NSO-K“Bastion”装甲</str>
+  <str key="3645798640-ucdt" type="ucdt" originalKey="3645798640">用爱心轰炸机喇叭分享你的爱。所有阵营都可以使用此装备。</str>
+  <str key="3646423239-ucdt" type="ucdt" originalKey="3646423239">农历蛇年礼包</str>
+  <str key="3646775080-ucdt" type="ucdt" originalKey="3646775080">传奇鱼类点券</str>
+  <str key="3646907255-ucdt" type="ucdt" originalKey="3646907255">Karvex, Dalen</str>
+  <str key="3662983408-ucdt" type="ucdt" originalKey="3662983408">红色装饰鳍鳞片迷彩</str>
+  <str key="3663674539-ucdt" type="ucdt" originalKey="3663674539">Greene, Newt</str>
+  <str key="3668143698-ucdt" type="ucdt" originalKey="3668143698">2024情人节</str>
+  <str key="3678505930-ucdt" type="ucdt" originalKey="3678505930">广阔的战场上涌现出的大批太空南瓜正在Auraxis到处制造着混乱！&lt;br&gt;&lt;br&gt;&lt;ui&gt;&lt;li&gt;&lt;font size="28" color="#ACE1E5"&gt;万圣节活动&lt;/font&gt;已经如火如荼地展开，还带来了一些供你观看和体验的全新内容。&lt;/li&gt;&lt;li&gt;推出全新&lt;font size="28" color="#ACE1E5"&gt;赛季成就&lt;/font&gt;，最终获得“邪恶”奖励！&lt;/li&gt;&lt;li&gt;在每片大陆上，找到并摧毁&lt;font size="28" color="#ACE1E5"&gt;太空南瓜&lt;/font&gt;以及稀有的&lt;font size="28" color="#ACE1E5"&gt;银河南瓜灯&lt;/font&gt;，但是要小心，更大的危险正蠢蠢欲动。&lt;/li&gt;&lt;li&gt;&lt;font size="28" color="#ACE1E5"&gt;商城&lt;/font&gt;充满了限时&lt;font size="28" color="#ACE1E5"&gt;迷彩、武器&lt;/font&gt;和&lt;font size="28" color="#ACE1E5"&gt;装饰品&lt;/font&gt;。&lt;/li&gt;&lt;/ui&gt;</str>
+  <str key="3681265988-ucdt" type="ucdt" originalKey="3681265988">工程兵职业旗帜框</str>
+  <str key="3703849922-ucdt" type="ucdt" originalKey="3703849922">厘米</str>
+  <str key="3705874935-ucdt" type="ucdt" originalKey="3705874935">守卫Indar的生物实验室。</str>
+  <str key="3705998934-ucdt" type="ucdt" originalKey="3705998934">蛙人医疗兵装甲</str>
+  <str key="3708691911-ucdt" type="ucdt" originalKey="3708691911">快来抢购会员专属的角色装饰物品吧！整个8月期间均可购买！（之前的Amazon Prime奖励）</str>
+  <str key="3709810729-ucdt" type="ucdt" originalKey="3709810729">设计时采用了耐用的防水材料和改良的工具系统。允许工程师在水下执行重要的维护作业和部署设备。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;只有NC工程兵可装备此装甲。&lt;/font&gt;</str>
+  <str key="3709867225-ucdt" type="ucdt" originalKey="3709867225">扫描20条普通鱼类</str>
+  <str key="3711415519-ucdt" type="ucdt" originalKey="3711415519">Nanite Systems Operatives总是在生死之间穿梭，为了各种理由而战。NS特工项目及其研究告诉它的对象：死亡不是终点，为了更伟大的事业牺牲自己的生命会让你在项目中赢得赞赏与尊重。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;仅NSO可装备此头盔。&lt;/font&gt;</str>
+  <str key="3711677910-ucdt" type="ucdt" originalKey="3711677910">虎鲸</str>
+  <str key="3712209418-ucdt" type="ucdt" originalKey="3712209418">“钓鱼大师”钓鱼帽</str>
+  <str key="3713682039-ucdt" type="ucdt" originalKey="3713682039">使用任意诱鱼器55次</str>
+  <str key="3719752602-ucdt" type="ucdt" originalKey="3719752602">网纹花药鱼</str>
+  <str key="3721716193-ucdt" type="ucdt" originalKey="3721716193">行动：怪兽</str>
+  <str key="3722005505-ucdt" type="ucdt" originalKey="3722005505">Dunn, Alric</str>
+  <str key="3724860684-ucdt" type="ucdt" originalKey="3724860684">EVL Sunderer外部附件</str>
+  <str key="3725295479-ucdt" type="ucdt" originalKey="3725295479">高级传感系统5</str>
+  <str key="3729368334-ucdt" type="ucdt" originalKey="3729368334">NS空军头盔</str>
+  <str key="3730025628-ucdt" type="ucdt" originalKey="3730025628">Malkov, Eileen</str>
+  <str key="3731429690-ucdt" type="ucdt" originalKey="3731429690">使用低成本材料及追踪导弹部件批量生产的扫描工具。可提供最低限度的鱼类类型和稀有度探测，非常适合垂钓初学者使用。</str>
+  <str key="3739947482-ucdt" type="ucdt" originalKey="3739947482">NS“Primed Lapis”碎片：金质勋章</str>
+  <str key="3740049920-ucdt" type="ucdt" originalKey="3740049920">考古技术员</str>
+  <str key="3741341239-ucdt" type="ucdt" originalKey="3741341239">此礼包包含先前成就活动的物品。因此，如果你与之前的物品失之交臂，更应该抓住这次机会！&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;会员专属。&lt;br&gt;&lt;br&gt;(仅限Daybreak Cash购买)&lt;/font&gt;</str>
+  <str key="3744963652-ucdt" type="ucdt" originalKey="3744963652">[#HEAVY_ASSAULT#]可以装备。仅限NSO使用。</str>
+  <str key="3753113465-ucdt" type="ucdt" originalKey="3753113465">给探测器装上改进型芯片组，这样就算暴露行踪的敌人暴露开了隐身，探测器也能继续追踪他们。</str>
+  <str key="3754850108-ucdt" type="ucdt" originalKey="3754850108">Eriksson, Sven</str>
+  <str key="3756144799-ucdt" type="ucdt" originalKey="3756144799">NS-D“冰龙”Helios：Auraxium勋章</str>
+  <str key="3758049593-ucdt" type="ucdt" originalKey="3758049593">为你的角色解锁个人资料横幅。仅限Vanu Sovereignty阵营使用。</str>
+  <str key="3764332874-ucdt" type="ucdt" originalKey="3764332874">阿努纳基探索者头盔</str>
+  <str key="3764367120-ucdt" type="ucdt" originalKey="3764367120">亡灵迷彩</str>
+  <str key="3779685492-ucdt" type="ucdt" originalKey="3779685492">如果被发现车架上有任何位置喷涂有这一标志，则无论NS特工有意还是无意为之，都要接受职业道德评估。大多数情况下，人类特工在接受此类评估不久之后就会失去工作。而那些因为佩戴此标志而被从NS特工计划中除名的人，则从此杳无音讯。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的装甲或载具添加涂装。仅限纳能集团阵营使用。&lt;/font&gt;</str>
+  <str key="3785633907-ucdt" type="ucdt" originalKey="3785633907">票券</str>
+  <str key="3786518576-ucdt" type="ucdt" originalKey="3786518576">Esamir</str>
+  <str key="3786537799-ucdt" type="ucdt" originalKey="3786537799">3月会员礼包I</str>
+  <str key="3786989211-ucdt" type="ucdt" originalKey="3786989211">此装甲上带有额外涂装，可保护特工在探索和研究对身体有危害的区域时不被碎片和锯齿状边缘伤害到。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;此装甲只能由纳能集团重型突击兵部队装备。&lt;/font&gt;</str>
+  <str key="3787636606-ucdt" type="ucdt" originalKey="3787636606">考古技术员的十二周年礼包</str>
+  <str key="3788387538-ucdt" type="ucdt" originalKey="3788387538">扫描所有传奇鱼类</str>
+  <str key="3792230762-ucdt" type="ucdt" originalKey="3792230762">入手限量款的“Primed Ruby” NS-44 Commissioner左轮手枪，成为人群中最靓的仔！所有阵营都可以使用此武器。</str>
+  <str key="3795680360-ucdt" type="ucdt" originalKey="3795680360">T'var, Olyn</str>
+  <str key="3802248683-ucdt" type="ucdt" originalKey="3802248683">Xen-Tal, Arius</str>
+  <str key="3802346766-ucdt" type="ucdt" originalKey="3802346766">NSO-K“Soma”头盔</str>
+  <str key="3802800474-ucdt" type="ucdt" originalKey="3802800474">Harasser电子脉冲喇叭</str>
+  <str key="3806977859-ucdt" type="ucdt" originalKey="3806977859">守卫技术工厂2次。</str>
+  <str key="3809784480-ucdt" type="ucdt" originalKey="3809784480">Valkyrie电子脉冲喇叭</str>
+  <str key="3810469714-ucdt" type="ucdt" originalKey="3810469714">纳能装甲</str>
+  <str key="3813679854-ucdt" type="ucdt" originalKey="3813679854">头足纲外壳</str>
+  <str key="3813788629-ucdt" type="ucdt" originalKey="3813788629">[#INFILTRATOR#]可以装备。仅限NSO使用。</str>
+  <str key="3823495837-ucdt" type="ucdt" originalKey="3823495837">Kethis, Rael</str>
+  <str key="3824002709-ucdt" type="ucdt" originalKey="3824002709">NSO-K“Tempest”装甲</str>
+  <str key="3824809244-ucdt" type="ucdt" originalKey="3824809244">用爱心轰炸机喇叭分享你的爱。所有阵营都可以使用此装备。</str>
+  <str key="3824852116-ucdt" type="ucdt" originalKey="3824852116">为NS特工打造的标准规格空军头部组件，包含一个辅助“黑匣子”和多种适用于大多数现代飞行器的内置传感器和瞄准系统。所有职业都可装备。仅限NSO使用。</str>
+  <str key="3824854934-ucdt" type="ucdt" originalKey="3824854934">2025第一滴血欧洲横幅</str>
+  <str key="3824988745-ucdt" type="ucdt" originalKey="3824988745">授予“造船工人”前缀头衔。</str>
+  <str key="3825138017-ucdt" type="ucdt" originalKey="3825138017">农历蛇年头盔</str>
+  <str key="3825535904-ucdt" type="ucdt" originalKey="3825535904">用这款纪念款横幅庆祝你与米勒服务器的渊源！为你的角色添加横幅。所有阵营均可使用此横幅。</str>
+  <str key="3825800454-ucdt" type="ucdt" originalKey="3825800454">Mavrix, Noethe</str>
+  <str key="3825900682-ucdt" type="ucdt" originalKey="3825900682">小队必须包含至少2名成员、1条描述，且公开显示招募队友</str>
+  <str key="3826792511-ucdt" type="ucdt" originalKey="3826792511">NS-D“冰龙”Helios：铜质勋章</str>
+  <str key="3828768946-ucdt" type="ucdt" originalKey="3828768946">为你的装甲、武器或载具添加动态迷彩。仅限&lt;font color="#9b4eb6"&gt;VS&lt;/font&gt;阵营使用。</str>
+  <str key="3841929639-ucdt" type="ucdt" originalKey="3841929639">乌曲拉</str>
+  <str key="3853014329-ucdt" type="ucdt" originalKey="3853014329">True North旗帜框</str>
+  <str key="3853454498-ucdt" type="ucdt" originalKey="3853454498">Liberator爱心轰炸机喇叭</str>
+  <str key="3855761691-ucdt" type="ucdt" originalKey="3855761691">Indar邮票涂装</str>
+  <str key="3857626652-ucdt" type="ucdt" originalKey="3857626652">ANT电子脉冲喇叭</str>
+  <str key="3858428114-ucdt" type="ucdt" originalKey="3858428114">银河爱心轰炸机玻璃</str>
+  <str key="3858481343-ucdt" type="ucdt" originalKey="3858481343">Javelin小丑喇叭</str>
+  <str key="3859082844-ucdt" type="ucdt" originalKey="3859082844">老虎象征着无畏的战士，他们冲锋陷阵。他们的凶猛和独立性激励着前线的士兵，常被视为骄傲的象征。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的装甲或载具添加[#DECAL#]。&lt;/font&gt;</str>
+  <str key="3859416681-ucdt" type="ucdt" originalKey="3859416681">Scythe爱心轰炸机喇叭</str>
+  <str key="3860581104-ucdt" type="ucdt" originalKey="3860581104">ASE-E Corvid装甲</str>
+  <str key="3863248031-ucdt" type="ucdt" originalKey="3863248031">隆重推出由Excavion Outfitters打造的“Hammerhead”蛙人合集，专为New Conglomerate设计。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;仅限NC士兵装备。&lt;/font&gt;</str>
+  <str key="3865067661-ucdt" type="ucdt" originalKey="3865067661">Esamir邮票涂装</str>
+  <str key="3869769846-ucdt" type="ucdt" originalKey="3869769846">NSO-K“Specter”头盔</str>
+  <str key="3883888634-ucdt" type="ucdt" originalKey="3883888634">EXO“Hammerhead”蛙人装备礼包</str>
+  <str key="3883983440-ucdt" type="ucdt" originalKey="3883983440">NS-44 "Primed Diamond" Commissioner：铜质勋章</str>
+  <str key="3884130888-ucdt" type="ucdt" originalKey="3884130888">天空之鲸</str>
+  <str key="3885043450-ucdt" type="ucdt" originalKey="3885043450">钓鱼涂装</str>
+  <str key="3885102601-ucdt" type="ucdt" originalKey="3885102601">Ressa, Volari</str>
+  <str key="3887069233-ucdt" type="ucdt" originalKey="3887069233">扫描任意种类的鱼80次</str>
+  <str key="3887818684-ucdt" type="ucdt" originalKey="3887818684">悬挂式弹药1</str>
+  <str key="3891492928-ucdt" type="ucdt" originalKey="3891492928">改变载具的航迹云颜色。</str>
+  <str key="3892889845-ucdt" type="ucdt" originalKey="3892889845">这款装甲融合了ASE的模块化涂装与Exavion的定制工具带。一些工程师改装了他们的盔甲，增加了不常见的接口——这说明乌鸦军团正在研究某些超出标准的NC硬件。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;此装甲仅适用于NC工程师。&lt;/font&gt;</str>
+  <str key="3895663577-ucdt" type="ucdt" originalKey="3895663577">2024额外生命</str>
+  <str key="3895827421-ucdt" type="ucdt" originalKey="3895827421">乌鸦军团涂装</str>
+  <str key="3896923583-ucdt" type="ucdt" originalKey="3896923583">牛市2</str>
+  <str key="3903609886-ucdt" type="ucdt" originalKey="3903609886">完成新手成就</str>
+  <str key="3905858937-ucdt" type="ucdt" originalKey="3905858937">守卫Esamir的生物实验室。</str>
+  <str key="3905947654-ucdt" type="ucdt" originalKey="3905947654">海怪迷彩</str>
+  <str key="3906257391-ucdt" type="ucdt" originalKey="3906257391">元素龙迷彩</str>
+  <str key="3907466787-ucdt" type="ucdt" originalKey="3907466787">NS-D“冰龙”Helios</str>
+  <str key="3909016278-ucdt" type="ucdt" originalKey="3909016278">授予“代表”前缀头衔。</str>
+  <str key="3914904523-ucdt" type="ucdt" originalKey="3914904523">应用纳能技术的医疗枪，用于治疗或复活步兵。多亏了Auraxis人民的慷慨捐赠，NSO战斗医疗兵能够向他们的客户提供额外生命来达成目标。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;按下射击键治疗目标，按下瞄准键复活目标。&lt;/font&gt;Extra Life版使用默认物品的技能线。</str>
+  <str key="3915172801-ucdt" type="ucdt" originalKey="3915172801">Zahir, Vectis</str>
+  <str key="3917232881-ucdt" type="ucdt" originalKey="3917232881">专为在因达尔荒原上长期逗留的探险队而设计。面部完全隐藏，以隔绝沙尘暴和酷热。头盔还配备了呼吸装置和光自适应感光器，以在太阳光最强烈时增强佩戴者的视力。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;所有职业、所有派系都可以使用此装备。&lt;/font&gt;</str>
+  <str key="3922327641-ucdt" type="ucdt" originalKey="3922327641">重型突击兵旗帜框</str>
+  <str key="3922699338-ucdt" type="ucdt" originalKey="3922699338">Esamir警报完成点券 </str>
+  <str key="3926711410-ucdt" type="ucdt" originalKey="3926711410">亡灵横幅框</str>
+  <str key="3927855713-ucdt" type="ucdt" originalKey="3927855713">Xelos, Miran</str>
+  <str key="3931008475-ucdt" type="ucdt" originalKey="3931008475">NSO-K“Bastion”头盔</str>
+  <str key="3931388249-ucdt" type="ucdt" originalKey="3931388249">Flash电子脉冲喇叭</str>
+  <str key="3933616159-ucdt" type="ucdt" originalKey="3933616159">阿努氏族相信人类是众神之王“阿努”的直系后裔，他们认为阿努在史前曾经来到过地球，和他一起到来的还有神圣后代——瓦努人。他们的象征符号取自古苏美尔符号“丁吉尔”，由四根法杖组成的星爆图案。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的装甲或载具添加涂装。仅限Vanu Sovereignty阵营使用。&lt;/font&gt;</str>
+  <str key="3934932446-ucdt" type="ucdt" originalKey="3934932446">设计时考虑到了储物需求，后者负责维护Nascent Expeditions……以及他们自己所使用的工具、技术和操作人员。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;此装甲只能由工程师装备。&lt;/font&gt;</str>
+  <str key="3935558961-ucdt" type="ucdt" originalKey="3935558961">爆炸性反馈横幅</str>
+  <str key="3935989354-ucdt" type="ucdt" originalKey="3935989354">2025夏日尝鲜</str>
+  <str key="3939760110-ucdt" type="ucdt" originalKey="3939760110">为你的驾驶舱增添个性化装饰，在挡风玻璃处添加涂装。所有阵营都可以使用此装备。</str>
+  <str key="3945716408-ucdt" type="ucdt" originalKey="3945716408">占领Esamir的电力中心。</str>
+  <str key="3946053845-ucdt" type="ucdt" originalKey="3946053845">改变载具的航迹云颜色。</str>
+  <str key="3950144257-ucdt" type="ucdt" originalKey="3950144257">扳手刀</str>
+  <str key="3952849989-ucdt" type="ucdt" originalKey="3952849989">NSO-D“Eidolon Yurei”头盔</str>
+  <str key="3958359207-ucdt" type="ucdt" originalKey="3958359207">部署一座弹药塔，为附近44米内的友方载具补充弹药。每隔55秒可以投放一次弹药。</str>
+  <str key="3960090957-ucdt" type="ucdt" originalKey="3960090957">8月会员礼包I</str>
+  <str key="3962766207-ucdt" type="ucdt" originalKey="3962766207">部署一座工具站，为附近友方载具补充弹药。</str>
+  <str key="3962889615-ucdt" type="ucdt" originalKey="3962889615">Infiltrator职业旗帜框</str>
+  <str key="3962902022-ucdt" type="ucdt" originalKey="3962902022">纳能装甲</str>
+  <str key="3973422411-ucdt" type="ucdt" originalKey="3973422411">隆重推出由Nanite Systems打造的“Kelpie”蛙人合集，专为Nanite Systems Operatives设计。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;仅限NSO士兵装备。&lt;/font&gt;</str>
+  <str key="3974910920-ucdt" type="ucdt" originalKey="3974910920">应用纳能技术的医疗枪，用于治疗或复活步兵。多亏了Auraxis人民的慷慨捐赠，New Conglomerate的战斗医疗兵能让他们的自由斗士再一次反抗权威、过上没有压迫的生活。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;按下射击键治疗目标，按下瞄准键复活目标。&lt;/font&gt;Extra Life版使用默认物品的技能线。</str>
+  <str key="3982401510-ucdt" type="ucdt" originalKey="3982401510">Galaxy爱心轰炸机喇叭</str>
+  <str key="3989349773-ucdt" type="ucdt" originalKey="3989349773">GM Osprey</str>
+  <str key="3989485910-ucdt" type="ucdt" originalKey="3989485910">占领Indar的技术工厂1次。</str>
+  <str key="3991688636-ucdt" type="ucdt" originalKey="3991688636">对以下伤害类型的抵抗能力增强25%：重型炸药、反坦克地雷、轻型反载具、步兵火箭筒、步兵瞄准、坦克炮弹、空对地弹头和反器材步枪伤害</str>
+  <str key="3992303895-ucdt" type="ucdt" originalKey="3992303895">夏日海浪更新</str>
+  <str key="3992583748-ucdt" type="ucdt" originalKey="3992583748">扫描任意种类的鱼40次</str>
+  <str key="3993214571-ucdt" type="ucdt" originalKey="3993214571">改变载具的航迹云颜色。</str>
+  <str key="3993657267-ucdt" type="ucdt" originalKey="3993657267">这种罕见的中型生物利用其长满鳞片的翅膀在平静的水面上滑行。它的大螯可以钳住猎物，然后像蜘蛛一样吸食大餐。</str>
+  <str key="3995122976-ucdt" type="ucdt" originalKey="3995122976">一种极为罕见，体型中等，在沼泽水域沿岸附近可以找到的生物。这种生物独特的传感器系统由身体两侧的敏感网络组成，可以轻松找到猎物并躲避敌人。</str>
+  <str key="3995227341-ucdt" type="ucdt" originalKey="3995227341">NE-HA荒原防弹衣</str>
+  <str key="3996712924-ucdt" type="ucdt" originalKey="3996712924">悬挂式弹药3</str>
+  <str key="3996971799-ucdt" type="ucdt" originalKey="3996971799">持续修复Sunderer。启动后可以修复Sunderer，并能扑灭火势。冷却期间，被动修复处于禁用状态。</str>
+  <str key="4000836342-ucdt" type="ucdt" originalKey="4000836342">亡灵横幅</str>
+  <str key="4001985706-ucdt" type="ucdt" originalKey="4001985706">Khorian, Sev</str>
+  <str key="4013925729-ucdt" type="ucdt" originalKey="4013925729">Reaver爱心轰炸机喇叭</str>
+  <str key="4015893175-ucdt" type="ucdt" originalKey="4015893175">用这个特别礼包来庆祝《Planetside 2》的十二周年吧。注意：礼包内包含VS/NC/TR/NSO帝国的对应武器和装饰。英雄加成只能在购买礼包的角色身上生效。</str>
+  <str key="4016924432-ucdt" type="ucdt" originalKey="4016924432">鱼币</str>
+  <str key="4017222456-ucdt" type="ucdt" originalKey="4017222456">在乌鸦军团中，战斗医疗兵不仅需要拯救生命；他们还必须适应战场环境、完成实验并保证自己存活下来。虽然这款装甲的设计突出了耐用性和机动性，但部分单位的装甲上还出现了不寻常的接口端和隐蔽的储物舱，侧面说明了乌鸦军团也考虑了紧急救援之外的需要。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;此装甲仅适用于NC战斗医疗兵。&lt;/font&gt;</str>
+  <str key="4019668121-ucdt" type="ucdt" originalKey="4019668121">牛是不屈不挠精神的象征，它代表着为在Auraxis立足而辛勤劳作的定居者，他们为每个派别奠定了基础。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的角色解锁标志旗帜。&lt;/font&gt;</str>
+  <str key="4024451158-ucdt" type="ucdt" originalKey="4024451158">2024圣帕特里克节</str>
+  <str key="4037728777-ucdt" type="ucdt" originalKey="4037728777">占领Esamir的技术工厂。</str>
+  <str key="4039866902-ucdt" type="ucdt" originalKey="4039866902">反应装甲2</str>
+  <str key="4040073775-ucdt" type="ucdt" originalKey="4040073775">疣猪海信使</str>
+  <str key="4046310697-ucdt" type="ucdt" originalKey="4046310697">克洛诺斯之眼横幅</str>
+  <str key="4047555000-ucdt" type="ucdt" originalKey="4047555000">WMC Inquirer：银质勋章</str>
+  <str key="4048883522-ucdt" type="ucdt" originalKey="4048883522">卓越IX</str>
+  <str key="4049152970-ucdt" type="ucdt" originalKey="4049152970">Extra Life纳能装甲包</str>
+  <str key="4052161777-ucdt" type="ucdt" originalKey="4052161777">按住[%s]键可以侵入可部署货物终端</str>
+  <str key="4055691336-ucdt" type="ucdt" originalKey="4055691336">乌鸦军团是New Conglomerate旗下的一支企业雇佣兵分裂派系，其口号是“不效忠任何人，只听从自己的欲望。”为其提供资金赞助的包括Arcenul Holdings、Woodman联盟，以及一些不愿意透露姓名的捐助者。虽然其中一些资金来路不明，但他们与NC之间的联盟关系却情同手足。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;为你的装甲或载具添加涂装。仅限New Conglomerate阵营使用。&lt;/font&gt;</str>
+  <str key="4061467636-ucdt" type="ucdt" originalKey="4061467636">控制探针</str>
+  <str key="4062721658-ucdt" type="ucdt" originalKey="4062721658">扫描呆呆咕哝鱼5次</str>
+  <str key="4064550827-ucdt" type="ucdt" originalKey="4064550827">部署护盾</str>
+  <str key="4073665376-ucdt" type="ucdt" originalKey="4073665376">重型突击兵职业旗帜</str>
+  <str key="4077194969-ucdt" type="ucdt" originalKey="4077194969">系列21周年庆典礼包</str>
+  <str key="4080363317-ucdt" type="ucdt" originalKey="4080363317">次时代聚合星铁电池将探针电池容量的极限推向了新的高度。由于容量巨大，建议用于功能强大的扫描工具，以实现快速充电。</str>
+  <str key="4081175787-ucdt" type="ucdt" originalKey="4081175787">Scythe小丑喇叭</str>
+  <str key="4081299340-ucdt" type="ucdt" originalKey="4081299340">授予“正义使者”前缀头衔。</str>
+  <str key="4083145893-ucdt" type="ucdt" originalKey="4083145893">通过阿努氏族试炼的阿努纳基狂热者可以获得的利刃。</str>
+  <str key="4084339003-ucdt" type="ucdt" originalKey="4084339003">这款装甲蕴含阿努的不屈之威，佩戴者将成为行走的神力化身。敢于在战场上直面其佩戴者的人几乎没有机会生还，更遑论再次质疑其信仰。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;此头盔仅适用于VS重型突击兵。&lt;/font&gt;</str>
+  <str key="4085962758-ucdt" type="ucdt" originalKey="4085962758">为你的角色解锁个人资料横幅。仅限纳能集团阵容使用。</str>
+  <str key="4090482701-ucdt" type="ucdt" originalKey="4090482701">守卫生物实验室30次。</str>
+  <str key="4091485383-ucdt" type="ucdt" originalKey="4091485383">以至少50%参与度完成Amerish的灾难预警。</str>
+  <str key="4092459008-ucdt" type="ucdt" originalKey="4092459008">下一等级：受到伤害后开始恢复护盾的时间缩短到8秒。</str>
+  <str key="4094337691-ucdt" type="ucdt" originalKey="4094337691">用爱心轰炸机喇叭分享你的爱。所有阵营都可以使用此装备。</str>
+  <str key="4108907206-ucdt" type="ucdt" originalKey="4108907206">可让你使用Cortium建造一座可由友方玩家操纵的Hoplon防空方阵塔。</str>
+  <str key="4110427178-ucdt" type="ucdt" originalKey="4110427178">头衔：空军</str>
+  <str key="4110509838-ucdt" type="ucdt" originalKey="4110509838">Dervish控制</str>
+  <str key="4110725342-ucdt" type="ucdt" originalKey="4110725342">MAX机甲职业旗帜</str>
+  <str key="4111980583-ucdt" type="ucdt" originalKey="4111980583">强化涂装2</str>
+  <str key="4112949356-ucdt" type="ucdt" originalKey="4112949356">被动修复20米范围内的非Sunderer载具，速率为18生命值/秒。启动后可部署一个修复站，以90生命值/秒的速率修复32米范围内的载具，冷却时间为75秒。Sunderer从部署的修复站获得的修复更少，从未部署处不获得任何修复。</str>
+  <str key="4113272017-ucdt" type="ucdt" originalKey="4113272017">这款头盔采用了尖端技术和流线型轮廓设计，展现了Sovereignty超越边界的愿景，即使在深海之下，也追求更高的理解。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;所有职业都可以装备。仅限Vanu Sovereignty阵营使用。&lt;/font&gt;</str>
+  <str key="4113726604-ucdt" type="ucdt" originalKey="4113726604">获得250个据点控制缎带。</str>
+  <str key="4116066732-ucdt" type="ucdt" originalKey="4116066732">Orien, Vael</str>
+  <str key="4116284726-ucdt" type="ucdt" originalKey="4116284726">普通鱼类点券</str>
+  <str key="4116680839-ucdt" type="ucdt" originalKey="4116680839">强化涂装</str>
+  <str key="4121363989-ucdt" type="ucdt" originalKey="4121363989">Mosquito电子脉冲喇叭</str>
+  <str key="4122862993-ucdt" type="ucdt" originalKey="4122862993">NSO-K“Soma”装甲</str>
+  <str key="4123174451-ucdt" type="ucdt" originalKey="4123174451">头衔：探路者</str>
+  <str key="4125062558-ucdt" type="ucdt" originalKey="4125062558">Light Assault职业旗帜框</str>
+  <str key="4129067372-ucdt" type="ucdt" originalKey="4129067372">扫描传奇鱼类</str>
+  <str key="4130168948-ucdt" type="ucdt" originalKey="4130168948">安装后，被动探测附近的敌人。启动后可部署一个持续探测的雷达，探测半径更大。</str>
+  <str key="4130756844-ucdt" type="ucdt" originalKey="4130756844">New Conglomerate积极鼓励其阵营成员庆祝季节性假日，无论他们的背景如何。该面具代表了那些牺牲自己的英雄，正是他们的付出，生者才能安心享受节日。但谁知道呢，也许有些逝者会回来看看他们用命守住的祥和人世。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;仅New Conglomerate可装备此头盔。&lt;/font&gt;</str>
+  <str key="4131484414-ucdt" type="ucdt" originalKey="4131484414">让在30米范围内的友方载具恢复25点生命值，并且不影响Corsair本身。</str>
+  <str key="4132117217-ucdt" type="ucdt" originalKey="4132117217">亡灵涂装</str>
+  <str key="4132854097-ucdt" type="ucdt" originalKey="4132854097">徒步穿越Esamir大陆</str>
+  <str key="4137741911-ucdt" type="ucdt" originalKey="4137741911">扫描任意种类的鱼10次</str>
+  <str key="4138034773-ucdt" type="ucdt" originalKey="4138034773">可维修友军的载具、MAX机甲和设备。也能拆除敌方的反坦克地雷。多亏了Auraxis人民的慷慨捐赠，NS特工可以保证战斗机器运行得更加持久，为前线人员提供更多保障。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;按住射击键进行维修，按住瞄准键进行拆除。&lt;/font&gt;&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;Extra Life版共享默认的纳米装甲包技能线。&lt;/font&gt;</str>
+  <str key="4145379607-ucdt" type="ucdt" originalKey="4145379607">轻型装甲带有推进器，可协助特工探索高处。使用推进器时请务必小心，避免损坏。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;此装甲只能由纳能集团轻型突击兵部队装备。&lt;/font&gt;</str>
+  <str key="4148164024-ucdt" type="ucdt" originalKey="4148164024">Daxor, Elin</str>
+  <str key="4149819950-ucdt" type="ucdt" originalKey="4149819950">6月会员礼包I</str>
+  <str key="4154745958-ucdt" type="ucdt" originalKey="4154745958">货物</str>
+  <str key="4155198689-ucdt" type="ucdt" originalKey="4155198689">Liberator爱心轰炸机玻璃</str>
+  <str key="4155789756-ucdt" type="ucdt" originalKey="4155789756">Volk, Zimke</str>
+  <str key="4157576084-ucdt" type="ucdt" originalKey="4157576084">珊瑚之哀横幅框</str>
+  <str key="4159433996-ucdt" type="ucdt" originalKey="4159433996">Hossin邮票涂装</str>
+  <str key="4161271282-ucdt" type="ucdt" originalKey="4161271282">电子脉冲迷彩</str>
+  <str key="4162994226-ucdt" type="ucdt" originalKey="4162994226">部署一座弹药塔，为附近50米内的友方载具补充弹药。每隔45秒可以投放一次弹药。</str>
+  <str key="4165213674-ucdt" type="ucdt" originalKey="4165213674">繁星迷彩</str>
+  <str key="4166326537-ucdt" type="ucdt" originalKey="4166326537">剩余电量</str>
+  <str key="4167703333-ucdt" type="ucdt" originalKey="4167703333">为你的装甲或载具添加忠诚涂装，庆祝《Planetside 2》十二周年。</str>
+  <str key="4168954514-ucdt" type="ucdt" originalKey="4168954514">Strauss, Ilena</str>
+  <str key="4176743727-ucdt" type="ucdt" originalKey="4176743727">扫描呆呆咕哝鱼</str>
+  <str key="4177544819-ucdt" type="ucdt" originalKey="4177544819">以至少50%参与度完成Indar的灾难预警。</str>
+  <str key="4177965466-ucdt" type="ucdt" originalKey="4177965466">NSO-LA“Kelpie”蛙人装甲</str>
+  <str key="4179119538-ucdt" type="ucdt" originalKey="4179119538">蕴藏着优雅的紫罗兰色调，NS“Primed Amethyst”碎片不仅是一件武器，也是一种声明。这把刀与那些寻求超越世俗的人产生共鸣，跨越愚昧开辟通往启蒙的道路。</str>
+  <str key="4179293219-ucdt" type="ucdt" originalKey="4179293219">安装后，被动探测附近60米范围内的敌人。启动后可部署一个雷达，探测半径100米，冷却时间为50秒。</str>
+  <str key="4179967189-ucdt" type="ucdt" originalKey="4179967189">占领能量容纳站100次。</str>
+  <str key="4180397480-ucdt" type="ucdt" originalKey="4180397480">Puzzler旗帜框</str>
+  <str key="4183859001-ucdt" type="ucdt" originalKey="4183859001">纳能装甲2</str>
+  <str key="4183923572-ucdt" type="ucdt" originalKey="4183923572">普通湿叼鱼</str>
+  <str key="4184972000-ucdt" type="ucdt" originalKey="4184972000">侦察雷达4</str>
+  <str key="4190525678-ucdt" type="ucdt" originalKey="4190525678">守卫生物实验室</str>
+  <str key="4191523041-ucdt" type="ucdt" originalKey="4191523041">VO-LA“Nautilus”蛙人装甲</str>
+  <str key="4191916393-ucdt" type="ucdt" originalKey="4191916393">EL医疗枪5</str>
+  <str key="4196675485-ucdt" type="ucdt" originalKey="4196675485">Puzzler挡风玻璃</str>
+  <str key="4197776282-ucdt" type="ucdt" originalKey="4197776282">安装后，被动探测附近40米范围内的敌人。启动后可部署一个雷达，探测半径80米，冷却时间为55秒。</str>
+  <str key="4213715348-ucdt" type="ucdt" originalKey="4213715348">扳手刀：铜质勋章</str>
+  <str key="4215177707-ucdt" type="ucdt" originalKey="4215177707">为你的装甲、武器或载具添加动态迷彩。仅限&lt;font color="#790019"&gt;TR&lt;/font&gt;阵营使用。&lt;br&gt;&lt;br&gt;&lt;font color="#dc9c36"&gt;会员专属。&lt;br&gt;&lt;br&gt;(仅限Daybreak Cash购买)&lt;/font&gt;</str>
+  <str key="4216326840-ucdt" type="ucdt" originalKey="4216326840">EL医疗枪2</str>
+  <str key="4227360078-ucdt" type="ucdt" originalKey="4227360078">Veliax, Sael</str>
+  <str key="4227824801-ucdt" type="ucdt" originalKey="4227824801">&lt;font size="28"&gt;[#AURAXIS#]夏日欢乐继续！&lt;br&gt;&lt;br&gt;&lt;font color="#ACE1E5"&gt;行动：怪兽&lt;/font&gt;在8月6日至9月5日期间上线。&lt;br&gt;&lt;br&gt;使用所有载具都可搭载的&lt;font color="#ACE1E5"&gt;声呐喇叭&lt;/font&gt;来探测麻烦，但愿你能摆脱Harasser的&lt;font color="#ACE1E5"&gt;头足纲外壳&lt;/font&gt;！&lt;font color="#ACE1E5"&gt;商城&lt;/font&gt;中限时上架&lt;br&gt;&lt;br&gt;完成&lt;font color="#ACE1E5"&gt;行动：怪兽&lt;/font&gt;活动成就即可赢取怪物主题奖励：&lt;br&gt;&lt;br&gt;&lt;font size="28" color="#ACE1E5"&gt; &amp;#8226; 深渊怪物涂装&lt;/font&gt;&lt;br&gt;&lt;font size="28" color="#ACE1E5"&gt; &amp;#8226; 探路者头衔&lt;/font&gt;&lt;br&gt;&lt;font size="28" color="#ACE1E5"&gt; &amp;#8226; 欧胡鼠鲨目横幅&lt;/font&gt;&lt;br&gt;&lt;font size="28" color="#ACE1E5"&gt; &amp;#8226; 珊瑚之哀横幅框&lt;/font&gt;&lt;br&gt;&lt;font size="28" color="#ACE1E5"&gt; &amp;#8226; 装饰鳞片迷彩&lt;/font&gt;&lt;br&gt;&lt;font size="28" color="#ACE1E5"&gt; &amp;#8226; Harasser和Flash均可装配的飞溅轮胎痕迹！&lt;/font&gt;&lt;br&gt;&lt;br&gt;咱们沙滩见！</str>
+  <str key="4228038823-ucdt" type="ucdt" originalKey="4228038823">扫描中型鱼类</str>
+  <str key="4228057095-ucdt" type="ucdt" originalKey="4228057095">苏卡尔担任阿努氏的使者一职，负责向那些反对Vanu Sovereignty的人降下喷气式神罚和开解。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;此装甲仅适用于VS轻型突击兵。&lt;/font&gt;</str>
+  <str key="4229859539-ucdt" type="ucdt" originalKey="4229859539">守卫生物实验室2次。</str>
+  <str key="4230262549-ucdt" type="ucdt" originalKey="4230262549">NE荒原幸存者头盔</str>
+  <str key="4237130961-ucdt" type="ucdt" originalKey="4237130961">纳能装甲</str>
+  <str key="4245087127-ucdt" type="ucdt" originalKey="4245087127">NS "Primed Lapis"碎片</str>
+  <str key="4251461199-ucdt" type="ucdt" originalKey="4251461199">头衔：爱心轰炸机</str>
+  <str key="4252428641-ucdt" type="ucdt" originalKey="4252428641">月度会员礼包</str>
+  <str key="4255632701-ucdt" type="ucdt" originalKey="4255632701">VEX-B协议数据点：铜质勋章</str>
+  <str key="4259457382-ucdt" type="ucdt" originalKey="4259457382">爱心轰炸机手雷，能&lt;br&gt;对步兵目标造成严重杀伤。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;3秒引信。&lt;/font&gt;</str>
+  <str key="4260284982-ucdt" type="ucdt" originalKey="4260284982">Shard, Kaelen</str>
+  <str key="4268924663-ucdt" type="ucdt" originalKey="4268924663">悬挂式弹药6</str>
+  <str key="4270999204-ucdt" type="ucdt" originalKey="4270999204">应用纳能技术的医疗枪，用于治疗或复活步兵。多亏了Auraxis人民的慷慨捐赠，Vanu Sovereignty的战斗医疗兵能够向他们阵营的忠诚死士注入额外的狂热。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;按下射击键治疗目标，按下瞄准键复活目标。&lt;/font&gt;Extra Life版使用默认物品的技能线。</str>
+  <str key="4271518279-ucdt" type="ucdt" originalKey="4271518279">授予“Corsair”前缀头衔。</str>
+  <str key="4275767864-ucdt" type="ucdt" originalKey="4275767864">你有试过将它打开然后关闭吗？</str>
+  <str key="4276587129-ucdt" type="ucdt" originalKey="4276587129">用爱心轰炸机喇叭分享你的爱。</str>
+  <str key="4283652885-ucdt" type="ucdt" originalKey="4283652885">Velor, Seln</str>
+  <str key="4285399092-ucdt" type="ucdt" originalKey="4285399092">Genudine Multiplanetary最初为私人军事承包商“鱼鹰防御（Osprey Defense）”制造了这款刀。其设计轻巧坚固，在PMC集团中非常受欢迎。</str>
+  <str key="4286610469-ucdt" type="ucdt" originalKey="4286610469">NSO-D“Golem Suneater”头盔</str>
+  <str key="4293309146-ucdt" type="ucdt" originalKey="4293309146">扫描中型鱼类30次</str>
+  <str key="4293577077-ucdt" type="ucdt" originalKey="4293577077">&lt;font color="#9b4eb6"&gt;紫色装饰鳞片动态迷彩&lt;/font&gt;</str>
+</root>

@@ -435,7 +435,7 @@
   <str key="2506723738-ucdt" type="ucdt" originalKey="2506723738">Reduces damage taken from C4</str>
   <str key="2506851744-ucdt" type="ucdt" originalKey="2506851744">Failed to remove the squad from the platoon.</str>
   <str key="2507146550-ugdt" type="ugdt" originalKey="2507146550">VS Engineer Shield 2 Placeholder</str>
-  <str key="2507162349-ucdt" type="ucdt" originalKey="2507162349">Increases the time required for seeking weapons to establish a lock by 0.75 seconds and reduces the mini-map auto-detect range of the vehicle to 25 meters.</str>
+  <str key="2507162349-ucdt" type="ucdt" originalKey="2507162349">Increases the time required for seeking weapons to establish a lock by 0.75 seconds and reduces the mini-map auto-detect range of the vehicle to 25 meters; also generates a cloaking bubble when the vehicle is deployed.</str>
   <str key="2507472787-ucdt" type="ucdt" originalKey="2507472787">Increases the maximum ammo capacity of the weapon by 120 rounds.</str>
   <str key="2507473689-ucdt" type="ucdt" originalKey="2507473689">Flash Gold Bumper 005 Description</str>
   <str key="2507653314-ucdt" type="ucdt" originalKey="2507653314">Andvari Containment Site</str>
@@ -801,7 +801,7 @@
   <str key="2535442072-ucdt" type="ucdt" originalKey="2535442072">Repair Drone 2</str>
   <str key="2535451599-ucdt" type="ucdt" originalKey="2535451599">Apply the single use Digital camo pattern to your weapon. TR use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
   <str key="2535535348-ucdt" type="ucdt" originalKey="2535535348">Activate to override the Defector's cooling system regulators turning it into a walking bomb that explodes at the end of 12 seconds, dealing heavy damage to you and nearby enemies. While active, you gain 36% additional armor, lose 10% movement speed, and weapons no longer produce heat. If killed before the countdown is complete, you will be defused.</str>
-  <str key="2535535923-ucdt" type="ucdt" originalKey="2535535923">This controls the maximum number of sounds that can be playing at the same time. A higher value may result in a richer soundscape, but may also decrease performance. (Default 128)</str>
+  <str key="2535535923-ucdt" type="ucdt" originalKey="2535535923">This controls the maximum number of sounds that can be playing at the same time. A higher value may result in a richer soundscape, but may also decrease performance. (Default 196)</str>
   <str key="2535555772-ucdt" type="ucdt" originalKey="2535555772">Apply the single use Northern Forest camo pattern to your vehicle. TR use only. Single use camo can only be applied to one loadout one time and must be used on this character.</str>
   <str key="2535581600-ugdt" type="ugdt" originalKey="2535581600">TR Combat Medic</str>
   <str key="2535600260-ucdt" type="ucdt" originalKey="2535600260">Hubcaps 030 (DNT)</str>
@@ -930,7 +930,7 @@
   <str key="2544726140-ucdt" type="ucdt" originalKey="2544726140">Bolster Deployment Shield 1</str>
   <str key="2544778686-ucdt" type="ucdt" originalKey="2544778686">Adds the Chrome Outlaw S4 Bumper to the Harasser.  All factions can use this gear.</str>
   <str key="2544799892-ucdt" type="ucdt" originalKey="2544799892">Phazer Z11 Helmet</str>
-  <str key="2544897415-ucdt" type="ucdt" originalKey="2544897415">Recon Drone 5 Description</str>
+  <str key="2544897415-ucdt" type="ucdt" originalKey="2544897415">Engineers used the latest version of Recon Drone and completely removed the camera module to install the Advanced Sensor System equipped with darklight. Now, the Drone operator can use darklight technology and improved AI to spot and track cloaked targets.</str>
   <str key="2544908336-ugdt" type="ugdt" originalKey="2544908336">Specialist</str>
   <str key="2544931586-ucdt" type="ucdt" originalKey="2544931586">Unlock Pistol</str>
   <str key="2544980008-ugdt" type="ugdt" originalKey="2544980008">Bone Fragments Vehicle Camo</str>
