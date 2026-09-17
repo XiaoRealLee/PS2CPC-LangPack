@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+  <str key="296645918-ucdt" type="ucdt" originalKey="296645918">Grants the Nano-Regen Grenade the ability to not only heal allies, but also damage enemies.</str>
+  <str key="1770565520-ucdt" type="ucdt" originalKey="1770565520">Anticheat has detected suspicious activity. You were kicked by the server.</str>
+  <str key="1871838936-ucdt" type="ucdt" originalKey="1871838936">Corrosive Charge</str>
+  <str key="2213692957-ugdt" type="ugdt" originalKey="2213692957">Corrosive Charge</str>
+  <str key="3262903251-ucdt" type="ucdt" originalKey="3262903251">Selective Nanites</str>
+  <str key="3891117842-ucdt" type="ucdt" originalKey="3891117842">Alters Repair Grenades to grant them both support and offensive capability.</str>
+  <str key="3951423501-ugdt" type="ugdt" originalKey="3951423501">Selective Nanites</str>
+</root>
